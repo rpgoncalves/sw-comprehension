@@ -1,0 +1,20 @@
+Include
+	Comments
+	Identifiers
+
+Exclude
+	Java keywords
+	numbers
+	special strings
+	programming tokens
+	imports declarations
+	package declarations
+	stop words
+	terms that have two or fewer characters (maybe customize the number)
+
+Split identifiers with CamelCase and include both
+Stem using Porter stemmer
+
+Compute
+	(tf) term frequency
+	(df) document frequency
