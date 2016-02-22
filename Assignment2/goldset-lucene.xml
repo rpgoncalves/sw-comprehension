@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bug_reports>
+
+<bug_report id="LUCENE-7018">
+	<title>GeoPoint queries on multi-valued GeoPointField documents can be slow</title>
+	<description>In 5.4 5.4.1 a known bug remains for GeoPoint queries. When filtering over docvalues for a multi-valued document all values were checked regardless of an existing match. This performance bug was fixed in LUCENE 6951 and needs to be back ported to 5.4.</description>
+	<system_version>v5.4</system_version>
+	
+	<change_set>
+		<system_revision>1722017</system_revision>
+		<modified_methods>
+			  <method id="boolean_GeoPointInPolygonQuery.cellWithin_double_double_double_double">
+				  <signature>boolean cellWithin(final double, final double, final double, final double)</signature>
+				  <file>lucene/sandbox/src/java/org/apache/lucene/search/GeoPointInPolygonQuery.java</file>
+			  </method>
+			
+			  <method id="Weight_GeoPointTermQueryConstantScoreWrapper.createWeight_IndexSearcher_boolean">
+				  <signature>Weight createWeight(IndexSearcher, boolean)</signature>
+				  <file>lucene/sandbox/src/java/org/apache/lucene/search/GeoPointTermQueryConstantScoreWrapper.java</file>
+			  </method>
+		
+		</modified_methods>
+	</change_set>
+</bug_report>
+
+
+
+
+
+<bug_report id="LUCENE-6964">
+
+<title>Small changes in expressions module</title>
+<description>This patch is not really worth an issue, but it has 2 small changes in expression's JavaScriptCompiler:
+	On the OpenJDK mailinglists from time to time people want to have "nice stack traces" (this got worse with Lambda expressions). Since Java 8u60 they now hide some stack frames automatically. Under discussion was to use the "synthetic" bytecode attribute for that. They did not do that; instead they have a new annotation (@LambdaForm.Hidden). In any case, I will remove the synthetic annotation from the generated class file, because it is not really applicable (and also brings nothing): "A class member that does not appear in the source code must be marked using a Synthetic attribute, or else it must have its ACC_SYNTHETIC flag set. The only exceptions to this requirement are compiler-generated methods which are not considered implementation artifacts, namely the instance initialization method representing a default constructor of the Java programming language (§2.9), the class initialization method (§2.9), and the Enum.values() and Enum.valueOf() methods.". In our case the expressions class has source code (just not Java), so we should not make it synthetic. So there is also no risk that the stack frames get hidden in future (if OpenJDK thinks different).
+	The code has currently some string-based method signatures. They tend to get broken because we have no compile-time checks. I replaced those with compile-time class constants using Java 7's MethodType to create the descriptor. For me the code is more readable. The change is a no-op as its constants only.
+</description>
+<system_version>5.4</system_version>
+
+<change_set>
+  <system_revision>1723028</system_revision>
+  <modified_methods>
+    <method id="void_JavascriptCompiler.generateClass_ParseTree_ClassWriter_Map_String, Integer_">
+      <signature> void generateClass(final ParseTree, final ClassWriter, final Map_String, Integer_)</signature>
+      <file>lucene/expressions/src/java/org/apache/lucene/expressions/js/JavascriptCompiler.java</file>
+    </method>
+  </modified_methods>
+</change_set>
+</bug_report>
+
+
+
+
+
+<bug_report id="LUCENE-6961">
+
+<title>Improve Exception handling in AnalysisFactory SPI loader</title>
+<description>Currently the AnalysisSPILoader used by AbstractAnalysisFactory uses a catch Exception block when invoking the constructor. If the constructor throws stuff like IllegalArgumentExceptions or similar, this is hidden inside InvocationTargetException, which gets wrapped in IllegalArgumentException. This is not useful.
+This patch will:
+	Only catch ReflectiveOperationException
+	If it is InvocationTargetException it will rethrow the cause, if it is unchecked. Otherwise it will wrap in RuntimeException
+	If the constructor cannot be called at all (reflective access denied, method not found,...) UOE is thrown with explaining message.
+This patch will be required by next version of LUCENE 6958 
+</description>
+<system_version>5.4</system_version>
+
+<change_set>
+  <system_revision>1722992</system_revision>
+  <modified_methods>
+    <method id="S_newInstance_String_Map_String,String_">
+      <signature> S newInstance(String, Map_String,String_)</signature>
+      <file>lucene/analysis/common/src/java/org/apache/lucene/analysis/util/AnalysisSPILoader.java</file>
+    </method>
+
+    <method id="_T extends AbstractAnalysisFactory_ T_AnalysisSPILoader.newFactoryInstance_Class_T__Map_String,String_ args">
+      <signature>_T extends AbstractAnalysisFactory_ T newFactoryInstance(Class_T_, Map_String,String_)</signature>
+      <file>lucene/analysis/common/src/java/org/apache/lucene/analysis/util/AnalysisSPILoader.java</file>
+    </method>
+
+    <method id="void_TestAllAnalyzersHaveFactories.test">
+      <signature>void test() </signature>
+      <file>lucene/analysis/common/src/test/org/apache/lucene/analysis/core/TestAllAnalyzersHaveFactories.java</file>
+    </method>
+  </modified_methods>
+</change_set>
+</bug_report>
+
+
+
+
+
+<bug_report id="LUCENE-6958">
+<title>Improve CustomAnalyzer to also allow to specify factory directly (for compile-time safety)</title>
+<description>Currently CustomAnalyzer only allows to specify the SPI names of factories. As the fluent builder pattern is mostly used inside Java code, it is better for type safety to optionally also specify the factory class directly (using compile-time safe patterns like .withTokenizer(WhitespaceTokenizerFactory.class)). With the string names, you get the error only at runtime. Of course this does not help with wrong, spelled parameter names, but it also has the side effect that you can click on the class name in your code to get javadocs with the parameter names.
+This issue will add this functionality and update the docs/example.
+Thanks to Shai Erera for suggesting this!
+</description>
+<system_version>5.4</system_version>
+
+<change_set>
+  <system_revision>1723013</system_revision>
+  <modified_methods>
+
+    <method id="_T extends AbstractAnalysisFactory_ T_AnalysisSPILoader.newFactoryClassInstance_Class_T__Map_String,String_">
+      <signature>_T extends AbstractAnalysisFactory_ T newFactoryClassInstance(Class_T_, Map_String,String_)</signature>
+      <file>llucene/analysis/common/src/java/org/apache/lucene/analysis/util/AnalysisSPILoader.java</file>
+    </method>
+
+    <method id="void_TestCustomAnalyzer.testStopWordsFromClasspath">
+      <signature> void testStopWordsFromClasspath()</signature>
+      <file>lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.java </file>
+    </method>
+
+    <method id="void_TestCustomAnalyzer.testStopWordsFromClasspath">
+      <signature> void testStopWordsFromClasspath() </signature>
+      <file>lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.java </file>
+    </method>
+
+  </modified_methods>
+</change_set>
+</bug_report>
+
+
+
+
+
+<bug_report id="LUCENE-7002">
+<title>MultiCollector throws NPE when there is CollectTerminatedException is thrown by a subcollector</title>
+<description>
+I am seeing this in our log:
+Caused by: java.lang.NullPointerException
+        at org.apache.lucene.search.MultiCollector$MultiLeafCollector.setScorer(MultiCollector.java:156)
+        at org.apache.lucene.search.BooleanScorer$1$1.setScorer(BooleanScorer.java:50)
+        at org.apache.lucene.search.Weight$DefaultBulkScorer.score(Weight.java:166)
+        at org.apache.lucene.search.BooleanScorer$1.score(BooleanScorer.java:59)
+        at org.apache.lucene.search.BooleanScorer$BulkScorerAndDoc.score(BooleanScorer.java:90)
+        at org.apache.lucene.search.BooleanScorer.scoreWindowSingleScorer(BooleanScorer.java:313)
+        at org.apache.lucene.search.BooleanScorer.scoreWindow(BooleanScorer.java:336)
+        at org.apache.lucene.search.BooleanScorer.score(BooleanScorer.java:364)
+        at org.apache.lucene.search.BulkScorer.score(BulkScorer.java:39)
+        at org.apache.lucene.search.IndexSearcher.search(IndexSearcher.java:821)
+        at org.apache.lucene.search.IndexSearcher$5.call(IndexSearcher.java:763)
+        at org.apache.lucene.search.IndexSearcher$5.call(IndexSearcher.java:760)
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+Looks like
+MultiCollector.removeCollector(i)
+is called on line 176, the loop:
+for (LeafCollector c : collectors) {
+        c.setScorer(scorer);
+}
+in setScorer can still step on it, on line 155.
+I am however, unable to reproduce that with a unit test.
+I made a copy of this class and added a null check in setScorer() and the problem goes away.
+</description>
+<system_version>5.4</system_version>
+
+<change_set>
+  <system_revision>8e1e38c937953b2609dbe2a59b0deba2a790d502</system_revision>
+  <modified_methods>
+
+    <method id="void_MultiCollector.setScorer_Scorer">
+      <signature> void setScorer(Scorer)</signature>
+      <file>lucene/core/src/java/org/apache/lucene/search/MultiCollector.java  </file>
+    </method>
+  </modified_methods>
+</change_set>
+</bug_report>
+
+</bug_reports>

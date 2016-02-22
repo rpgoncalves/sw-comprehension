@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_reports>
+
+	<bug_report id="Bug 481000">
+		
+		<title>[1.9] Support Unicode 7.0 in ECJ</title>
+		<description>Unicode 7.0 support is slated to be one of the features for Java 9 (JEP 227). When it is confirmed, we should upgrade the compiler to support Unicode 7.0.
+
+		See bug 426214 for how it was done in 1.8.</description>
+		<system_version>4.5</system_version>
+		
+		<change_set>
+			<system_revision>Ifc152df0a1392abfd111e66ec33813641f6002a0</system_revision>
+			<modified_methods>
+			
+				<method id="Test_IncrementalTests18.suite">
+					<signature>public static Test suite()</signature>
+					<file>org.eclipse.jdt.core.tests.builder/src/org/eclipse/jdt/core/tests/builder/IncrementalTests18.java</file>
+				</method>
+				<method id="void_AbstractRegressionTest.compileAndDeploy_String_String_String">
+					<signature>protected void compileAndDeploy(String source, String directoryName, String className)</signature>
+					<file>org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/AbstractRegressionTest.java</file>
+				</method>
+				<method id="void_BatchCompilerTest.test012">
+					<signature>public void test012()</signature>
+					<file>org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/BatchCompilerTest.java</file>
+				</method>
+				<method id="Test_TestAll.suite">
+					<signature>public static Test suite()</signature>
+					<file>org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/TestAll.java</file>
+				</method>
+				<method id="void_AbstractCompilerTest.buildAllCompliancesTestSuite_TestSuite_Class">
+					<signature>public static void buildAllCompliancesTestSuite(TestSuite suite, Class evaluationTestClass)</signature>
+					<file>org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/util/AbstractCompilerTest.java</file>
+				</method>
+				<method id="Test_AbstractCompilerTest.buildAllCompliancesTestSuite_Class_Class_List">
+					<signature>public static Test buildAllCompliancesTestSuite(Class testSuiteClass, Class setupClass, List testClasses)</signature>
+					<file>org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/util/AbstractCompilerTest.java</file>
+				</method>
+				<method id="Test_AbstractCompilerTest.buildMinimalComplianceTestSuite_Class_int">
+					<signature>public static Test buildMinimalComplianceTestSuite(Class evaluationTestClass, int minimalCompliance)</signature>
+					<file>org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/util/AbstractCompilerTest.java</file>
+				</method>
+				<method id="Test_AbstractCompilerTest.buildUniqueComplianceTestSuite_Class_long">
+					<signature>public static Test buildUniqueComplianceTestSuite(Class evaluationTestClass, long uniqueCompliance)</signature>
+					<file>org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/util/AbstractCompilerTest.java</file>
+				</method>
+				<method id="long_AbstractCompilerTest.highestComplianceLevels">
+					<signature>public static long highestComplianceLevels()</signature>
+					<file>org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/util/AbstractCompilerTest.java</file>
+				</method>
+				<method id="int_AbstractCompilerTest.getPossibleComplianceLevels">
+					<signature>public static int getPossibleComplianceLevels()</signature>
+					<file>org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/util/AbstractCompilerTest.java</file>
+				</method>
+				<method id="Map_AbstractCompilerTest.getCompilerOptions">
+					<signature>protected Map getCompilerOptions()</signature>
+					<file>org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/util/AbstractCompilerTest.java</file>
+				</method>
+				<method id="void_Main.configure_String[]">
+					<signature>public void configure(String[] argv)</signature>
+					<file>org.eclipse.jdt.core/batch/org/eclipse/jdt/internal/compiler/batch/Main.java</file>
+				</method>
+				<method id="void_Main.validateOptions_boolean">
+					<signature>protected void validateOptions(boolean didSpecifyCompliance)</signature>
+					<file>org.eclipse.jdt.core/batch/org/eclipse/jdt/internal/compiler/batch/Main.java</file>
+				</method>
+				<method id="String_CompilerOptions.versionFromJdkLevel_long">
+					<signature>public static String versionFromJdkLevel(long jdkLevel)</signature>
+					<file>org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/impl/CompilerOptions.java</file>
+				</method>
+				<method id="void_ScannerHelper.initializeTable17">
+					<signature>static void initializeTable17()</signature>
+					<file>org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/parser/ScannerHelper.java</file>
+				</method>
+				<method id="boolean_ScannerHelper.isJavaIdentifierPart_long_int">
+					<signature>public static boolean isJavaIdentifierPart(long complianceLevel, int codePoint)</signature>
+					<file>org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/parser/ScannerHelper.java</file>
+				</method>
+				<method id="boolean_ScannerHelper.isJavaIdentifierStart_long_int">
+					<signature>public static boolean isJavaIdentifierStart(long complianceLevel, int codePoint)</signature>
+					<file>org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/parser/ScannerHelper.java</file>
+				</method>
+				
+			</modified_methods>
+		</change_set>
+	</bug_report>
+	
+	<bug_report id="Bug 470614">
+		
+		<title>[1.9] support 1.9 as compiler compliance level</title>
+		<description>For bug 470613, we need support for the 1.9 compiler compliance level. For now, JavaCore#setComplianceOptions(String, Map) should set source and target levels to 1.8 when the given compliance is 1.9.</description>
+		<system_version>4.5</system_version>
+		
+		<change_set>
+			<system_revision>58c7e43d6b1d9b8f6267d28a8f8c2820be5edb2e (patch)</system_revision>
+			<modified_methods>
+			
+				<method id="void_JavaCore.setComplianceOptions_String_Map">
+					<signature>public static void setComplianceOptions(String compliance, Map options)</signature>
+					<file>org.eclipse.jdt.core/model/org/eclipse/jdt/core/JavaCore.java</file>
+				</method>
+				<method id="long_Util.getJdkLevel_Object">
+					<signature>public static long getJdkLevel(Object targetLibrary)</signature>
+					<file>org.eclipse.jdt.core/model/org/eclipse/jdt/internal/core/util/Util.java</file>
+				</method>
+				
+			</modified_methods>
+		</change_set>
+	</bug_report>
+	
+	<bug_report id="Bug 473343">
+		
+		<title>IllegalArgumentException in Util.scanTypeSignature (1237)</title>
+		<description>The following incident was reported via the automated error reporting:
+
+		
+		    code:                   10.001
+		    plugin:                 org.eclipse.jdt.ui_3.11.0.v20150527-0925
+		    message:                Internal Error
+		    fingerprint:            a7c2ac4a
+		    exception class:        java.lang.IllegalArgumentException
+		    exception message:      -
+		    number of children:     0
+		    
+		    java.lang.IllegalArgumentException: null
+		    at org.eclipse.jdt.internal.compiler.util.Util.scanTypeSignature(Util.java:1237)
+		    at org.eclipse.jdt.internal.compiler.util.Util.scanTypeArgumentSignature(Util.java:1566)
+		    at org.eclipse.jdt.core.Signature.getTypeArguments(Signature.java:2215)
+		    at org.eclipse.jdt.internal.core.util.Util.getAllTypeArguments(Util.java:2801)
+		    at org.eclipse.jdt.internal.core.search.matching.MethodPattern. init (MethodPattern.java:173)
+		    at org.eclipse.jdt.core.search.SearchPattern.createPattern(SearchPattern.java:2059)
+		    at org.eclipse.jdt.internal.corext.callhierarchy.CallerMethodWrapper.findChildren(CallerMethodWrapper.java:144)
+		    at org.eclipse.jdt.internal.corext.callhierarchy.MethodWrapper.performSearch(MethodWrapper.java:302)
+		    at org.eclipse.jdt.internal.corext.callhierarchy.MethodWrapper.doFindChildren(MethodWrapper.java:233)
+		    at org.eclipse.jdt.internal.corext.callhierarchy.MethodWrapper.getCalls(MethodWrapper.java:85)
+		    at org.eclipse.jdt.internal.ui.callhierarchy.DeferredMethodWrapper.getCalls(DeferredMethodWrapper.java:65)
+		    at org.eclipse.jdt.internal.ui.callhierarchy.DeferredMethodWrapper.fetchDeferredChildren(DeferredMethodWrapper.java:79)
+		    at org.eclipse.ui.progress.DeferredTreeContentManager$1.run(DeferredTreeContentManager.java:232)
+		    at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+		   
+		  
+		
+		General Information:
+		
+		    reported-by:      richard
+		    anonymous-id:     936b0120-9684-4bd2-8ac1-62e930de41ca
+		    eclipse-build-id: 4.5.0.I20150603-2000
+		    eclipse-product:  org.eclipse.epp.package.dsl.product
+		    operating system: Windows8 6.2.0 (x86_64) - win32
+		    jre-version:      1.8.0_45-b15
+		
+		The following plug-ins were present on the execution stack (*):
+		    1. org.eclipse.core.jobs_3.7.0.v20150330-2103
+		    2. org.eclipse.jdt_3.11.0.v20150603-2000
+		    3. org.eclipse.jdt.core_3.11.0.v20150602-1242
+		    4. org.eclipse.jdt.ui_3.11.0.v20150527-0925
+		    5. org.eclipse.ui_3.107.0.v20150507-1945
+		
+		Please note that:
+		* Messages, stacktraces, and nested status objects may be shortened.
+		* Bug fields like status, resolution, and whiteboard are sent
+		  back to reporters.
+		* The list of present bundles and their respective versions was
+		  calculated by package naming heuristics. This may or may not reflect reality.
+		
+		Other Resources:
+		* Report: https://dev.eclipse.org/recommenders/committers/confess/#/problems/558eb81de4b08735226af3dd  
+		* Manual: https://dev.eclipse.org/recommenders/community/confess/#/guide
+		
+		
+		Thank you for your assistance.
+		Your friendly error-reports-inbox.</description>
+		<system_version>4.5</system_version>
+		
+		<change_set>
+			<system_revision>Iaec947baf6ea1e8f7e77ee90fab6d400cba98bcb</system_revision>
+			<modified_methods>
+			
+				<method id="ICompilationUnit_HierarchyBuilder.createCompilationUnitFromPath_Openable_IFile">
+					<signature>protected ICompilationUnit createCompilationUnitFromPath(Openable handle, IFile file)</signature>
+					<file>org.eclipse.jdt.core/model/org/eclipse/jdt/internal/core/hierarchy/HierarchyBuilder.java</file>
+				</method>
+				<method id="char[]_ResourceCompilationUnit.getContents">
+					<signature>public char[] getContents()</signature>
+					<file>org.eclipse.jdt.core/model/org/eclipse/jdt/internal/core/util/ResourceCompilationUnit.java</file>
+				</method>
+				<method id="NameEnvironmentAnswer_ClasspathSourceDirectory.findClass_String_String_String">
+					<signature>public NameEnvironmentAnswer findClass(String sourceFileWithoutExtension, String qualifiedPackageName, String qualifiedSourceFileWithoutExtension)</signature>
+					<file>org.eclipse.jdt.core/search/org/eclipse/jdt/internal/core/search/matching/ClasspathSourceDirectory.java</file>
+				</method>
+				
+			</modified_methods>
+		</change_set>
+	</bug_report>
+	
+	<bug_report id="Bug 479408">
+		
+		<title>[1.9] Support JDK 9 when run with JRE 8</title>
+		<description>It is now possible to load JRE 9 images from within JRE 8. The page [1] talks about it a bit. Even though Oracle has said JRE 7 is not in the picture, it will be nice to get this update to JDT.
+
+		The idea seems to be loading the JRE 9 image through the class loader of the jrt-fs.jar that is present in JAVA 9 home.</description>
+		<system_version>4.5</system_version>
+		
+		<change_set>
+			<system_revision>47951bc74ff786f2e135fc227fd365dcdb97cd7a (patch)</system_revision>
+			<modified_methods>
+			
+				<method id="JimageFileSystem_JimageUtil.getJimageSystem_File">
+					<signature>public static JimageFileSystem getJimageSystem(File image)</signature>
+					<file>org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/util/JimageUtil.java</file>
+				</method>
+				<method id="InputStream_JimageUtil.getContentFromJimage_String_String">
+					<signature>public InputStream getContentFromJimage(String fileName, String module)</signature>
+					<file>org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/util/JimageUtil.java</file>
+				</method>
+				<method id="byte[]_JimageUtil.getClassfileContent_String_String">
+					<signature>public byte[] getClassfileContent(String fileName, String module)</signature>
+					<file>org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/util/JimageUtil.java</file>
+				</method>
+				<method id="void_JimageUtil.walkModuleImage_JimageUtil.JimageVisitor java.nio.file.Path _boolean_int">
+					<signature>void walkModuleImage(final JimageUtil.JimageVisitor java.nio.file.Path visitor, boolean visitPackageMapping, final int notify)</signature>
+					<file>org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/util/JimageUtil.java</file>
+				</method>
+				<method id="void_SourceMapper.computeAllRootPaths_IType">
+					<signature>private synchronized void computeAllRootPaths(IType type)</signature>
+					<file>org.eclipse.jdt.core/model/org/eclipse/jdt/internal/core/SourceMapper.java</file>
+				</method>
+				
+			</modified_methods>
+		</change_set>
+	</bug_report>
+
+	<bug_report id="Bug 449824">
+		
+		<title>[1.8] Difference in behaviour with method references and lambdas</title>
+		<description>The following code fails to compile in Java 1.8.0_11 but succeeds in Eclipse 4.5M3 and 4.4.1; however, converting the method reference to a lambda (or uncommenting the line) results in a compile error for both</description>
+		<system_version>4.5</system_version>
+		
+		<change_set>
+			<system_revision>I27e47d485c3e89973e06f4037a9e53c0d8b09b46</system_revision>
+			<modified_methods>
+			
+				<method id="boolean_ReferenceExpression.sIsMoreSpecific_TypeBinding_TypeBinding_Scope">
+					<signature>public boolean sIsMoreSpecific(TypeBinding s, TypeBinding t, Scope scope)</signature>
+					<file>org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ast/ReferenceExpression.java</file>
+				</method>
+				
+			</modified_methods>
+		</change_set>
+	</bug_report>
+	
+</bug_reports>
