@@ -1,0 +1,481 @@
+
+
+
+TITLE : ************************************
+
+
+
+title: GeoPoint queries on multi-valued GeoPointField documents can be slow
+
+querystr: geopoint geo point queri multivalu geopointfield geo point field docum slow 
+Found 20 hits
+1. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/sandbox/src/test/org/apache/lucene/search/TestGeoPointQuery.javavoid_beforeClass__.corpus
+2. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/sandbox/src/java/org/apache/lucene/search/GeoPointTermsEnum.javashort_computeMaxShift__.corpus
+3. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/sandbox/src/test/org/apache/lucene/search/TestGeoPointQuery.javavoid_addPointToDoc_String,_Document,_double,_double_.corpus
+4. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/test/org/apache/lucene/geo3d/PlaneTest.javavoid_testInterpolation__.corpus
+5. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoDegeneratePoint.javaGeoPoint_getCenter__.corpus
+6. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial/src/test/org/apache/lucene/spatial/spatial4j/Geo3dShapeRectRelationTestCase.javaPoint_geoPointToSpatial4jPoint_GeoPoint_.corpus
+7. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoPoint.javaGeoPoint_double,_double,_double_.corpus
+8. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/Bounds.javaBounds_addPoint_GeoPoint_.corpus
+9. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoDegenerateHorizontalLine.javaGeoPoint_getCenter__.corpus
+10. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoDegenerateLatitudeZone.javaGeoPoint_getCenter__.corpus
+11. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoDegenerateLongitudeSlice.javaGeoPoint_getCenter__.corpus
+12. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoDegenerateVerticalLine.javaGeoPoint_getCenter__.corpus
+13. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoLatitudeZone.javaGeoPoint_getCenter__.corpus
+14. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoLongitudeSlice.javaGeoPoint_getCenter__.corpus
+15. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoNorthLatitudeZone.javaGeoPoint_getCenter__.corpus
+16. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoRectangle.javaGeoPoint_getCenter__.corpus
+17. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoSouthRectangle.javaGeoPoint_getCenter__.corpus
+18. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoWideDegenerateHorizontalLine.javaGeoPoint_getCenter__.corpus
+19. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoWideLongitudeSlice.javaGeoPoint_getCenter__.corpus
+20. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoWideNorthRectangle.javaGeoPoint_getCenter__.corpus
+
+
+
+title: Small changes in expressions module
+
+querystr: small chang expres modul 
+Found 20 hits
+1. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/tools/src/java/org/apache/lucene/validation/ivyde/IvyNodeElement.javavoid_setModuleRevisionId_ModuleRevisionId_.corpus
+2. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/tools/src/java/org/apache/lucene/validation/ivyde/IvyNodeElement.javaModuleRevisionId_getModuleRevisionId__.corpus
+3. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/tools/src/java/org/apache/lucene/dependencies/GetMavenDependenciesTask.javaString_antProjectToArtifactName_String_.corpus
+4. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/test/org/apache/solr/cloud/KerberosTestUtil.javaString_getKrb5LoginModuleName__.corpus
+5. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/NegativeLambdaExpressionsTest.javavoid_test435397__.corpus
+6. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/test/org/apache/solr/core/QueryResultKeyTest.javaint[]_smallArrayOfRandomNumbers__.corpus
+7. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/search/facet/FacetModule.javaString_getDescription__.corpus
+8. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/similarities/BM25Similarity.javabyte_encodeNormValue_float,_int_.corpus
+9. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/tools/src/java/org/apache/lucene/dependencies/GetMavenDependenciesTask.javavoid_setModuleDependenciesPropertiesFile_File_.corpus
+10. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/util/SmallFloat.javaSmallFloat__.corpus
+11. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/tools/src/java/org/apache/lucene/validation/ivyde/IvyNodeElement.javaString_getName__.corpus
+12. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/tools/src/java/org/apache/lucene/validation/ivyde/IvyNodeElement.javaString_getOrganization__.corpus
+13. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/tools/src/java/org/apache/lucene/validation/ivyde/IvyNodeElement.javaString_getRevision__.corpus
+14. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/tools/src/java/org/apache/lucene/dependencies/GetMavenDependenciesTask.javavoid_collectExternalDependenciesFromIvyXmlFile_File_.corpus
+15. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/tools/src/java/org/apache/lucene/validation/ivyde/IvyNodeElementAdapter.javavoid_findConflictsBeneathNode_IvyNodeElement_.corpus
+16. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/tools/src/java/org/apache/lucene/dependencies/GetMavenDependenciesTask.javavoid_addSharedExternalDependencies__.corpus
+17. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/util/hll/HLLUtil.javadouble_smallEstimatorCutoff_int_.corpus
+18. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/TestMultiTermConstantScore.javavoid_afterClass__.corpus
+19. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/dom/org/eclipse/jdt/core/dom/IVariableBinding.javaint_getVariableId__.corpus
+20. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/dom/org/eclipse/jdt/core/dom/InfixExpression.javavoid_setOperator_InfixExpression.Operator_.corpus
+
+
+
+title: Improve Exception handling in AnalysisFactory SPI loader
+
+querystr: improv excep handl analysisfactori analysi factori spi loader 
+Found 20 hits
+1. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/util/BaseTokenStreamFactoryTestCase.javaCharFilterFactory_charFilterFactory_String,_Version,_ResourceLoader,_String_.corpus
+2. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/util/BaseTokenStreamFactoryTestCase.javaTokenFilterFactory_tokenFilterFactory_String,_Version,_ResourceLoader,_String_.corpus
+3. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/util/BaseTokenStreamFactoryTestCase.javaTokenizerFactory_tokenizerFactory_String,_Version,_ResourceLoader,_String_.corpus
+4. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/util/BaseTokenStreamFactoryTestCase.javaAbstractAnalysisFactory_analysisFactory_Class<?_extends_AbstractAnalysisFactory>,_Version,_ResourceLoader,_String_.corpus
+5. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/java/org/apache/lucene/analysis/util/AnalysisSPILoader.javaAnalysisSPILoader_Class<S>,_ClassLoader_.corpus
+6. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/java/org/apache/lucene/analysis/util/AnalysisSPILoader.javaAnalysisSPILoader_Class<S>_.corpus
+7. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/java/org/apache/lucene/analysis/util/AnalysisSPILoader.javaAnalysisSPILoader_Class<S>,_String[]_.corpus
+8. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/java/org/apache/lucene/analysis/util/AnalysisSPILoader.javaAnalysisSPILoader_Class<S>,_String[],_ClassLoader_.corpus
+9. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/util/SPIClassIterator.javaSPIClassIterator<S>_get_Class<S>,_ClassLoader_.corpus
+10. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/core/SolrResourceLoader.javavoid_reloadLuceneSPI__.corpus
+11. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/java/org/apache/lucene/analysis/custom/CustomAnalyzer.javaT_applyResourceLoader_T_.corpus
+12. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/util/SPIClassIterator.javaSPIClassIterator_Class<S>,_ClassLoader_.corpus
+13. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/core/TestFactories.javaAbstractAnalysisFactory_initialize_Class<?_extends_AbstractAnalysisFactory>_.corpus
+14. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/core/SolrResourceLoader.javaClass<?_extends_T>_findClass_String,_Class<T>,_String_.corpus
+15. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/codecs/Codec.javaNamedSPILoader<Codec>_getLoader__.corpus
+16. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/codecs/PostingsFormat.javaNamedSPILoader<PostingsFormat>_getLoader__.corpus
+17. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/util/NamedSPILoader.javavoid_reload_ClassLoader_.corpus
+18. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/AnalyzerFactoryTask.javaClass<?_extends_T>_lookupAnalysisClass_String,_Class<T>_.corpus
+19. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/java/org/apache/lucene/analysis/util/MultiTermAwareComponent.javaAbstractAnalysisFactory_getMultiTermComponent__.corpus
+20. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/util/NamedSPILoader.javaNamedSPILoader_Class<S>_.corpus
+
+
+
+title: Improve CustomAnalyzer to also allow to specify factory directly (for compile-time safety)
+
+querystr: improv customanalyz custom analyz allow specifi factori directli compiletim safeti 
+Found 20 hits
+1. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/java/org/apache/lucene/analysis/custom/CustomAnalyzer.javaCustomAnalyzer_build__.corpus
+2. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testNullParamKey__.corpus
+3. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testNullTokenizer__.corpus
+4. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testStopWordsFromClasspath__.corpus
+5. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testWhitespaceWithFolding__.corpus
+6. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testNoTokenizer__.corpus
+7. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testNullMatchVersion__.corpus
+8. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testSetOfsGapTwice__.corpus
+9. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testSetPosIncTwice__.corpus
+10. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testSetTokenizerTwice__.corpus
+11. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/java/org/apache/lucene/analysis/custom/CustomAnalyzer.javaCustomAnalyzer_Version,_CharFilterFactory[],_TokenizerFactory,_TokenFilterFactory[],_Integer,_Integer_.corpus
+12. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testStopWordsFromFile__.corpus
+13. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testStopWordsFromFileAbsolute__.corpus
+14. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/store/FSDirectory.javaFSDirectory_open_Path,_LockFactory_.corpus
+15. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testHtmlStripClassicFolding__.corpus
+16. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testIncorrectOrder__.corpus
+17. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testMissingSPI__.corpus
+18. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testSetMatchVersionTwice__.corpus
+19. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testStopWordsFromClasspathWithMap__.corpus
+20. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/suggest/src/java/org/apache/lucene/search/spell/DirectSpellChecker.javavoid_setThresholdFrequency_float_.corpus
+
+
+
+title: MultiCollector throws NPE when there is CollectTerminatedException is thrown by a subcollector
+
+querystr: multicollector multi collector npe collectterminatedexcep collect termin excep thrown subcollector 
+Found 20 hits
+1. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/MultiCollectorTest.javavoid_testNullCollectors__.corpus
+2. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/MultiCollectorTest.javavoid_testSingleCollector__.corpus
+3. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/MultiCollectorTest.javavoid_testCollector__.corpus
+4. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/TestMultiCollector.javavoid_testSetScorerAfterCollectionTerminated__.corpus
+5. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/MultiCollector.javaCollector_wrap_Iterable<?_extends_Collector>_.corpus
+6. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/search/Grouping.javaCollector_createSecondPassCollector__.corpus
+7. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/MultiCollector.javavoid_collect_int_.corpus
+8. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/search/EarlyTerminatingCollector.javaEarlyTerminatingCollector_Collector,_int_.corpus
+9. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/TestMultiCollector.javavoid_testCollectionTerminatedExceptionHandling__.corpus
+10. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/search/EarlyTerminatingCollector.javavoid_collect_int_.corpus
+11. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/MultiCollectorTest.javavoid_testCacheScoresIfNecessary__.corpus
+12. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/search/grouping/CommandHandler.javaDocSet_computeDocSet_Query,_ProcessedFilter,_List<Collector>_.corpus
+13. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/misc/src/test/org/apache/lucene/search/TestEarlyTerminatingSortingCollector.javavoid_testTerminatedEarly__.corpus
+14. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/spans/FilterSpans.javavoid_collect_SpanCollector_.corpus
+15. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/spans/ScoringWrapperSpans.javavoid_collect_SpanCollector_.corpus
+16. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/queries/src/java/org/apache/lucene/queries/payloads/PayloadScoreQuery.javavoid_collect_SpanCollector_.corpus
+17. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/MultiCollector.javaMultiCollector_Collector_.corpus
+18. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/MultiCollector.javaLeafCollector_getLeafCollector_LeafReaderContext_.corpus
+19. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/misc/src/java/org/apache/lucene/search/EarlyTerminatingSortingCollector.javaLeafCollector_getLeafCollector_LeafReaderContext_.corpus
+20. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/facet/src/java/org/apache/lucene/facet/DrillSideways.javaDrillSidewaysResult_search_DrillDownQuery,_Collector_.corpus
+
+
+
+DESCRIPTION : ************************************
+
+
+
+description: In 5.4 5.4.1 a known bug remains for GeoPoint queries. When filtering over docvalues for a multi-valued document all values were checked regardless of an existing match. This performance bug was fixed in LUCENE 6951 and needs to be back ported to 5.4.
+
+querystr: known bug remain geopoint geo point queri when filter docvalu multivalu docum valu check regardless exist match thi perform bug fix lucen need back port 
+Found 20 hits
+1. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoConvexPolygon.javavoid_done_boolean_.corpus
+2. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoPoint.javaGeoPoint_double,_double,_double_.corpus
+3. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial/src/test/org/apache/lucene/spatial/spatial4j/Geo3dShapeRectRelationTestCase.javavoid_testGeoPolygonRect__.corpus
+4. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial/src/test/org/apache/lucene/spatial/spatial4j/Geo3dShapeRectRelationTestCase.javavoid_testGeoCircleRect__.corpus
+5. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/test/org/apache/lucene/bkdtree3d/TestGeo3DPointField.javavoid__run__.corpus
+6. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/test/org/apache/lucene/bkdtree3d/TestGeo3DPointField.javavoid_verify_double[],_double[]_.corpus
+7. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/search/SolrIndexSearcher.javaDocListAndSet_getDocListAndSet_Query,_List<Query>,_Sort,_int,_int_.corpus
+8. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/search/SolrIndexSearcher.javaDocListAndSet_getDocListAndSet_Query,_Query,_Sort,_int,_int_.corpus
+9. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/search/SolrIndexSearcher.javaDocListAndSet_getDocListAndSet_Query,_DocSet,_Sort,_int,_int,_int_.corpus
+10. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/sandbox/src/java/org/apache/lucene/search/GeoPointTermQueryConstantScoreWrapper.javaWeight_createWeight_IndexSearcher,_boolean_.corpus
+11. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/test/org/apache/lucene/geo3d/PlaneTest.javavoid_testInterpolation__.corpus
+12. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.compiler.apt/src/org/eclipse/jdt/internal/compiler/apt/model/Factory.javaObject_performNecessaryPrimitiveTypeConversion_Class<?>,_Object,_boolean_.corpus
+13. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.apt.core/src/org/eclipse/jdt/apt/core/internal/util/Factory.javaObject_performNecessaryPrimitiveTypeConversion_Class<?>,_Object,_boolean_.corpus
+14. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/Bounds.javaBounds_addXValue_GeoPoint_.corpus
+15. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/Bounds.javaBounds_addYValue_GeoPoint_.corpus
+16. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/Bounds.javaBounds_addZValue_GeoPoint_.corpus
+17. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/sandbox/src/java/org/apache/lucene/search/GeoPointTermQueryConstantScoreWrapper.javaScorer_scorer_LeafReaderContext_.corpus
+18. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoDegeneratePoint.javaGeoPoint_getCenter__.corpus
+19. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/XYZBounds.javaBounds_addPoint_GeoPoint_.corpus
+20. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/LatLonBounds.javaBounds_addXValue_GeoPoint_.corpus
+
+
+
+description: This patch is not really worth an issue, but it has 2 small changes in expression's JavaScriptCompiler:
+	On the OpenJDK mailinglists from time to time people want to have "nice stack traces" (this got worse with Lambda expressions). Since Java 8u60 they now hide some stack frames automatically. Under discussion was to use the "synthetic" bytecode attribute for that. They did not do that; instead they have a new annotation (@LambdaForm.Hidden). In any case, I will remove the synthetic annotation from the generated class file, because it is not really applicable (and also brings nothing): "A class member that does not appear in the source code must be marked using a Synthetic attribute, or else it must have its ACC_SYNTHETIC flag set. The only exceptions to this requirement are compiler-generated methods which are not considered implementation artifacts, namely the instance initialization method representing a default constructor of the Java programming language (§2.9), the class initialization method (§2.9), and the Enum.values() and Enum.valueOf() methods.". In our case the expressions class has source code (just not Java), so we should not make it synthetic. So there is also no risk that the stack frames get hidden in future (if OpenJDK thinks different).
+	The code has currently some string-based method signatures. They tend to get broken because we have no compile-time checks. I replaced those with compile-time class constants using Java 7's MethodType to create the descriptor. For me the code is more readable. The change is a no-op as its constants only.
+
+querystr: thi patch worth issu small chang expres javascriptcompil java script compil openjdk open jdk mailinglist time time peopl nice stack trace got lambda expres sinc java 8u60 hide stack frame automat under discus synthet bytecod attribut that thei did that annot lambdaformhidden lambda formhidden remov synthet annot gener file applic bring member appear sourc code mark synthet attribut accsynthet flag set the excep requir compilergener method consid implement artifact instanc initi method repres constructor java program languag initi method enumvalu enumvalueof enumvalu method expres sourc code java make synthet risk stack frame hidden futur openjdk open jdk think differ the code current stringbas method signatur thei tend broken compiletim check replac compiletim constant java methodtyp method type creat descriptor for code readabl the chang noop constant onli 
+Found 20 hits
+1. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ClassFile.javaint_generateMethodInfoAttributes_MethodBinding_.corpus
+2. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ClassFile.javavoid_addSpecialMethods__.corpus
+3. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/codegen/CodeStream.javavoid_generateSyntheticBodyForDeserializeLambda_SyntheticMethodBinding,_SyntheticMethodBinding[]_.corpus
+4. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/CompilerInvocationTests.javavoid_test012_compiler_problems_tuning__.corpus
+5. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ClassFile.javavoid_addSyntheticEnumValueOfMethod_SyntheticMethodBinding_.corpus
+6. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/JSR335ClassFileTest.javavoid_test015__.corpus
+7. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/JSR335ClassFileTest.javavoid_test017__.corpus
+8. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/JSR335ClassFileTest.javavoid_test016__.corpus
+9. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ClassFile.javaList_traverse_MethodBinding,_int,_byte[],_int,_int,_Map,_boolean_.corpus
+10. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/JSR335ClassFileTest.javavoid_test007__.corpus
+11. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/JSR335ClassFileTest.javavoid_test007a__.corpus
+12. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ClassFile.javavoid_addSyntheticDeserializeLambda_SyntheticMethodBinding,_SyntheticMethodBinding[]_.corpus
+13. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/JSR335ClassFileTest.javavoid_test012__.corpus
+14. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ClassFile.javavoid_completeCodeAttribute_int_.corpus
+15. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/JSR335ClassFileTest.javavoid_test013__.corpus
+16. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ast/ConstructorDeclaration.javavoid_internalGenerateCode_ClassScope,_ClassFile_.corpus
+17. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ClassFile.javaClassFile_SourceTypeBinding_.corpus
+18. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/JSR335ClassFileTest.javavoid_test008__.corpus
+19. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/JSR335ClassFileTest.javavoid_test014__.corpus
+20. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/model/org/eclipse/jdt/core/util/CompilationUnitSorter.javaTextEdit_sort_CompilationUnit,_Comparator,_int,_TextEditGroup,_IProgressMonitor_.corpus
+
+
+
+description: Currently the AnalysisSPILoader used by AbstractAnalysisFactory uses a catch Exception block when invoking the constructor. If the constructor throws stuff like IllegalArgumentExceptions or similar, this is hidden inside InvocationTargetException, which gets wrapped in IllegalArgumentException. This is not useful.
+This patch will:
+	Only catch ReflectiveOperationException
+	If it is InvocationTargetException it will rethrow the cause, if it is unchecked. Otherwise it will wrap in RuntimeException
+	If the constructor cannot be called at all (reflective access denied, method not found,...) UOE is thrown with explaining message.
+This patch will be required by next version of LUCENE 6958
+
+querystr: current analysisspiload analysi spi loader abstractanalysisfactori abstract analysi factori excep block invok constructor constructor stuff illegalargumentexcep illeg argum excep similar hidden invocationtargetexcep invoc target excep get wrap illegalargumentexcep illeg argum excep thi thi patch onli reflectiveoperationexcep reflect oper excep invocationtargetexcep invoc target excep rethrow caus uncheck otherw wrap runtimeexcep runtim excep constructor call reflect access deni method found uoe thrown explain messag thi patch requir version lucen 
+Found 20 hits
+1. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/core/TestFactories.javaAbstractAnalysisFactory_initialize_Class<?_extends_AbstractAnalysisFactory>_.corpus
+2. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/util/BaseTokenStreamFactoryTestCase.javaAbstractAnalysisFactory_analysisFactory_Class<?_extends_AbstractAnalysisFactory>,_Version,_ResourceLoader,_String_.corpus
+3. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/core/TestRandomChains.javaT_createComponent_Constructor<T>,_Object[],_StringBuilder_.corpus
+4. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/parser/SingleCompletionTest.javavoid_run_Class,_String_.corpus
+5. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/util/CommandLineUtil.javaFSDirectory_newFSDirectory_Class<?_extends_FSDirectory>,_Path,_LockFactory_.corpus
+6. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/util/CommandLineUtil.javaFSDirectory_newFSDirectory_Class<?_extends_FSDirectory>,_Path_.corpus
+7. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/solrj/src/java/org/apache/solr/client/solrj/io/stream/expr/StreamFactory.javaT_createInstance_Class<T>,_Class<?>[],_Object[]_.corpus
+8. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/solrj/src/java/org/apache/solr/client/solrj/impl/HttpClientUtil.javaDefaultHttpClient_createHttpClient_ClientConnectionManager_.corpus
+9. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/solrj/src/java/org/apache/solr/client/solrj/impl/HttpClientUtil.javaSystemDefaultHttpClient_createHttpClient__.corpus
+10. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/dom/org/eclipse/jdt/core/dom/AST.javaASTNode_createInstance_Class_.corpus
+11. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ReadManager.javaReadManager_ICompilationUnit[],_int_.corpus
+12. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/phonetic/src/java/org/apache/lucene/analysis/phonetic/PhoneticFilterFactory.javaEncoder_getEncoder__.corpus
+13. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/test/org/apache/solr/util/TestRandomMergePolicy.javavoid_testGetters__.corpus
+14. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/java/org/apache/lucene/analysis/util/AbstractAnalysisFactory.javaAbstractAnalysisFactory_Map<String,String>_.corpus
+15. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.model/workspace/Converter/src/junit/framework/TestCase.javavoid_runTest__.corpus
+16. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.model/workspace/Converter/src/junit/runner/BaseTestRunner.javaTest_getTest_String_.corpus
+17. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/handler/admin/SystemInfoHandler.javavoid_addMXBeanProperties_T,_Class<?_extends_T>,_NamedList<Object>_.corpus
+18. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/util/AttributeImpl.javavoid_reflectWith_AttributeReflector_.corpus
+19. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.compiler.apt/src/org/eclipse/jdt/internal/compiler/apt/model/Factory.javaObject_performNecessaryPrimitiveTypeConversion_Class<?>,_Object,_boolean_.corpus
+20. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/dom/org/eclipse/jdt/internal/core/dom/rewrite/ASTRewriteAnalyzer.javavoid_handleException_Throwable_.corpus
+
+
+
+description: Currently CustomAnalyzer only allows to specify the SPI names of factories. As the fluent builder pattern is mostly used inside Java code, it is better for type safety to optionally also specify the factory class directly (using compile-time safe patterns like .withTokenizer(WhitespaceTokenizerFactory.class)). With the string names, you get the error only at runtime. Of course this does not help with wrong, spelled parameter names, but it also has the side effect that you can click on the class name in your code to get javadocs with the parameter names.
+This issue will add this functionality and update the docs/example.
+Thanks to Shai Erera for suggesting this!
+
+querystr: current customanalyz custom analyz allow specifi spi name factori fluent builder pattern java code better type safeti option specifi factori directli compiletim safe pattern withtoken with token whitespacetokenizerfactoryclass whitespac token factoryclass with string name error runtim cours help wrong spell paramet name side effect click name code javadoc paramet name thi issu add function updat doc exampl thank shai erera suggest thi 
+Found 20 hits
+1. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/model/org/eclipse/jdt/core/jdom/IDOMMethod.javavoid_addParameter_String,_String_.corpus
+2. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/model/org/eclipse/jdt/core/IClasspathEntry.javaIPath[]_getExclusionPatterns__.corpus
+3. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/synonym/TestSynonymFilterFactory.javavoid_testAnalyzer__.corpus
+4. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/handler/component/SpellCheckComponent.javavoid_process_ResponseBuilder_.corpus
+5. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/java/org/apache/lucene/analysis/custom/CustomAnalyzer.javaBuilder_withTokenizer_String,_String_.corpus
+6. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/model/org/eclipse/jdt/core/IType.javaIField_getField_String_.corpus
+7. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/model/org/eclipse/jdt/core/IType.javaIMethod_getMethod_String,_String[]_.corpus
+8. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/search/org/eclipse/jdt/core/search/SearchPattern.javaSearchPattern_createPattern_String,_int,_int,_int_.corpus
+9. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/model/org/eclipse/jdt/core/jdom/IDOMMethod.javavoid_setReturnType_String_.corpus
+10. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/BatchCompilerTest.javavoid_test012__.corpus
+11. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/Compiler.javaCompiler_INameEnvironment,_IErrorHandlingPolicy,_Map,_ICompilerRequestor,_IProblemFactory,_boolean_.corpus
+12. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/java/org/apache/lucene/analysis/custom/CustomAnalyzer.javaBuilder_withTokenizer_String,_Map<String,String>_.corpus
+13. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/model/org/eclipse/jdt/core/jdom/IDOMMethod.javavoid_setParameters_String[],_String[]_.corpus
+14. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/model/org/eclipse/jdt/core/jdom/IDOMType.javavoid_addSuperInterface_String_.corpus
+15. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/model/org/eclipse/jdt/internal/core/ClasspathEntry.javaIJavaModelStatus_validateClasspath_IJavaProject,_IClasspathEntry[],_IPath_.corpus
+16. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/BatchCompilerTest.javavoid_test012b__.corpus
+17. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testWhitespaceWithFolding__.corpus
+18. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/model/org/eclipse/jdt/core/jdom/IDOMMethod.javaString[]_getParameterTypes__.corpus
+19. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.model/workspace/Compiler/src/org/eclipse/jdt/internal/compiler/Compiler.javaCompiler_INameEnvironment,_IErrorHandlingPolicy,_Map,_ICompilerRequestor,_IProblemFactory,_boolean_.corpus
+20. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testSetTokenizerTwice__.corpus
+
+
+
+description: I am seeing this in our log:
+Caused by: java.lang.NullPointerException
+        at org.apache.lucene.search.MultiCollector$MultiLeafCollector.setScorer(MultiCollector.java:156)
+        at org.apache.lucene.search.BooleanScorer$1$1.setScorer(BooleanScorer.java:50)
+        at org.apache.lucene.search.Weight$DefaultBulkScorer.score(Weight.java:166)
+        at org.apache.lucene.search.BooleanScorer$1.score(BooleanScorer.java:59)
+        at org.apache.lucene.search.BooleanScorer$BulkScorerAndDoc.score(BooleanScorer.java:90)
+        at org.apache.lucene.search.BooleanScorer.scoreWindowSingleScorer(BooleanScorer.java:313)
+        at org.apache.lucene.search.BooleanScorer.scoreWindow(BooleanScorer.java:336)
+        at org.apache.lucene.search.BooleanScorer.score(BooleanScorer.java:364)
+        at org.apache.lucene.search.BulkScorer.score(BulkScorer.java:39)
+        at org.apache.lucene.search.IndexSearcher.search(IndexSearcher.java:821)
+        at org.apache.lucene.search.IndexSearcher$5.call(IndexSearcher.java:763)
+        at org.apache.lucene.search.IndexSearcher$5.call(IndexSearcher.java:760)
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+Looks like
+MultiCollector.removeCollector(i)
+is called on line 176, the loop:
+for (LeafCollector c : collectors) {
+        c.setScorer(scorer);
+}
+in setScorer can still step on it, on line 155.
+I am however, unable to reproduce that with a unit test.
+I made a copy of this class and added a null check in setScorer() and the problem goes away.
+
+querystr: log caus javalangnullpointerexcep javalangnul pointer excep orgapachelucenesearchmulticollectormultileafcollectorsetscor orgapachelucenesearchmulti collectormulti leaf collectorset scorer multicollectorjava multi collectorjava orgapachelucenesearchbooleanscorer11setscor orgapachelucenesearchboolean scorer11set scorer booleanscorerjava boolean scorerjava orgapachelucenesearchweightdefaultbulkscorerscor orgapachelucenesearchweightdefault bulk scorerscor weightjava orgapachelucenesearchbooleanscorer1scor orgapachelucenesearchboolean scorer1scor booleanscorerjava boolean scorerjava orgapachelucenesearchbooleanscorerbulkscoreranddocscor orgapachelucenesearchboolean scorerbulk scorer and docscor booleanscorerjava boolean scorerjava orgapachelucenesearchbooleanscorerscorewindowsinglescor orgapachelucenesearchboolean scorerscor window singl scorer booleanscorerjava boolean scorerjava orgapachelucenesearchbooleanscorerscorewindow orgapachelucenesearchboolean scorerscor window booleanscorerjava boolean scorerjava orgapachelucenesearchbooleanscorerscor orgapachelucenesearchboolean scorerscor booleanscorerjava boolean scorerjava orgapachelucenesearchbulkscorerscor orgapachelucenesearchbulk scorerscor bulkscorerjava bulk scorerjava orgapachelucenesearchindexsearchersearch orgapachelucenesearchindex searchersearch indexsearcherjava index searcherjava orgapachelucenesearchindexsearcher5cal orgapachelucenesearchindex searcher5cal indexsearcherjava index searcherjava orgapachelucenesearchindexsearcher5cal orgapachelucenesearchindex searcher5cal indexsearcherjava index searcherjava javautilconcurrentfuturetaskrun javautilconcurrentfutur taskrun futuretaskjava futur taskjava look multicollectorremovecollector multi collectorremov collector call line loop leafcollector leaf collector collector csetscor cset scorer scorer setscor set scorer step line reproduc unit test made copi null check setscor set scorer problem goe awai 
+Found 20 hits
+1. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/BooleanScorer.javaint_score_LeafCollector,_Bits,_int,_int_.corpus
+2. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/TestBooleanOr.javavoid_testSubScorerNextIsNotMatch__.corpus
+3. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/test-framework/src/java/org/apache/lucene/search/QueryUtils.javavoid_checkBulkScorerSkipTo_Random,_Query,_IndexSearcher_.corpus
+4. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/test-framework/src/java/org/apache/lucene/search/QueryUtils.javavoid_checkSkipTo_Query,_IndexSearcher_.corpus
+5. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/TestMultiCollector.javavoid_testSetScorerAfterCollectionTerminated__.corpus
+6. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/search/HashQParserPlugin.javavoid_setScorer_Scorer_.corpus
+7. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/LeafCollector.javavoid_setScorer_Scorer_.corpus
+8. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/TestBooleanCoord.javavoid_assertScore_float,_Query_.corpus
+9. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/BooleanScorer.javavoid_scoreWindowSingleScorer_BulkScorerAndDoc,_LeafCollector,_Bits,_int,_int,_int_.corpus
+10. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/BooleanScorer.javaBulkScorer_disableScoring_BulkScorer_.corpus
+11. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/handler/component/ExpandComponent.javavoid_setScorer_Scorer_.corpus
+12. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/TestMultiCollector.javaSetScorerCollector_Collector,_AtomicBoolean_.corpus
+13. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/BooleanScorer.javavoid_setScorer_Scorer_.corpus
+14. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/MultiCollectorTest.javavoid_testCacheScoresIfNecessary__.corpus
+15. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/BooleanScorer.javavoid_scoreWindowIntoBitSetAndReplay_LeafCollector,_Bits,_int,_int,_int,_BulkScorerAndDoc[],_int_.corpus
+16. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/ConstantScoreQuery.javaLeafCollector_wrapCollector_LeafCollector_.corpus
+17. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/TestSimilarity.javavoid_testSimilarity__.corpus
+18. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/MultiCollector.javavoid_setScorer_Scorer_.corpus
+19. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/grouping/src/java/org/apache/lucene/search/grouping/AbstractSecondPassGroupingCollector.javavoid_setScorer_Scorer_.corpus
+20. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/CachingCollector.javavoid_collect_LeafCollector,_int_.corpus
+
+
+
+TITLE + DESCRIPTION : ************************************
+
+
+
+title+description: GeoPoint queries on multi-valued GeoPointField documents can be slow In 5.4 5.4.1 a known bug remains for GeoPoint queries. When filtering over docvalues for a multi-valued document all values were checked regardless of an existing match. This performance bug was fixed in LUCENE 6951 and needs to be back ported to 5.4.
+
+querystr: geopoint geo point queri multivalu geopointfield geo point field docum slow known bug remain geopoint geo point queri when filter docvalu multivalu docum valu check regardless exist match thi perform bug fix lucen need back port 
+Found 20 hits
+1. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoPoint.javaGeoPoint_double,_double,_double_.corpus
+2. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/test/org/apache/lucene/geo3d/PlaneTest.javavoid_testInterpolation__.corpus
+3. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/sandbox/src/test/org/apache/lucene/search/TestGeoPointQuery.javavoid_beforeClass__.corpus
+4. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoDegeneratePoint.javaGeoPoint_getCenter__.corpus
+5. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial/src/test/org/apache/lucene/spatial/spatial4j/Geo3dShapeRectRelationTestCase.javaPoint_geoPointToSpatial4jPoint_GeoPoint_.corpus
+6. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/Bounds.javaBounds_addPoint_GeoPoint_.corpus
+7. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoDegenerateHorizontalLine.javaGeoPoint_getCenter__.corpus
+8. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoDegenerateLatitudeZone.javaGeoPoint_getCenter__.corpus
+9. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoDegenerateLongitudeSlice.javaGeoPoint_getCenter__.corpus
+10. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoDegenerateVerticalLine.javaGeoPoint_getCenter__.corpus
+11. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoLatitudeZone.javaGeoPoint_getCenter__.corpus
+12. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoLongitudeSlice.javaGeoPoint_getCenter__.corpus
+13. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoNorthLatitudeZone.javaGeoPoint_getCenter__.corpus
+14. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoRectangle.javaGeoPoint_getCenter__.corpus
+15. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoSouthRectangle.javaGeoPoint_getCenter__.corpus
+16. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoWideDegenerateHorizontalLine.javaGeoPoint_getCenter__.corpus
+17. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoWideLongitudeSlice.javaGeoPoint_getCenter__.corpus
+18. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoWideNorthRectangle.javaGeoPoint_getCenter__.corpus
+19. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoWideSouthRectangle.javaGeoPoint_getCenter__.corpus
+20. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/spatial3d/src/java/org/apache/lucene/geo3d/GeoWorld.javaGeoPoint_getCenter__.corpus
+
+
+
+title+description: Small changes in expressions module This patch is not really worth an issue, but it has 2 small changes in expression's JavaScriptCompiler:
+	On the OpenJDK mailinglists from time to time people want to have "nice stack traces" (this got worse with Lambda expressions). Since Java 8u60 they now hide some stack frames automatically. Under discussion was to use the "synthetic" bytecode attribute for that. They did not do that; instead they have a new annotation (@LambdaForm.Hidden). In any case, I will remove the synthetic annotation from the generated class file, because it is not really applicable (and also brings nothing): "A class member that does not appear in the source code must be marked using a Synthetic attribute, or else it must have its ACC_SYNTHETIC flag set. The only exceptions to this requirement are compiler-generated methods which are not considered implementation artifacts, namely the instance initialization method representing a default constructor of the Java programming language (§2.9), the class initialization method (§2.9), and the Enum.values() and Enum.valueOf() methods.". In our case the expressions class has source code (just not Java), so we should not make it synthetic. So there is also no risk that the stack frames get hidden in future (if OpenJDK thinks different).
+	The code has currently some string-based method signatures. They tend to get broken because we have no compile-time checks. I replaced those with compile-time class constants using Java 7's MethodType to create the descriptor. For me the code is more readable. The change is a no-op as its constants only.
+
+querystr: small chang expres modul thi patch worth issu small chang expres javascriptcompil java script compil openjdk open jdk mailinglist time time peopl nice stack trace got lambda expres sinc java 8u60 hide stack frame automat under discus synthet bytecod attribut that thei did that annot lambdaformhidden lambda formhidden remov synthet annot gener file applic bring member appear sourc code mark synthet attribut accsynthet flag set the excep requir compilergener method consid implement artifact instanc initi method repres constructor java program languag initi method enumvalu enumvalueof enumvalu method expres sourc code java make synthet risk stack frame hidden futur openjdk open jdk think differ the code current stringbas method signatur thei tend broken compiletim check replac compiletim constant java methodtyp method type creat descriptor for code readabl the chang noop constant onli 
+Found 20 hits
+1. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ClassFile.javaint_generateMethodInfoAttributes_MethodBinding_.corpus
+2. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ClassFile.javavoid_addSpecialMethods__.corpus
+3. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/codegen/CodeStream.javavoid_generateSyntheticBodyForDeserializeLambda_SyntheticMethodBinding,_SyntheticMethodBinding[]_.corpus
+4. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/CompilerInvocationTests.javavoid_test012_compiler_problems_tuning__.corpus
+5. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ClassFile.javavoid_addSyntheticEnumValueOfMethod_SyntheticMethodBinding_.corpus
+6. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/JSR335ClassFileTest.javavoid_test015__.corpus
+7. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ClassFile.javaList_traverse_MethodBinding,_int,_byte[],_int,_int,_Map,_boolean_.corpus
+8. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/JSR335ClassFileTest.javavoid_test007__.corpus
+9. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/JSR335ClassFileTest.javavoid_test007a__.corpus
+10. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/JSR335ClassFileTest.javavoid_test017__.corpus
+11. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/JSR335ClassFileTest.javavoid_test016__.corpus
+12. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ClassFile.javavoid_completeCodeAttribute_int_.corpus
+13. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ClassFile.javavoid_addSyntheticDeserializeLambda_SyntheticMethodBinding,_SyntheticMethodBinding[]_.corpus
+14. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/JSR335ClassFileTest.javavoid_test012__.corpus
+15. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/JSR335ClassFileTest.javavoid_test013__.corpus
+16. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ast/ConstructorDeclaration.javavoid_internalGenerateCode_ClassScope,_ClassFile_.corpus
+17. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/model/org/eclipse/jdt/core/util/CompilationUnitSorter.javaTextEdit_sort_CompilationUnit,_Comparator,_int,_TextEditGroup,_IProgressMonitor_.corpus
+18. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ClassFile.javaClassFile_SourceTypeBinding_.corpus
+19. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/model/org/eclipse/jdt/core/util/CompilationUnitSorter.javavoid_sort_int,_ICompilationUnit,_int[],_Comparator,_int,_IProgressMonitor_.corpus
+20. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/JSR335ClassFileTest.javavoid_test008__.corpus
+
+
+
+title+description: Improve Exception handling in AnalysisFactory SPI loader Currently the AnalysisSPILoader used by AbstractAnalysisFactory uses a catch Exception block when invoking the constructor. If the constructor throws stuff like IllegalArgumentExceptions or similar, this is hidden inside InvocationTargetException, which gets wrapped in IllegalArgumentException. This is not useful.
+This patch will:
+	Only catch ReflectiveOperationException
+	If it is InvocationTargetException it will rethrow the cause, if it is unchecked. Otherwise it will wrap in RuntimeException
+	If the constructor cannot be called at all (reflective access denied, method not found,...) UOE is thrown with explaining message.
+This patch will be required by next version of LUCENE 6958
+
+querystr: improv excep handl analysisfactori analysi factori spi loader current analysisspiload analysi spi loader abstractanalysisfactori abstract analysi factori excep block invok constructor constructor stuff illegalargumentexcep illeg argum excep similar hidden invocationtargetexcep invoc target excep get wrap illegalargumentexcep illeg argum excep thi thi patch onli reflectiveoperationexcep reflect oper excep invocationtargetexcep invoc target excep rethrow caus uncheck otherw wrap runtimeexcep runtim excep constructor call reflect access deni method found uoe thrown explain messag thi patch requir version lucen 
+Found 20 hits
+1. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/core/TestFactories.javaAbstractAnalysisFactory_initialize_Class<?_extends_AbstractAnalysisFactory>_.corpus
+2. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/util/BaseTokenStreamFactoryTestCase.javaAbstractAnalysisFactory_analysisFactory_Class<?_extends_AbstractAnalysisFactory>,_Version,_ResourceLoader,_String_.corpus
+3. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/util/CommandLineUtil.javaFSDirectory_newFSDirectory_Class<?_extends_FSDirectory>,_Path,_LockFactory_.corpus
+4. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/core/TestRandomChains.javaT_createComponent_Constructor<T>,_Object[],_StringBuilder_.corpus
+5. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/parser/SingleCompletionTest.javavoid_run_Class,_String_.corpus
+6. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/util/CommandLineUtil.javaFSDirectory_newFSDirectory_Class<?_extends_FSDirectory>,_Path_.corpus
+7. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/solrj/src/java/org/apache/solr/client/solrj/io/stream/expr/StreamFactory.javaT_createInstance_Class<T>,_Class<?>[],_Object[]_.corpus
+8. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/solrj/src/java/org/apache/solr/client/solrj/impl/HttpClientUtil.javaDefaultHttpClient_createHttpClient_ClientConnectionManager_.corpus
+9. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/solrj/src/java/org/apache/solr/client/solrj/impl/HttpClientUtil.javaSystemDefaultHttpClient_createHttpClient__.corpus
+10. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/dom/org/eclipse/jdt/core/dom/AST.javaASTNode_createInstance_Class_.corpus
+11. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/java/org/apache/lucene/analysis/util/AbstractAnalysisFactory.javaAbstractAnalysisFactory_Map<String,String>_.corpus
+12. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ReadManager.javaReadManager_ICompilationUnit[],_int_.corpus
+13. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/phonetic/src/java/org/apache/lucene/analysis/phonetic/PhoneticFilterFactory.javaEncoder_getEncoder__.corpus
+14. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/core/SolrResourceLoader.javaClass<?_extends_T>_findClass_String,_Class<T>,_String_.corpus
+15. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/benchmark/src/java/org/apache/lucene/benchmark/byTask/tasks/AnalyzerFactoryTask.javavoid_createAnalysisPipelineComponent_StreamTokenizer,_Class<?_extends_AbstractAnalysisFactory>_.corpus
+16. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/util/BaseTokenStreamFactoryTestCase.javaCharFilterFactory_charFilterFactory_String,_Version,_ResourceLoader,_String_.corpus
+17. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/util/BaseTokenStreamFactoryTestCase.javaTokenFilterFactory_tokenFilterFactory_String,_Version,_ResourceLoader,_String_.corpus
+18. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/util/BaseTokenStreamFactoryTestCase.javaTokenizerFactory_tokenizerFactory_String,_Version,_ResourceLoader,_String_.corpus
+19. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/test/org/apache/solr/util/TestRandomMergePolicy.javavoid_testGetters__.corpus
+20. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/codecs/Codec.javaNamedSPILoader<Codec>_getLoader__.corpus
+
+
+
+title+description: Improve CustomAnalyzer to also allow to specify factory directly (for compile-time safety) Currently CustomAnalyzer only allows to specify the SPI names of factories. As the fluent builder pattern is mostly used inside Java code, it is better for type safety to optionally also specify the factory class directly (using compile-time safe patterns like .withTokenizer(WhitespaceTokenizerFactory.class)). With the string names, you get the error only at runtime. Of course this does not help with wrong, spelled parameter names, but it also has the side effect that you can click on the class name in your code to get javadocs with the parameter names.
+This issue will add this functionality and update the docs/example.
+Thanks to Shai Erera for suggesting this!
+
+querystr: improv customanalyz custom analyz allow specifi factori directli compiletim safeti current customanalyz custom analyz allow specifi spi name factori fluent builder pattern java code better type safeti option specifi factori directli compiletim safe pattern withtoken with token whitespacetokenizerfactoryclass whitespac token factoryclass with string name error runtim cours help wrong spell paramet name side effect click name code javadoc paramet name thi issu add function updat doc exampl thank shai erera suggest thi 
+Found 20 hits
+1. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/synonym/TestSynonymFilterFactory.javavoid_testAnalyzer__.corpus
+2. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/model/org/eclipse/jdt/core/IClasspathEntry.javaIPath[]_getExclusionPatterns__.corpus
+3. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testNullParamKey__.corpus
+4. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testWhitespaceWithFolding__.corpus
+5. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testSetTokenizerTwice__.corpus
+6. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testStopWordsFromClasspath__.corpus
+7. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/handler/component/SpellCheckComponent.javavoid_process_ResponseBuilder_.corpus
+8. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testStopWordsFromFileAbsolute__.corpus
+9. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testStopWordsFromFile__.corpus
+10. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/model/org/eclipse/jdt/core/jdom/IDOMMethod.javavoid_addParameter_String,_String_.corpus
+11. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testNullTokenizer__.corpus
+12. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testNullMatchVersion__.corpus
+13. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testMissingSPI__.corpus
+14. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/Compiler.javaCompiler_INameEnvironment,_IErrorHandlingPolicy,_Map,_ICompilerRequestor,_IProblemFactory,_boolean_.corpus
+15. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core.tests.compiler/src/org/eclipse/jdt/core/tests/compiler/regression/BatchCompilerTest.javavoid_test012__.corpus
+16. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/analysis/common/src/test/org/apache/lucene/analysis/custom/TestCustomAnalyzer.javavoid_testIncorrectOrder__.corpus
+17. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/model/org/eclipse/jdt/internal/core/ClasspathEntry.javaIJavaModelStatus_validateClasspath_IJavaProject,_IClasspathEntry[],_IPath_.corpus
+18. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/search/org/eclipse/jdt/core/search/SearchPattern.javaSearchPattern_createPattern_String,_int,_int,_int_.corpus
+19. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/model/org/eclipse/jdt/core/IType.javaIField_getField_String_.corpus
+20. 	/Users/sungsooahn/Downloads/eclipse.jdt.core-R4_5/org.eclipse.jdt.core/model/org/eclipse/jdt/core/IType.javaIMethod_getMethod_String,_String[]_.corpus
+
+
+
+title+description: MultiCollector throws NPE when there is CollectTerminatedException is thrown by a subcollector I am seeing this in our log:
+Caused by: java.lang.NullPointerException
+        at org.apache.lucene.search.MultiCollector$MultiLeafCollector.setScorer(MultiCollector.java:156)
+        at org.apache.lucene.search.BooleanScorer$1$1.setScorer(BooleanScorer.java:50)
+        at org.apache.lucene.search.Weight$DefaultBulkScorer.score(Weight.java:166)
+        at org.apache.lucene.search.BooleanScorer$1.score(BooleanScorer.java:59)
+        at org.apache.lucene.search.BooleanScorer$BulkScorerAndDoc.score(BooleanScorer.java:90)
+        at org.apache.lucene.search.BooleanScorer.scoreWindowSingleScorer(BooleanScorer.java:313)
+        at org.apache.lucene.search.BooleanScorer.scoreWindow(BooleanScorer.java:336)
+        at org.apache.lucene.search.BooleanScorer.score(BooleanScorer.java:364)
+        at org.apache.lucene.search.BulkScorer.score(BulkScorer.java:39)
+        at org.apache.lucene.search.IndexSearcher.search(IndexSearcher.java:821)
+        at org.apache.lucene.search.IndexSearcher$5.call(IndexSearcher.java:763)
+        at org.apache.lucene.search.IndexSearcher$5.call(IndexSearcher.java:760)
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+Looks like
+MultiCollector.removeCollector(i)
+is called on line 176, the loop:
+for (LeafCollector c : collectors) {
+        c.setScorer(scorer);
+}
+in setScorer can still step on it, on line 155.
+I am however, unable to reproduce that with a unit test.
+I made a copy of this class and added a null check in setScorer() and the problem goes away.
+
+querystr: multicollector multi collector npe collectterminatedexcep collect termin excep thrown subcollector log caus javalangnullpointerexcep javalangnul pointer excep orgapachelucenesearchmulticollectormultileafcollectorsetscor orgapachelucenesearchmulti collectormulti leaf collectorset scorer multicollectorjava multi collectorjava orgapachelucenesearchbooleanscorer11setscor orgapachelucenesearchboolean scorer11set scorer booleanscorerjava boolean scorerjava orgapachelucenesearchweightdefaultbulkscorerscor orgapachelucenesearchweightdefault bulk scorerscor weightjava orgapachelucenesearchbooleanscorer1scor orgapachelucenesearchboolean scorer1scor booleanscorerjava boolean scorerjava orgapachelucenesearchbooleanscorerbulkscoreranddocscor orgapachelucenesearchboolean scorerbulk scorer and docscor booleanscorerjava boolean scorerjava orgapachelucenesearchbooleanscorerscorewindowsinglescor orgapachelucenesearchboolean scorerscor window singl scorer booleanscorerjava boolean scorerjava orgapachelucenesearchbooleanscorerscorewindow orgapachelucenesearchboolean scorerscor window booleanscorerjava boolean scorerjava orgapachelucenesearchbooleanscorerscor orgapachelucenesearchboolean scorerscor booleanscorerjava boolean scorerjava orgapachelucenesearchbulkscorerscor orgapachelucenesearchbulk scorerscor bulkscorerjava bulk scorerjava orgapachelucenesearchindexsearchersearch orgapachelucenesearchindex searchersearch indexsearcherjava index searcherjava orgapachelucenesearchindexsearcher5cal orgapachelucenesearchindex searcher5cal indexsearcherjava index searcherjava orgapachelucenesearchindexsearcher5cal orgapachelucenesearchindex searcher5cal indexsearcherjava index searcherjava javautilconcurrentfuturetaskrun javautilconcurrentfutur taskrun futuretaskjava futur taskjava look multicollectorremovecollector multi collectorremov collector call line loop leafcollector leaf collector collector csetscor cset scorer scorer setscor set scorer step line reproduc unit test made copi null check setscor set scorer problem goe awai 
+Found 20 hits
+1. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/TestMultiCollector.javavoid_testSetScorerAfterCollectionTerminated__.corpus
+2. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/BooleanScorer.javaint_score_LeafCollector,_Bits,_int,_int_.corpus
+3. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/TestBooleanOr.javavoid_testSubScorerNextIsNotMatch__.corpus
+4. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/test-framework/src/java/org/apache/lucene/search/QueryUtils.javavoid_checkBulkScorerSkipTo_Random,_Query,_IndexSearcher_.corpus
+5. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/test-framework/src/java/org/apache/lucene/search/QueryUtils.javavoid_checkSkipTo_Query,_IndexSearcher_.corpus
+6. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/LeafCollector.javavoid_setScorer_Scorer_.corpus
+7. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/search/HashQParserPlugin.javavoid_setScorer_Scorer_.corpus
+8. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/TestBooleanCoord.javavoid_assertScore_float,_Query_.corpus
+9. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/MultiCollectorTest.javavoid_testCacheScoresIfNecessary__.corpus
+10. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/BooleanScorer.javaBulkScorer_disableScoring_BulkScorer_.corpus
+11. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/MultiCollectorTest.javavoid_testNullCollectors__.corpus
+12. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/MultiCollectorTest.javavoid_testCollector__.corpus
+13. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/BooleanScorer.javavoid_scoreWindowSingleScorer_BulkScorerAndDoc,_LeafCollector,_Bits,_int,_int,_int_.corpus
+14. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/CachingCollector.javavoid_collect_LeafCollector,_int_.corpus
+15. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/solr/core/src/java/org/apache/solr/handler/component/ExpandComponent.javavoid_setScorer_Scorer_.corpus
+16. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/ConstantScoreQuery.javaLeafCollector_wrapCollector_LeafCollector_.corpus
+17. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/PositiveScoresOnlyCollector.javaLeafCollector_getLeafCollector_LeafReaderContext_.corpus
+18. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/test/org/apache/lucene/search/TestSimilarity.javavoid_testSimilarity__.corpus
+19. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/BooleanScorer.javavoid_scoreWindowIntoBitSetAndReplay_LeafCollector,_Bits,_int,_int,_int,_BulkScorerAndDoc[],_int_.corpus
+20. 	/Users/sungsooahn/Downloads/lucene-solr-branch_5_4/lucene/core/src/java/org/apache/lucene/search/IndexSearcher.javavoid_search_List<LeafReaderContext>,_Weight,_Collector_.corpus
