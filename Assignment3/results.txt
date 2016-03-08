@@ -1,0 +1,96 @@
+HADOOP
+Total number of bug reports: 7320
+
+Title-Only
+Sentences(average): 0.992896174863388
+Sentences(median): 1
+Terms(average): 6.945901639344262
+Terms(median): 7
+Nouns(average): 4.576775956284153
+Nouns(median): 4
+Verbs(average): 1.3763661202185793
+Verbs(median): 1
+Adjectives(average): 0.6419398907103825
+Adjectives(median): 0
+Adverbs(average): 0.14412568306010928
+Adverbs(median): 0
+
+
+Description-Only
+Sentences(average): 7.805011328801813
+Sentences(median): 2
+Terms(average): 74.89457550313207
+Terms(median): 31
+Nouns(average): 52.65093962415034
+Nouns(median): 18
+Verbs(average): 11.177662268425962
+Verbs(median): 6
+Adjectives(average): 5.678528588564574
+Adjectives(median): 3
+Adverbs(average): 1.1909902705584432
+Adverbs(median): 1
+
+Both
+Sentences(average): 8.741070242995619
+Sentences(median): 3
+Terms(average): 81.3672819014739
+Terms(median): 38
+Nouns(average): 56.90359845969991
+Nouns(median): 23
+Verbs(average): 12.473907847563405
+Verbs(median): 8
+Adjectives(average): 6.281370335944762
+Adjectives(median): 3
+Adverbs(average): 1.3266498472978356
+Adverbs(median): 1
+
+
+DERBY
+Total number of bug reports: 4017
+
+Title-Only
+Sentences(average): 0.9995021160069704
+Sentences(median): 1
+Terms(average): 9.233507592730893
+Terms(median): 8
+Nouns(average): 6.282798108040827
+Nouns(median): 6
+Verbs(average): 1.6910629823251182
+Verbs(median): 2
+Adjectives(average): 0.8063231267114762
+Adjectives(median): 1
+Adverbs(average): 0.15459297983569828
+Adverbs(median): 0
+
+
+Description-Only
+Sentences(average): 28.418691125433813
+Sentences(median): 11
+Terms(average): 244.98165592464056
+Terms(median): 89
+Nouns(average): 176.97273177987108
+Nouns(median): 55
+Verbs(average): 30.00991571641051
+Verbs(median): 16
+Adjectives(average): 19.20352007932573
+Adjectives(median): 7
+Adverbs(average): 1.8353991075855232
+Adverbs(median): 1
+
+
+Both
+Sentences(average): 29.38484398216939
+Sentences(median): 12
+Terms(average): 253.92421991084694
+Terms(median): 99
+Nouns(average): 183.04730064388312
+Nouns(median): 61
+Verbs(average): 31.66245666171372
+Verbs(median): 17
+Adjectives(average): 19.98662704309064
+Adjectives(median): 8
+Adverbs(average): 1.987369985141159
+Adverbs(median): 1
+
+
+
