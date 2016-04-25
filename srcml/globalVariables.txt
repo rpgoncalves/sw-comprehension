@@ -1,0 +1,703 @@
+EMPTY_ADDITIONAL_CONTEXT: element(name, untyped): /unit/unit[6]/class/block/decl_stmt[1]/decl/name
+
+zeroLog: element(name, untyped): /unit/unit[6]/class/block/decl_stmt[8]/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[12]/class/block/decl_stmt/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[15]/class/block/decl_stmt/decl/name
+
+ONE: element(name, untyped): /unit/unit[26]/class/block/decl_stmt[4]/decl/name
+
+ALGORITHM_PARAM: element(name, untyped): /unit/unit[30]/class/block/decl_stmt[1]/decl/name
+
+TRAINER_TYPE_PARAM: element(name, untyped): /unit/unit[30]/class/block/decl_stmt[2]/decl/name
+
+ITERATIONS_PARAM: element(name, untyped): /unit/unit[30]/class/block/decl_stmt[3]/decl/name
+
+CUTOFF_PARAM: element(name, untyped): /unit/unit[30]/class/block/decl_stmt[4]/decl/name
+
+DEV_VERSION_STRING: element(name, untyped): /unit/unit[34]/class/block/decl_stmt[1]/decl/name
+
+DEV_VERSION: element(name, untyped): /unit/unit[34]/class/block/decl_stmt[2]/decl/name
+
+SNAPSHOT_MARKER: element(name, untyped): /unit/unit[34]/class/block/decl_stmt[3]/decl/name
+
+CLASS_SEARCH_NAME: element(name, untyped): /unit/unit[37]/class/block/decl_stmt[1]/decl/name
+
+MODEL_BUFFER_SIZE_LIMIT: element(name, untyped): /unit/unit[42]/class/block/decl_stmt[1]/decl/name
+
+MANIFEST_ENTRY: element(name, untyped): /unit/unit[42]/class/block/decl_stmt[2]/decl/name
+
+FACTORY_NAME: element(name, untyped): /unit/unit[42]/class/block/decl_stmt[3]/decl/name
+
+MANIFEST_VERSION_PROPERTY: element(name, untyped): /unit/unit[42]/class/block/decl_stmt[4]/decl/name
+
+COMPONENT_NAME_PROPERTY: element(name, untyped): /unit/unit[42]/class/block/decl_stmt[5]/decl/name
+
+VERSION_PROPERTY: element(name, untyped): /unit/unit[42]/class/block/decl_stmt[6]/decl/name
+
+TIMESTAMP_PROPERTY: element(name, untyped): /unit/unit[42]/class/block/decl_stmt[7]/decl/name
+
+LANGUAGE_PROPERTY: element(name, untyped): /unit/unit[42]/class/block/decl_stmt[8]/decl/name
+
+TRAINING_CUTOFF_PROPERTY: element(name, untyped): /unit/unit[42]/class/block/decl_stmt[9]/decl/name
+
+TRAINING_ITERATIONS_PROPERTY: element(name, untyped): /unit/unit[42]/class/block/decl_stmt[10]/decl/name
+
+TRAINING_EVENTHASH_PROPERTY: element(name, untyped): /unit/unit[42]/class/block/decl_stmt[11]/decl/name
+
+SERIALIZER_CLASS_NAME_PREFIX: element(name, untyped): /unit/unit[42]/class/block/decl_stmt[12]/decl/name
+
+tabPattern: element(name, untyped): /unit/unit[53]/class/block/decl_stmt[1]/decl/name
+
+pathLengths: element(name, untyped): /unit/unit[55]/class/block/decl_stmt/decl/name
+
+TOKEN_CLASS_PREFIX: element(name, untyped): /unit/unit[63]/class/block/decl_stmt[1]/decl/name
+
+TOKEN_AND_CLASS_PREFIX: element(name, untyped): /unit/unit[63]/class/block/decl_stmt[2]/decl/name
+
+capPeriod: element(name, untyped): /unit/unit[63]/class/block/decl_stmt[3]/decl/name
+
+OUTCOME_PRIOR_FEATURE: element(name, untyped): /unit/unit[67]/class/block/decl_stmt/decl/name
+
+PREFIX_LENGTH: element(name, untyped): /unit/unit[69]/class/block/decl_stmt/decl/name
+
+SUFFIX_LENGTH: element(name, untyped): /unit/unit[73]/class/block/decl_stmt/decl/name
+
+TOKEN_CLASS_PREFIX: element(name, untyped): /unit/unit[74]/class/block/decl_stmt[1]/decl/name
+
+TOKEN_AND_CLASS_PREFIX: element(name, untyped): /unit/unit[74]/class/block/decl_stmt[2]/decl/name
+
+INITAL_CAPITAL_LETTER: element(name, untyped): /unit/unit[75]/class/block/decl_stmt[1]/decl/name
+
+ALL_CAPITAL_LETTER: element(name, untyped): /unit/unit[75]/class/block/decl_stmt[2]/decl/name
+
+ALL_LOWERCASE_LETTER: element(name, untyped): /unit/unit[75]/class/block/decl_stmt[3]/decl/name
+
+ALL_LETTERS: element(name, untyped): /unit/unit[75]/class/block/decl_stmt[4]/decl/name
+
+ALL_DIGIT: element(name, untyped): /unit/unit[75]/class/block/decl_stmt[5]/decl/name
+
+CONTAINS_PERIOD: element(name, untyped): /unit/unit[75]/class/block/decl_stmt[6]/decl/name
+
+CONTAINS_COMMA: element(name, untyped): /unit/unit[75]/class/block/decl_stmt[7]/decl/name
+
+CONTAINS_SLASH: element(name, untyped): /unit/unit[75]/class/block/decl_stmt[8]/decl/name
+
+CONTAINS_DIGIT: element(name, untyped): /unit/unit[75]/class/block/decl_stmt[9]/decl/name
+
+CONTAINS_HYPHEN: element(name, untyped): /unit/unit[75]/class/block/decl_stmt[10]/decl/name
+
+CONTAINS_LETTERS: element(name, untyped): /unit/unit[75]/class/block/decl_stmt[11]/decl/name
+
+CONTAINS_UPPERCASE: element(name, untyped): /unit/unit[75]/class/block/decl_stmt[12]/decl/name
+
+WORD_PREFIX: element(name, untyped): /unit/unit[76]/class/block/decl_stmt[1]/decl/name
+
+ELEMENT_NAME: element(name, untyped): /unit/unit[77]/class/block/class[4]/block/decl_stmt/decl/name
+
+factories: element(name, untyped): /unit/unit[77]/class/block/decl_stmt/decl/name
+
+PREV_PREFIX: element(name, untyped): /unit/unit[80]/class/block/decl_stmt[1]/decl/name
+
+NEXT_PREFIX: element(name, untyped): /unit/unit[80]/class/block/decl_stmt[2]/decl/name
+
+isOsgiAvailable: element(name, untyped): /unit/unit[84]/class/block/decl_stmt/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[85]/class/block/decl_stmt[1]/decl/name
+
+ID: element(name, untyped): /unit/unit[86]/class/block/decl_stmt/decl/name
+
+instance: element(name, untyped): /unit/unit[88]/class/block/decl_stmt[1]/decl/name
+
+INSTANCE: element(name, untyped): /unit/unit[100]/class[1]/block/decl_stmt/decl/name
+
+WHITESPACE: element(name, untyped): /unit/unit[100]/class[2]/block/decl_stmt[1]/decl/name
+
+ALPHABETIC: element(name, untyped): /unit/unit[100]/class[2]/block/decl_stmt[2]/decl/name
+
+NUMERIC: element(name, untyped): /unit/unit[100]/class[2]/block/decl_stmt[3]/decl/name
+
+OTHER: element(name, untyped): /unit/unit[100]/class[2]/block/decl_stmt[4]/decl/name
+
+logger: element(name, untyped): /unit/unit[106]/class/block/decl_stmt[1]/decl/name
+
+DEFAULT_SEPARATOR_CHARS: element(name, untyped): /unit/unit[107]/class/block/decl_stmt[1]/decl/name
+
+ABBREVIATIONS_ENTRY_NAME: element(name, untyped): /unit/unit[109]/class/block/decl_stmt[5]/decl/name
+
+USE_ALPHA_NUMERIC_OPTIMIZATION: element(name, untyped): /unit/unit[109]/class/block/decl_stmt[6]/decl/name
+
+ALPHA_NUMERIC_PATTERN: element(name, untyped): /unit/unit[109]/class/block/decl_stmt[7]/decl/name
+
+INSTANCE: element(name, untyped): /unit/unit[112]/class/block/decl_stmt/decl/name
+
+COMPONENT_NAME: element(name, untyped): /unit/unit[113]/class/block/decl_stmt[1]/decl/name
+
+TOKENIZER_MODEL_ENTRY: element(name, untyped): /unit/unit[113]/class/block/decl_stmt[2]/decl/name
+
+DEFAULT_ALPHANUMERIC: element(name, untyped): /unit/unit[114]/class/block/decl_stmt/decl/name
+
+SPLIT: element(name, untyped): /unit/unit[116]/class/block/decl_stmt[1]/decl/name
+
+NO_SPLIT: element(name, untyped): /unit/unit[116]/class/block/decl_stmt[2]/decl/name
+
+alphaNumeric: element(name, untyped): /unit/unit[116]/class/block/decl_stmt[3]/decl/name
+
+INC: element(name, untyped): /unit/unit[120]/class/block/decl_stmt[4]/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[123]/class/block/decl_stmt[1]/decl/name
+
+g_v[]: element(name, untyped): /unit/unit[123]/class/block/decl_stmt[6]/decl/name
+
+g_s_ending[]: element(name, untyped): /unit/unit[123]/class/block/decl_stmt[7]/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[124]/class/block/decl_stmt[1]/decl/name
+
+g_v[]: element(name, untyped): /unit/unit[124]/class/block/decl_stmt[9]/decl/name
+
+g_v_I[]: element(name, untyped): /unit/unit[124]/class/block/decl_stmt[10]/decl/name
+
+g_v_j[]: element(name, untyped): /unit/unit[124]/class/block/decl_stmt[11]/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[125]/class/block/decl_stmt[1]/decl/name
+
+g_v[]: element(name, untyped): /unit/unit[125]/class/block/decl_stmt[14]/decl/name
+
+g_v_WXY[]: element(name, untyped): /unit/unit[125]/class/block/decl_stmt[15]/decl/name
+
+g_valid_LI[]: element(name, untyped): /unit/unit[125]/class/block/decl_stmt[16]/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[126]/class/block/decl_stmt[1]/decl/name
+
+g_v[]: element(name, untyped): /unit/unit[126]/class/block/decl_stmt[8]/decl/name
+
+g_s_ending[]: element(name, untyped): /unit/unit[126]/class/block/decl_stmt[9]/decl/name
+
+g_st_ending[]: element(name, untyped): /unit/unit[126]/class/block/decl_stmt[10]/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[127]/class/block/decl_stmt[1]/decl/name
+
+g_AEI[]: element(name, untyped): /unit/unit[127]/class/block/decl_stmt[13]/decl/name
+
+g_V1[]: element(name, untyped): /unit/unit[127]/class/block/decl_stmt[14]/decl/name
+
+g_V2[]: element(name, untyped): /unit/unit[127]/class/block/decl_stmt[15]/decl/name
+
+g_particle_end[]: element(name, untyped): /unit/unit[127]/class/block/decl_stmt[16]/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[128]/class/block/decl_stmt[1]/decl/name
+
+g_v[]: element(name, untyped): /unit/unit[128]/class/block/decl_stmt[6]/decl/name
+
+g_s_ending[]: element(name, untyped): /unit/unit[128]/class/block/decl_stmt[7]/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[129]/class/block/decl_stmt[1]/decl/name
+
+g_v[]: element(name, untyped): /unit/unit[129]/class/block/decl_stmt[12]/decl/name
+
+g_keep_with_s[]: element(name, untyped): /unit/unit[129]/class/block/decl_stmt[13]/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[130]/class/block/decl_stmt[1]/decl/name
+
+g_v[]: element(name, untyped): /unit/unit[130]/class/block/decl_stmt[15]/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[131]/class/block/decl_stmt[1]/decl/name
+
+g_v[]: element(name, untyped): /unit/unit[131]/class/block/decl_stmt[11]/decl/name
+
+g_AEIO[]: element(name, untyped): /unit/unit[131]/class/block/decl_stmt[12]/decl/name
+
+g_CG[]: element(name, untyped): /unit/unit[131]/class/block/decl_stmt[13]/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[132]/class/block/decl_stmt[1]/decl/name
+
+g_v[]: element(name, untyped): /unit/unit[132]/class/block/decl_stmt[9]/decl/name
+
+g_v_WXY[]: element(name, untyped): /unit/unit[132]/class/block/decl_stmt[10]/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[133]/class/block/decl_stmt[1]/decl/name
+
+g_v[]: element(name, untyped): /unit/unit[133]/class/block/decl_stmt[12]/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[134]/class/block/decl_stmt[1]/decl/name
+
+g_v[]: element(name, untyped): /unit/unit[134]/class/block/decl_stmt[9]/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[135]/class/block/decl_stmt[1]/decl/name
+
+g_v[]: element(name, untyped): /unit/unit[135]/class/block/decl_stmt[6]/decl/name
+
+g_s_ending[]: element(name, untyped): /unit/unit[135]/class/block/decl_stmt[7]/decl/name
+
+INT_POOL: element(name, untyped): /unit/unit[136]/class/block/decl_stmt/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[137]/class/block/decl_stmt[1]/decl/name
+
+g_v[]: element(name, untyped): /unit/unit[137]/class/block/decl_stmt[11]/decl/name
+
+INT_POOL: element(name, untyped): /unit/unit[138]/class/block/decl_stmt[1]/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[140]/class/block/decl_stmt[1]/decl/name
+
+g_v[]: element(name, untyped): /unit/unit[140]/class/block/decl_stmt[13]/decl/name
+
+ABBREVIATIONS_ENTRY_NAME: element(name, untyped): /unit/unit[150]/class/block/decl_stmt[5]/decl/name
+
+EOS_CHARACTERS_PROPERTY: element(name, untyped): /unit/unit[150]/class/block/decl_stmt[6]/decl/name
+
+TOKEN_END_PROPERTY: element(name, untyped): /unit/unit[150]/class/block/decl_stmt[7]/decl/name
+
+COMPONENT_NAME: element(name, untyped): /unit/unit[151]/class/block/decl_stmt[1]/decl/name
+
+MAXENT_MODEL_ENTRY_NAME: element(name, untyped): /unit/unit[151]/class/block/decl_stmt[2]/decl/name
+
+SPLIT: element(name, untyped): /unit/unit[153]/class/block/decl_stmt[1]/decl/name
+
+NO_SPLIT: element(name, untyped): /unit/unit[153]/class/block/decl_stmt[2]/decl/name
+
+ptEosCharacters: element(name, untyped): /unit/unit[156]/class/block/decl_stmt[1]/decl/name
+
+defaultEosCharacters: element(name, untyped): /unit/unit[156]/class/block/decl_stmt[2]/decl/name
+
+thEosCharacters: element(name, untyped): /unit/unit[156]/class/block/decl_stmt[3]/decl/name
+
+eosCharacters: element(name, untyped): /unit/unit[157]/class/block/decl_stmt/decl/name
+
+PREFIX_LENGTH: element(name, untyped): /unit/unit[161]/class/block/decl_stmt[3]/decl/name
+
+SUFFIX_LENGTH: element(name, untyped): /unit/unit[161]/class/block/decl_stmt[4]/decl/name
+
+hasCap: element(name, untyped): /unit/unit[161]/class/block/decl_stmt[5]/decl/name
+
+hasNum: element(name, untyped): /unit/unit[161]/class/block/decl_stmt[6]/decl/name
+
+COMPONENT_NAME: element(name, untyped): /unit/unit[165]/class/block/decl_stmt[1]/decl/name
+
+POS_MODEL_ENTRY_NAME: element(name, untyped): /unit/unit[165]/class/block/decl_stmt[2]/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[166]/class/block/decl_stmt[1]/decl/name
+
+g_vowel[]: element(name, untyped): /unit/unit[166]/class/block/decl_stmt[27]/decl/name
+
+g_U[]: element(name, untyped): /unit/unit[166]/class/block/decl_stmt[28]/decl/name
+
+g_vowel1[]: element(name, untyped): /unit/unit[166]/class/block/decl_stmt[29]/decl/name
+
+g_vowel2[]: element(name, untyped): /unit/unit[166]/class/block/decl_stmt[30]/decl/name
+
+g_vowel3[]: element(name, untyped): /unit/unit[166]/class/block/decl_stmt[31]/decl/name
+
+g_vowel4[]: element(name, untyped): /unit/unit[166]/class/block/decl_stmt[32]/decl/name
+
+g_vowel5[]: element(name, untyped): /unit/unit[166]/class/block/decl_stmt[33]/decl/name
+
+g_vowel6[]: element(name, untyped): /unit/unit[166]/class/block/decl_stmt[34]/decl/name
+
+logger: element(name, untyped): /unit/unit[174]/class/block/decl_stmt/decl/name
+
+TAG_DICTIONARY_ENTRY_NAME: element(name, untyped): /unit/unit[176]/class/block/decl_stmt[1]/decl/name
+
+NGRAM_DICTIONARY_ENTRY_NAME: element(name, untyped): /unit/unit[176]/class/block/decl_stmt[2]/decl/name
+
+DEFAULT_BEAM_SIZE: element(name, untyped): /unit/unit[177]/class/block/decl_stmt[1]/decl/name
+
+EOS: element(name, untyped): /unit/unit[179]/class/block/decl_stmt[1]/decl/name
+
+defaultBeamSize: element(name, untyped): /unit/unit[183]/class/block/decl_stmt[4]/decl/name
+
+defaultAdvancePercentage: element(name, untyped): /unit/unit[183]/class/block/decl_stmt[5]/decl/name
+
+TOP_NODE: element(name, untyped): /unit/unit[183]/class/block/decl_stmt[11]/decl/name
+
+INC_NODE: element(name, untyped): /unit/unit[183]/class/block/decl_stmt[12]/decl/name
+
+TOK_NODE: element(name, untyped): /unit/unit[183]/class/block/decl_stmt[13]/decl/name
+
+ZERO: element(name, untyped): /unit/unit[183]/class/block/decl_stmt[14]/decl/name
+
+START: element(name, untyped): /unit/unit[183]/class/block/decl_stmt[15]/decl/name
+
+CONT: element(name, untyped): /unit/unit[183]/class/block/decl_stmt[16]/decl/name
+
+OTHER: element(name, untyped): /unit/unit[183]/class/block/decl_stmt[17]/decl/name
+
+COMPLETE: element(name, untyped): /unit/unit[183]/class/block/decl_stmt[18]/decl/name
+
+INCOMPLETE: element(name, untyped): /unit/unit[183]/class/block/decl_stmt[19]/decl/name
+
+EOS: element(name, untyped): /unit/unit[186]/class/block/decl_stmt[1]/decl/name
+
+BRACKET_LRB: element(name, untyped): /unit/unit[199]/class/block/decl_stmt[1]/decl/name
+
+BRACKET_RRB: element(name, untyped): /unit/unit[199]/class/block/decl_stmt[2]/decl/name
+
+BRACKET_LCB: element(name, untyped): /unit/unit[199]/class/block/decl_stmt[3]/decl/name
+
+BRACKET_RCB: element(name, untyped): /unit/unit[199]/class/block/decl_stmt[4]/decl/name
+
+BRACKET_LSB: element(name, untyped): /unit/unit[199]/class/block/decl_stmt[5]/decl/name
+
+BRACKET_RSB: element(name, untyped): /unit/unit[199]/class/block/decl_stmt[6]/decl/name
+
+typePattern: element(name, untyped): /unit/unit[199]/class/block/decl_stmt[18]/decl/name
+
+funTypePattern: element(name, untyped): /unit/unit[199]/class/block/decl_stmt[19]/decl/name
+
+tokenPattern: element(name, untyped): /unit/unit[199]/class/block/decl_stmt[20]/decl/name
+
+useFunctionTags: element(name, untyped): /unit/unit[199]/class/block/decl_stmt[23]/decl/name
+
+COMPONENT_NAME: element(name, untyped): /unit/unit[200]/class/block/decl_stmt[1]/decl/name
+
+BUILD_MODEL_ENTRY_NAME: element(name, untyped): /unit/unit[200]/class/block/decl_stmt[2]/decl/name
+
+CHECK_MODEL_ENTRY_NAME: element(name, untyped): /unit/unit[200]/class/block/decl_stmt[3]/decl/name
+
+ATTACH_MODEL_ENTRY_NAME: element(name, untyped): /unit/unit[200]/class/block/decl_stmt[4]/decl/name
+
+PARSER_TAGGER_MODEL_ENTRY_NAME: element(name, untyped): /unit/unit[200]/class/block/decl_stmt[5]/decl/name
+
+CHUNKER_TAGGER_MODEL_ENTRY_NAME: element(name, untyped): /unit/unit[200]/class/block/decl_stmt[6]/decl/name
+
+HEAD_RULES_MODEL_ENTRY_NAME: element(name, untyped): /unit/unit[200]/class/block/decl_stmt[7]/decl/name
+
+PARSER_TYPE: element(name, untyped): /unit/unit[200]/class/block/decl_stmt[8]/decl/name
+
+DONE: element(name, untyped): /unit/unit[207]/class/block/decl_stmt[1]/decl/name
+
+ATTACH_SISTER: element(name, untyped): /unit/unit[207]/class/block/decl_stmt[2]/decl/name
+
+ATTACH_DAUGHTER: element(name, untyped): /unit/unit[207]/class/block/decl_stmt[3]/decl/name
+
+NON_ATTACH: element(name, untyped): /unit/unit[207]/class/block/decl_stmt[4]/decl/name
+
+BUILT: element(name, untyped): /unit/unit[207]/class/block/decl_stmt[5]/decl/name
+
+checkComplete: element(name, untyped): /unit/unit[207]/class/block/decl_stmt[9]/decl/name
+
+debug: element(name, untyped): /unit/unit[208]/class/block/decl_stmt[4]/decl/name
+
+TOP_START: element(name, untyped): /unit/unit[215]/class/block/decl_stmt[7]/decl/name
+
+COUNT: element(name, untyped): /unit/unit[216]/class/block/decl_stmt[1]/decl/name
+
+START: element(name, untyped): /unit/unit[218]/class/block/decl_stmt[1]/decl/name
+
+CONTINUE: element(name, untyped): /unit/unit[218]/class/block/decl_stmt[2]/decl/name
+
+LAST: element(name, untyped): /unit/unit[218]/class/block/decl_stmt[3]/decl/name
+
+UNIT: element(name, untyped): /unit/unit[218]/class/block/decl_stmt[4]/decl/name
+
+OTHER: element(name, untyped): /unit/unit[218]/class/block/decl_stmt[5]/decl/name
+
+START: element(name, untyped): /unit/unit[219]/class/block/decl_stmt[1]/decl/name
+
+CONTINUE: element(name, untyped): /unit/unit[219]/class/block/decl_stmt[2]/decl/name
+
+OTHER: element(name, untyped): /unit/unit[219]/class/block/decl_stmt[3]/decl/name
+
+typedOutcomePattern: element(name, untyped): /unit/unit[219]/class/block/decl_stmt[4]/decl/name
+
+DEFAULT_TYPE: element(name, untyped): /unit/unit[220]/class/block/decl_stmt[1]/decl/name
+
+windowFeatures: element(name, untyped): /unit/unit[221]/class/block/decl_stmt[2]/decl/name
+
+START_TAG_PREFIX: element(name, untyped): /unit/unit[226]/class/block/decl_stmt[1]/decl/name
+
+START_TAG: element(name, untyped): /unit/unit[226]/class/block/decl_stmt[2]/decl/name
+
+END_TAG: element(name, untyped): /unit/unit[226]/class/block/decl_stmt[3]/decl/name
+
+DEFAULT_TYPE: element(name, untyped): /unit/unit[227]/class/block/decl_stmt[6]/decl/name
+
+START_TAG_PATTERN: element(name, untyped): /unit/unit[227]/class/block/decl_stmt[7]/decl/name
+
+EMPTY: element(name, untyped): /unit/unit[228]/class/block/decl_stmt[1]/decl/name
+
+DEFAULT_BEAM_SIZE: element(name, untyped): /unit/unit[228]/class/block/decl_stmt[2]/decl/name
+
+typedOutcomePattern: element(name, untyped): /unit/unit[228]/class/block/decl_stmt[3]/decl/name
+
+START: element(name, untyped): /unit/unit[228]/class/block/decl_stmt[4]/decl/name
+
+CONTINUE: element(name, untyped): /unit/unit[228]/class/block/decl_stmt[5]/decl/name
+
+OTHER: element(name, untyped): /unit/unit[228]/class/block/decl_stmt[6]/decl/name
+
+DATA_INDEXER_PARAM: element(name, untyped): /unit/unit[241]/class/block/decl_stmt[1]/decl/name
+
+DATA_INDEXER_ONE_PASS_VALUE: element(name, untyped): /unit/unit[241]/class/block/decl_stmt[2]/decl/name
+
+DATA_INDEXER_TWO_PASS_VALUE: element(name, untyped): /unit/unit[241]/class/block/decl_stmt[3]/decl/name
+
+COMPONENT_NAME: element(name, untyped): /unit/unit[242]/class/block/decl_stmt[1]/decl/name
+
+MAXENT_MODEL_ENTRY_NAME: element(name, untyped): /unit/unit[242]/class/block/decl_stmt[2]/decl/name
+
+GENERATOR_DESCRIPTOR_ENTRY_NAME: element(name, untyped): /unit/unit[242]/class/block/decl_stmt[3]/decl/name
+
+SEQUENCE_CODEC_CLASS_NAME_PARAMETER: element(name, untyped): /unit/unit[242]/class/block/decl_stmt[4]/decl/name
+
+ALGORITHM_PARAM: element(name, untyped): /unit/unit[243]/class/block/decl_stmt[1]/decl/name
+
+TRAINER_TYPE_PARAM: element(name, untyped): /unit/unit[243]/class/block/decl_stmt[2]/decl/name
+
+CUTOFF_PARAM: element(name, untyped): /unit/unit[243]/class/block/decl_stmt[3]/decl/name
+
+CUTOFF_DEFAULT: element(name, untyped): /unit/unit[243]/class/block/decl_stmt[4]/decl/name
+
+ITERATIONS_PARAM: element(name, untyped): /unit/unit[243]/class/block/decl_stmt[5]/decl/name
+
+ITERATIONS_DEFAULT: element(name, untyped): /unit/unit[243]/class/block/decl_stmt[6]/decl/name
+
+SEQUENCE_VALUE: element(name, untyped): /unit/unit[244]/interface/block/decl_stmt/decl/name
+
+EVENT_VALUE: element(name, untyped): /unit/unit[245]/interface/block/decl_stmt/decl/name
+
+SEQUENCE_VALUE: element(name, untyped): /unit/unit[246]/interface/block/decl_stmt/decl/name
+
+BEAM_SIZE_PARAMETER: element(name, untyped): /unit/unit[247]/class/block/decl_stmt[1]/decl/name
+
+EMPTY_ADDITIONAL_CONTEXT: element(name, untyped): /unit/unit[247]/class/block/decl_stmt[2]/decl/name
+
+zeroLog: element(name, untyped): /unit/unit[247]/class/block/decl_stmt[7]/decl/name
+
+BUILTIN_TRAINERS: element(name, untyped): /unit/unit[250]/class/block/decl_stmt/decl/name
+
+PERCEPTRON_VALUE: element(name, untyped): /unit/unit[258]/class/block/decl_stmt[1]/decl/name
+
+TOLERANCE_DEFAULT: element(name, untyped): /unit/unit[258]/class/block/decl_stmt[2]/decl/name
+
+PERCEPTRON_SEQUENCE_VALUE: element(name, untyped): /unit/unit[261]/class/block/decl_stmt[1]/decl/name
+
+MAXENT_VALUE: element(name, untyped): /unit/unit[295]/class/block/decl_stmt[1]/decl/name
+
+PRINT_MESSAGES: element(name, untyped): /unit/unit[295]/class/block/decl_stmt[2]/decl/name
+
+SMOOTHING_OBSERVATION: element(name, untyped): /unit/unit[295]/class/block/decl_stmt[3]/decl/name
+
+LLThreshold: element(name, untyped): /unit/unit[302]/class/block/decl_stmt[21]/decl/name
+
+C: element(name, untyped): /unit/unit[303]/class/block/decl_stmt[1]/decl/name
+
+RHO: element(name, untyped): /unit/unit[303]/class/block/decl_stmt[2]/decl/name
+
+CONVERGE_TOLERANCE: element(name, untyped): /unit/unit[308]/class/block/decl_stmt[1]/decl/name
+
+REL_GRAD_NORM_TOL: element(name, untyped): /unit/unit[308]/class/block/decl_stmt[2]/decl/name
+
+INITIAL_STEP_SIZE: element(name, untyped): /unit/unit[308]/class/block/decl_stmt[3]/decl/name
+
+MIN_STEP_SIZE: element(name, untyped): /unit/unit[308]/class/block/decl_stmt[4]/decl/name
+
+L1COST_DEFAULT: element(name, untyped): /unit/unit[308]/class/block/decl_stmt[5]/decl/name
+
+L2COST_DEFAULT: element(name, untyped): /unit/unit[308]/class/block/decl_stmt[6]/decl/name
+
+NUM_ITERATIONS_DEFAULT: element(name, untyped): /unit/unit[308]/class/block/decl_stmt[7]/decl/name
+
+M_DEFAULT: element(name, untyped): /unit/unit[308]/class/block/decl_stmt[8]/decl/name
+
+MAX_FCT_EVAL_DEFAULT: element(name, untyped): /unit/unit[308]/class/block/decl_stmt[9]/decl/name
+
+MAXENT_QN_VALUE: element(name, untyped): /unit/unit[310]/class/block/decl_stmt[1]/decl/name
+
+THREADS_PARAM: element(name, untyped): /unit/unit[310]/class/block/decl_stmt[2]/decl/name
+
+THREADS_DEFAULT: element(name, untyped): /unit/unit[310]/class/block/decl_stmt[3]/decl/name
+
+L1COST_PARAM: element(name, untyped): /unit/unit[310]/class/block/decl_stmt[4]/decl/name
+
+L1COST_DEFAULT: element(name, untyped): /unit/unit[310]/class/block/decl_stmt[5]/decl/name
+
+L2COST_PARAM: element(name, untyped): /unit/unit[310]/class/block/decl_stmt[6]/decl/name
+
+L2COST_DEFAULT: element(name, untyped): /unit/unit[310]/class/block/decl_stmt[7]/decl/name
+
+M_PARAM: element(name, untyped): /unit/unit[310]/class/block/decl_stmt[8]/decl/name
+
+M_DEFAULT: element(name, untyped): /unit/unit[310]/class/block/decl_stmt[9]/decl/name
+
+MAX_FCT_EVAL_PARAM: element(name, untyped): /unit/unit[310]/class/block/decl_stmt[10]/decl/name
+
+MAX_FCT_EVAL_DEFAULT: element(name, untyped): /unit/unit[310]/class/block/decl_stmt[11]/decl/name
+
+GENERATE_DNA_ENTITIES: element(name, untyped): /unit/unit[330]/class/block/decl_stmt[1]/decl/name
+
+GENERATE_PROTEIN_ENTITIES: element(name, untyped): /unit/unit[330]/class/block/decl_stmt[2]/decl/name
+
+GENERATE_CELLTYPE_ENTITIES: element(name, untyped): /unit/unit[330]/class/block/decl_stmt[3]/decl/name
+
+GENERATE_CELLLINE_ENTITIES: element(name, untyped): /unit/unit[330]/class/block/decl_stmt[4]/decl/name
+
+GENERATE_RNA_ENTITIES: element(name, untyped): /unit/unit[330]/class/block/decl_stmt[5]/decl/name
+
+GENERATE_PERSON_ENTITIES: element(name, untyped): /unit/unit[333]/class/block/decl_stmt[1]/decl/name
+
+GENERATE_ORGANIZATION_ENTITIES: element(name, untyped): /unit/unit[333]/class/block/decl_stmt[2]/decl/name
+
+GENERATE_LOCATION_ENTITIES: element(name, untyped): /unit/unit[333]/class/block/decl_stmt[3]/decl/name
+
+GENERATE_MISC_ENTITIES: element(name, untyped): /unit/unit[333]/class/block/decl_stmt[4]/decl/name
+
+DOCSTART: element(name, untyped): /unit/unit[333]/class/block/decl_stmt[5]/decl/name
+
+CONLLX_FORMAT: element(name, untyped): /unit/unit[337]/class/block/decl_stmt/decl/name
+
+GENERATE_PERSON_ENTITIES: element(name, untyped): /unit/unit[345]/class/block/decl_stmt[1]/decl/name
+
+GENERATE_ORGANIZATION_ENTITIES: element(name, untyped): /unit/unit[345]/class/block/decl_stmt[2]/decl/name
+
+GENERATE_LOCATION_ENTITIES: element(name, untyped): /unit/unit[345]/class/block/decl_stmt[3]/decl/name
+
+GENERATE_GPE_ENTITIES: element(name, untyped): /unit/unit[345]/class/block/decl_stmt[4]/decl/name
+
+DOCSTART: element(name, untyped): /unit/unit[345]/class/block/decl_stmt[5]/decl/name
+
+DOC_START_ELEMENT: element(name, untyped): /unit/unit[362]/class/block/decl_stmt[1]/decl/name
+
+DOC_END_ELEMENT: element(name, untyped): /unit/unit[362]/class/block/decl_stmt[2]/decl/name
+
+DOC_ELEMENT: element(name, untyped): /unit/unit[364]/class/block/decl_stmt[1]/decl/name
+
+HEADLINE_ELEMENT: element(name, untyped): /unit/unit[364]/class/block/decl_stmt[2]/decl/name
+
+DATELINE_ELEMENT: element(name, untyped): /unit/unit[364]/class/block/decl_stmt[3]/decl/name
+
+DD_ELEMENT: element(name, untyped): /unit/unit[364]/class/block/decl_stmt[4]/decl/name
+
+SENTENCE_ELEMENT: element(name, untyped): /unit/unit[364]/class/block/decl_stmt[5]/decl/name
+
+CONTENT_ELEMENTS: element(name, untyped): /unit/unit[364]/class/block/decl_stmt[6]/decl/name
+
+ENTITY_ELEMENT_NAME: element(name, untyped): /unit/unit[365]/class/block/decl_stmt[1]/decl/name
+
+TIME_ELEMENT_NAME: element(name, untyped): /unit/unit[365]/class/block/decl_stmt[2]/decl/name
+
+NUM_ELEMENT_NAME: element(name, untyped): /unit/unit[365]/class/block/decl_stmt[3]/decl/name
+
+NAME_ELEMENT_NAMES: element(name, untyped): /unit/unit[365]/class/block/decl_stmt[4]/decl/name
+
+EXPECTED_TYPES: element(name, untyped): /unit/unit[365]/class/block/decl_stmt[5]/decl/name
+
+SENT_ELEMENT_NAME: element(name, untyped): /unit/unit[369]/class/block/decl_stmt[1]/decl/name
+
+WORD_ELEMENT_NAME: element(name, untyped): /unit/unit[369]/class/block/decl_stmt[2]/decl/name
+
+SENT_TYPE_NAME: element(name, untyped): /unit/unit[369]/class/block/decl_stmt[3]/decl/name
+
+SPAN_TYPE: element(name, untyped): /unit/unit[386]/class/block/decl_stmt[1]/decl/name
+
+ENTITY_TYPE: element(name, untyped): /unit/unit[386]/class/block/decl_stmt[2]/decl/name
+
+RELATION_TYPE: element(name, untyped): /unit/unit[386]/class/block/decl_stmt[3]/decl/name
+
+ATTRIBUTE_TYPE: element(name, untyped): /unit/unit[386]/class/block/decl_stmt[4]/decl/name
+
+ID_OFFSET: element(name, untyped): /unit/unit[390]/class/block/class[1]/block/decl_stmt[1]/decl/name
+
+TYPE_OFFSET: element(name, untyped): /unit/unit[390]/class/block/class[1]/block/decl_stmt[2]/decl/name
+
+BEGIN_OFFSET: element(name, untyped): /unit/unit[390]/class/block/class[2]/block/decl_stmt[1]/decl/name
+
+END_OFFSET: element(name, untyped): /unit/unit[390]/class/block/class[2]/block/decl_stmt[2]/decl/name
+
+ARG1_OFFSET: element(name, untyped): /unit/unit[390]/class/block/class[3]/block/decl_stmt[1]/decl/name
+
+ARG2_OFFSET: element(name, untyped): /unit/unit[390]/class/block/class[3]/block/decl_stmt[2]/decl/name
+
+ATTACHED_TO_OFFSET: element(name, untyped): /unit/unit[390]/class/block/class[4]/block/decl_stmt[1]/decl/name
+
+VALUE_OFFSET: element(name, untyped): /unit/unit[390]/class/block/class[4]/block/decl_stmt[2]/decl/name
+
+OTHER: element(name, untyped): /unit/unit[399]/class/block/decl_stmt[5]/decl/name
+
+tagPattern: element(name, untyped): /unit/unit[402]/class/block/decl_stmt[1]/decl/name
+
+whitespacePattern: element(name, untyped): /unit/unit[402]/class/block/decl_stmt[2]/decl/name
+
+underlinePattern: element(name, untyped): /unit/unit[402]/class/block/decl_stmt[3]/decl/name
+
+hyphenPattern: element(name, untyped): /unit/unit[402]/class/block/decl_stmt[4]/decl/name
+
+alphanumericPattern: element(name, untyped): /unit/unit[402]/class/block/decl_stmt[5]/decl/name
+
+HAREM: element(name, untyped): /unit/unit[402]/class/block/decl_stmt[6]/decl/name
+
+CONTRACTIONS: element(name, untyped): /unit/unit[406]/class/block/decl_stmt/decl/name
+
+META_LABEL_FINAL: element(name, untyped): /unit/unit[409]/class/block/class[1]/block/decl_stmt[4]/decl/name
+
+sentStart: element(name, untyped): /unit/unit[409]/class/block/decl_stmt[1]/decl/name
+
+sentEnd: element(name, untyped): /unit/unit[409]/class/block/decl_stmt[2]/decl/name
+
+extEnd: element(name, untyped): /unit/unit[409]/class/block/decl_stmt[3]/decl/name
+
+titleStart: element(name, untyped): /unit/unit[409]/class/block/decl_stmt[4]/decl/name
+
+titleEnd: element(name, untyped): /unit/unit[409]/class/block/decl_stmt[5]/decl/name
+
+boxStart: element(name, untyped): /unit/unit[409]/class/block/decl_stmt[6]/decl/name
+
+boxEnd: element(name, untyped): /unit/unit[409]/class/block/decl_stmt[7]/decl/name
+
+paraStart: element(name, untyped): /unit/unit[409]/class/block/decl_stmt[8]/decl/name
+
+textStart: element(name, untyped): /unit/unit[409]/class/block/decl_stmt[9]/decl/name
+
+FEATURE_GENERATORS: element(name, untyped): /unit/unit[416]/class/block/decl_stmt[1]/decl/name
+
+TOKENIZER_NAME: element(name, untyped): /unit/unit[416]/class/block/decl_stmt[2]/decl/name
+
+COMPONENT_NAME: element(name, untyped): /unit/unit[418]/class/block/decl_stmt[1]/decl/name
+
+DOCCAT_MODEL_ENTRY_NAME: element(name, untyped): /unit/unit[418]/class/block/decl_stmt[2]/decl/name
+
+defaultFeatureGenerator: element(name, untyped): /unit/unit[422]/class/block/decl_stmt[1]/decl/name
+
+CHARSET: element(name, untyped): /unit/unit[435]/class/block/decl_stmt[1]/decl/name
+
+DICTIONARY_ELEMENT: element(name, untyped): /unit/unit[435]/class/block/decl_stmt[2]/decl/name
+
+ENTRY_ELEMENT: element(name, untyped): /unit/unit[435]/class/block/decl_stmt[3]/decl/name
+
+TOKEN_ELEMENT: element(name, untyped): /unit/unit[435]/class/block/decl_stmt[4]/decl/name
+
+ATTRIBUTE_CASE_SENSITIVE: element(name, untyped): /unit/unit[435]/class/block/decl_stmt[5]/decl/name
+
+argumentFactories: element(name, untyped): /unit/unit[442]/decl_stmt/decl/name
+
+CMD: element(name, untyped): /unit/unit[443]/class/block/decl_stmt[1]/decl/name
+
+toolLookupMap: element(name, untyped): /unit/unit[443]/class/block/decl_stmt[2]/decl/name
+
+IO_BUFFER_SIZE: element(name, untyped): /unit/unit[445]/class/block/decl_stmt/decl/name
+
+PERCENT: element(name, untyped): /unit/unit[446]/class/block/decl_stmt[4]/decl/name
+
+FORMAT: element(name, untyped): /unit/unit[446]/class/block/decl_stmt[5]/decl/name
+
+FORMAT_EXTRA: element(name, untyped): /unit/unit[446]/class/block/decl_stmt[6]/decl/name
+
+registry: element(name, untyped): /unit/unit[451]/class/block/decl_stmt[1]/decl/name
+
+DEFAULT_FORMAT: element(name, untyped): /unit/unit[451]/class/block/decl_stmt[2]/decl/name
+
+serialVersionUID: element(name, untyped): /unit/unit[452]/class/block/decl_stmt[1]/decl/name
+
+untokenizedParenPattern1: element(name, untyped): /unit/unit[488]/class/block/decl_stmt[1]/decl/name
+
+untokenizedParenPattern2: element(name, untyped): /unit/unit[488]/class/block/decl_stmt[2]/decl/name
+
+alpha: element(name, untyped): /unit/unit[494]/class/block/decl_stmt[3]/decl/name
+
+alpha: element(name, untyped): /unit/unit[527]/class/block/decl_stmt[3]/decl/name
+
+DEFAULT_BEAM_SIZE: element(name, untyped): /unit/unit[543]/class/block/decl_stmt[1]/decl/name
+
+COMPONENT_NAME: element(name, untyped): /unit/unit[547]/class/block/decl_stmt[1]/decl/name
+
+CHUNKER_MODEL_ENTRY_NAME: element(name, untyped): /unit/unit[547]/class/block/decl_stmt[2]/decl/name
