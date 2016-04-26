@@ -1,0 +1,1012 @@
+# of global variable in this systems: 136
+
+The global variable: ChunkerME.DEFAULT_BEAM_SIZE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/chunker/ChunkerCrossValidator.java
+	line number: 81
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/chunker/ChunkerME.java
+	line number: 200
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/chunker/ChunkerModel.java
+	line number: 58
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/chunker/ChunkerModel.java
+	line number: 70
+	5. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/chunker/ChunkerModel.java
+	line number: 138
+	6. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/ParserChunkerFactory.java
+	line number: 30
+In total, the ChunkerME.DEFAULT_BEAM_SIZE was used 6 times.
+
+The global variable: ArgumentParser$OptionalParameter.DEFAULT_CHARSET was used in following file(s)
+In total, the ArgumentParser$OptionalParameter.DEFAULT_CHARSET was used 0 times.
+
+The global variable: CLI.CMD was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/AbstractConverterTool.java
+	line number: 67
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/AbstractTypedParamTool.java
+	line number: 52
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/chunker/ChunkerMETool.java
+	line number: 42
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/CmdLineTool.java
+	line number: 56
+	5. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/doccat/DoccatTool.java
+	line number: 43
+	6. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/entitylinker/EntityLinkerTool.java
+	line number: 148
+	7. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/namefind/TokenNameFinderTool.java
+	line number: 46
+	8. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/parser/ParserTool.java
+	line number: 47
+	9. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/parser/TaggerModelReplacerTool.java
+	line number: 37
+	10. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/postag/POSTaggerTool.java
+	line number: 41
+	11. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/sentdetect/SentenceDetectorTool.java
+	line number: 44
+	12. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/tokenizer/DictionaryDetokenizerTool.java
+	line number: 37
+	13. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/tokenizer/SimpleTokenizerTool.java
+	line number: 30
+	14. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/tokenizer/TokenizerMETool.java
+	line number: 33
+	15. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/TypedCmdLineTool.java
+	line number: 105
+In total, the CLI.CMD was used 15 times.
+
+The global variable: StreamFactoryRegistry.DEFAULT_FORMAT was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/AbstractConverterTool.java
+	line number: 47
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/AbstractConverterTool.java
+	line number: 54
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/AbstractConverterTool.java
+	line number: 74
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/AbstractTypedParamTool.java
+	line number: 43
+	5. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/AbstractTypedParamTool.java
+	line number: 45
+	6. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/CLI.java
+	line number: 199
+	7. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/TypedCmdLineTool.java
+	line number: 98
+	8. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/ChunkerSampleStreamFactory.java
+	line number: 41
+	9. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/convert/NameToSentenceSampleStreamFactory.java
+	line number: 50
+	10. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/convert/NameToTokenSampleStreamFactory.java
+	line number: 50
+	11. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/convert/ParseToPOSSampleStreamFactory.java
+	line number: 43
+	12. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/convert/ParseToSentenceSampleStreamFactory.java
+	line number: 45
+	13. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/convert/ParseToTokenSampleStreamFactory.java
+	line number: 46
+	14. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/convert/POSToSentenceSampleStreamFactory.java
+	line number: 50
+	15. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/convert/POSToTokenSampleStreamFactory.java
+	line number: 50
+	16. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/DocumentSampleStreamFactory.java
+	line number: 41
+	17. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/NameSampleDataStreamFactory.java
+	line number: 41
+	18. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/ParseSampleStreamFactory.java
+	line number: 41
+	19. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/SentenceSampleStreamFactory.java
+	line number: 43
+	20. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/TokenSampleStreamFactory.java
+	line number: 41
+	21. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/WordTagSampleStreamFactory.java
+	line number: 41
+In total, the StreamFactoryRegistry.DEFAULT_FORMAT was used 21 times.
+
+The global variable: ADChunkSampleStream.OTHER was used in following file(s)
+In total, the ADChunkSampleStream.OTHER was used 0 times.
+
+The global variable: ADSentenceStream$Sentence.META_LABEL_FINAL was used in following file(s)
+In total, the ADSentenceStream$Sentence.META_LABEL_FINAL was used 0 times.
+
+The global variable: PortugueseContractionUtility.CONTRACTIONS was used in following file(s)
+In total, the PortugueseContractionUtility.CONTRACTIONS was used 0 times.
+
+The global variable: BioNLP2004NameSampleStream.GENERATE_DNA_ENTITIES was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/BioNLP2004NameSampleStreamFactory.java
+	line number: 52
+In total, the BioNLP2004NameSampleStream.GENERATE_DNA_ENTITIES was used 1 times.
+
+The global variable: BioNLP2004NameSampleStream.GENERATE_PROTEIN_ENTITIES was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/BioNLP2004NameSampleStreamFactory.java
+	line number: 56
+In total, the BioNLP2004NameSampleStream.GENERATE_PROTEIN_ENTITIES was used 1 times.
+
+The global variable: BioNLP2004NameSampleStream.GENERATE_CELLTYPE_ENTITIES was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/BioNLP2004NameSampleStreamFactory.java
+	line number: 60
+In total, the BioNLP2004NameSampleStream.GENERATE_CELLTYPE_ENTITIES was used 1 times.
+
+The global variable: BioNLP2004NameSampleStream.GENERATE_CELLLINE_ENTITIES was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/BioNLP2004NameSampleStreamFactory.java
+	line number: 64
+In total, the BioNLP2004NameSampleStream.GENERATE_CELLLINE_ENTITIES was used 1 times.
+
+The global variable: BioNLP2004NameSampleStream.GENERATE_RNA_ENTITIES was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/BioNLP2004NameSampleStreamFactory.java
+	line number: 68
+In total, the BioNLP2004NameSampleStream.GENERATE_RNA_ENTITIES was used 1 times.
+
+The global variable: AnnotationConfiguration.SPAN_TYPE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/brat/BratAnnotationStream.java
+	line number: 156
+In total, the AnnotationConfiguration.SPAN_TYPE was used 1 times.
+
+The global variable: AnnotationConfiguration.ENTITY_TYPE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/brat/AnnotationConfiguration.java
+	line number: 74
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/brat/BratAnnotationStream.java
+	line number: 157
+In total, the AnnotationConfiguration.ENTITY_TYPE was used 2 times.
+
+The global variable: AnnotationConfiguration.RELATION_TYPE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/brat/AnnotationConfiguration.java
+	line number: 78
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/brat/BratAnnotationStream.java
+	line number: 158
+In total, the AnnotationConfiguration.RELATION_TYPE was used 2 times.
+
+The global variable: AnnotationConfiguration.ATTRIBUTE_TYPE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/brat/AnnotationConfiguration.java
+	line number: 82
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/brat/BratAnnotationStream.java
+	line number: 159
+In total, the AnnotationConfiguration.ATTRIBUTE_TYPE was used 2 times.
+
+The global variable: Conll02NameSampleStream.GENERATE_PERSON_ENTITIES was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/Conll02NameSampleStreamFactory.java
+	line number: 75
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/Conll03NameSampleStream.java
+	line number: 145
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/Conll03NameSampleStreamFactory.java
+	line number: 71
+In total, the Conll02NameSampleStream.GENERATE_PERSON_ENTITIES was used 3 times.
+
+The global variable: Conll02NameSampleStream.GENERATE_ORGANIZATION_ENTITIES was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/Conll02NameSampleStreamFactory.java
+	line number: 79
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/Conll03NameSampleStream.java
+	line number: 149
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/Conll03NameSampleStreamFactory.java
+	line number: 75
+In total, the Conll02NameSampleStream.GENERATE_ORGANIZATION_ENTITIES was used 3 times.
+
+The global variable: Conll02NameSampleStream.GENERATE_LOCATION_ENTITIES was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/Conll02NameSampleStreamFactory.java
+	line number: 83
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/Conll03NameSampleStream.java
+	line number: 153
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/Conll03NameSampleStreamFactory.java
+	line number: 79
+In total, the Conll02NameSampleStream.GENERATE_LOCATION_ENTITIES was used 3 times.
+
+The global variable: Conll02NameSampleStream.GENERATE_MISC_ENTITIES was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/Conll02NameSampleStreamFactory.java
+	line number: 87
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/Conll03NameSampleStream.java
+	line number: 157
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/Conll03NameSampleStreamFactory.java
+	line number: 83
+In total, the Conll02NameSampleStream.GENERATE_MISC_ENTITIES was used 3 times.
+
+The global variable: Conll02NameSampleStream.DOCSTART was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/Conll03NameSampleStream.java
+	line number: 106
+In total, the Conll02NameSampleStream.DOCSTART was used 1 times.
+
+The global variable: ConllXPOSSampleStreamFactory.CONLLX_FORMAT was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/ConllXSentenceSampleStreamFactory.java
+	line number: 40
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/ConllXSentenceSampleStreamFactory.java
+	line number: 51
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/ConllXTokenSampleStreamFactory.java
+	line number: 38
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/ConllXTokenSampleStreamFactory.java
+	line number: 49
+In total, the ConllXPOSSampleStreamFactory.CONLLX_FORMAT was used 4 times.
+
+The global variable: EvalitaNameSampleStream.GENERATE_PERSON_ENTITIES was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/EvalitaNameSampleStreamFactory.java
+	line number: 71
+In total, the EvalitaNameSampleStream.GENERATE_PERSON_ENTITIES was used 1 times.
+
+The global variable: EvalitaNameSampleStream.GENERATE_ORGANIZATION_ENTITIES was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/EvalitaNameSampleStreamFactory.java
+	line number: 75
+In total, the EvalitaNameSampleStream.GENERATE_ORGANIZATION_ENTITIES was used 1 times.
+
+The global variable: EvalitaNameSampleStream.GENERATE_LOCATION_ENTITIES was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/EvalitaNameSampleStreamFactory.java
+	line number: 79
+In total, the EvalitaNameSampleStream.GENERATE_LOCATION_ENTITIES was used 1 times.
+
+The global variable: EvalitaNameSampleStream.GENERATE_GPE_ENTITIES was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/EvalitaNameSampleStreamFactory.java
+	line number: 83
+In total, the EvalitaNameSampleStream.GENERATE_GPE_ENTITIES was used 1 times.
+
+The global variable: EvalitaNameSampleStream.DOCSTART was used in following file(s)
+In total, the EvalitaNameSampleStream.DOCSTART was used 0 times.
+
+The global variable: AbstractEventTrainer.DATA_INDEXER_PARAM was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 304
+In total, the AbstractEventTrainer.DATA_INDEXER_PARAM was used 1 times.
+
+The global variable: AbstractEventTrainer.DATA_INDEXER_ONE_PASS_VALUE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 307
+In total, the AbstractEventTrainer.DATA_INDEXER_ONE_PASS_VALUE was used 1 times.
+
+The global variable: AbstractEventTrainer.DATA_INDEXER_TWO_PASS_VALUE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 308
+In total, the AbstractEventTrainer.DATA_INDEXER_TWO_PASS_VALUE was used 1 times.
+
+The global variable: AbstractTrainer.ALGORITHM_PARAM was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 84
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 141
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 143
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 171
+	5. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 173
+	6. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 188
+	7. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 190
+	8. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 207
+	9. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 212
+	10. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 233
+	11. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 260
+	12. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 285
+In total, the AbstractTrainer.ALGORITHM_PARAM was used 12 times.
+
+The global variable: AbstractTrainer.TRAINER_TYPE_PARAM was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/AbstractEventModelSequenceTrainer.java
+	line number: 41
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/AbstractEventTrainer.java
+	line number: 96
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/AbstractSequenceTrainer.java
+	line number: 41
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 138
+	5. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 168
+	6. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 185
+In total, the AbstractTrainer.TRAINER_TYPE_PARAM was used 6 times.
+
+The global variable: AbstractTrainer.CUTOFF_PARAM was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 294
+In total, the AbstractTrainer.CUTOFF_PARAM was used 1 times.
+
+The global variable: AbstractTrainer.CUTOFF_DEFAULT was used in following file(s)
+In total, the AbstractTrainer.CUTOFF_DEFAULT was used 0 times.
+
+The global variable: AbstractTrainer.ITERATIONS_PARAM was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 297
+In total, the AbstractTrainer.ITERATIONS_PARAM was used 1 times.
+
+The global variable: AbstractTrainer.ITERATIONS_DEFAULT was used in following file(s)
+In total, the AbstractTrainer.ITERATIONS_DEFAULT was used 0 times.
+
+The global variable: BeamSearch.BEAM_SIZE_PARAMETER was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/chunker/ChunkerME.java
+	line number: 198
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/chunker/ChunkerModel.java
+	line number: 79
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/chunker/ChunkerModel.java
+	line number: 136
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/NameFinderME.java
+	line number: 317
+	5. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/NameFinderME.java
+	line number: 391
+	6. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/TokenNameFinderModel.java
+	line number: 98
+	7. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/TokenNameFinderModel.java
+	line number: 177
+	8. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/chunking/Parser.java
+	line number: 290
+	9. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/chunking/Parser.java
+	line number: 291
+	10. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/ParserModel.java
+	line number: 59
+	11. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/postag/POSModel.java
+	line number: 98
+	12. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/postag/POSModel.java
+	line number: 157
+	13. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/postag/POSTaggerME.java
+	line number: 134
+	14. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/postag/POSTaggerME.java
+	line number: 303
+In total, the BeamSearch.BEAM_SIZE_PARAMETER was used 14 times.
+
+The global variable: EventModelSequenceTrainer.SEQUENCE_VALUE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/AbstractEventModelSequenceTrainer.java
+	line number: 42
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 64
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 177
+In total, the EventModelSequenceTrainer.SEQUENCE_VALUE was used 3 times.
+
+The global variable: EventTrainer.EVENT_VALUE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/AbstractEventTrainer.java
+	line number: 96
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 61
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 148
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/util/TrainingParameters.java
+	line number: 151
+In total, the EventTrainer.EVENT_VALUE was used 4 times.
+
+The global variable: GIS.MAXENT_VALUE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/AbstractTrainer.java
+	line number: 48
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 45
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/util/model/ModelUtil.java
+	line number: 145
+In total, the GIS.MAXENT_VALUE was used 3 times.
+
+The global variable: GIS.PRINT_MESSAGES was used in following file(s)
+In total, the GIS.PRINT_MESSAGES was used 0 times.
+
+The global variable: GIS.SMOOTHING_OBSERVATION was used in following file(s)
+In total, the GIS.SMOOTHING_OBSERVATION was used 0 times.
+
+The global variable: QNMinimizer.CONVERGE_TOLERANCE was used in following file(s)
+In total, the QNMinimizer.CONVERGE_TOLERANCE was used 0 times.
+
+The global variable: QNMinimizer.REL_GRAD_NORM_TOL was used in following file(s)
+In total, the QNMinimizer.REL_GRAD_NORM_TOL was used 0 times.
+
+The global variable: QNMinimizer.INITIAL_STEP_SIZE was used in following file(s)
+In total, the QNMinimizer.INITIAL_STEP_SIZE was used 0 times.
+
+The global variable: QNMinimizer.MIN_STEP_SIZE was used in following file(s)
+In total, the QNMinimizer.MIN_STEP_SIZE was used 0 times.
+
+The global variable: QNMinimizer.L1COST_DEFAULT was used in following file(s)
+In total, the QNMinimizer.L1COST_DEFAULT was used 0 times.
+
+The global variable: QNMinimizer.L2COST_DEFAULT was used in following file(s)
+In total, the QNMinimizer.L2COST_DEFAULT was used 0 times.
+
+The global variable: QNMinimizer.NUM_ITERATIONS_DEFAULT was used in following file(s)
+In total, the QNMinimizer.NUM_ITERATIONS_DEFAULT was used 0 times.
+
+The global variable: QNMinimizer.M_DEFAULT was used in following file(s)
+In total, the QNMinimizer.M_DEFAULT was used 0 times.
+
+The global variable: QNMinimizer.MAX_FCT_EVAL_DEFAULT was used in following file(s)
+In total, the QNMinimizer.MAX_FCT_EVAL_DEFAULT was used 0 times.
+
+The global variable: QNTrainer.MAXENT_QN_VALUE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 46
+In total, the QNTrainer.MAXENT_QN_VALUE was used 1 times.
+
+The global variable: QNTrainer.THREADS_PARAM was used in following file(s)
+In total, the QNTrainer.THREADS_PARAM was used 0 times.
+
+The global variable: QNTrainer.THREADS_DEFAULT was used in following file(s)
+In total, the QNTrainer.THREADS_DEFAULT was used 0 times.
+
+The global variable: QNTrainer.L1COST_PARAM was used in following file(s)
+In total, the QNTrainer.L1COST_PARAM was used 0 times.
+
+The global variable: QNTrainer.L1COST_DEFAULT was used in following file(s)
+In total, the QNTrainer.L1COST_DEFAULT was used 0 times.
+
+The global variable: QNTrainer.L2COST_PARAM was used in following file(s)
+In total, the QNTrainer.L2COST_PARAM was used 0 times.
+
+The global variable: QNTrainer.L2COST_DEFAULT was used in following file(s)
+In total, the QNTrainer.L2COST_DEFAULT was used 0 times.
+
+The global variable: QNTrainer.M_PARAM was used in following file(s)
+In total, the QNTrainer.M_PARAM was used 0 times.
+
+The global variable: QNTrainer.M_DEFAULT was used in following file(s)
+In total, the QNTrainer.M_DEFAULT was used 0 times.
+
+The global variable: QNTrainer.MAX_FCT_EVAL_PARAM was used in following file(s)
+In total, the QNTrainer.MAX_FCT_EVAL_PARAM was used 0 times.
+
+The global variable: QNTrainer.MAX_FCT_EVAL_DEFAULT was used in following file(s)
+In total, the QNTrainer.MAX_FCT_EVAL_DEFAULT was used 0 times.
+
+The global variable: PerceptronTrainer.PERCEPTRON_VALUE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 47
+In total, the PerceptronTrainer.PERCEPTRON_VALUE was used 1 times.
+
+The global variable: PerceptronTrainer.TOLERANCE_DEFAULT was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/perceptron/PerceptronTrainer.java
+	line number: 122
+In total, the PerceptronTrainer.TOLERANCE_DEFAULT was used 1 times.
+
+The global variable: SimplePerceptronSequenceTrainer.PERCEPTRON_SEQUENCE_VALUE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 48
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 206
+In total, the SimplePerceptronSequenceTrainer.PERCEPTRON_SEQUENCE_VALUE was used 2 times.
+
+The global variable: SequenceTrainer.SEQUENCE_VALUE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/AbstractSequenceTrainer.java
+	line number: 41
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 67
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/ml/TrainerFactory.java
+	line number: 194
+In total, the SequenceTrainer.SEQUENCE_VALUE was used 3 times.
+
+The global variable: BilouCodec.START was used in following file(s)
+In total, the BilouCodec.START was used 0 times.
+
+The global variable: BilouCodec.CONTINUE was used in following file(s)
+In total, the BilouCodec.CONTINUE was used 0 times.
+
+The global variable: BilouCodec.LAST was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouCodec.java
+	line number: 93
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouCodec.java
+	line number: 96
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouNameFinderSequenceValidator.java
+	line number: 28
+In total, the BilouCodec.LAST was used 3 times.
+
+The global variable: BilouCodec.UNIT was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouCodec.java
+	line number: 101
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouCodec.java
+	line number: 104
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouNameFinderSequenceValidator.java
+	line number: 35
+In total, the BilouCodec.UNIT was used 3 times.
+
+The global variable: BilouCodec.OTHER was used in following file(s)
+In total, the BilouCodec.OTHER was used 0 times.
+
+The global variable: BioCodec.START was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouCodec.java
+	line number: 43
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouCodec.java
+	line number: 77
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouCodec.java
+	line number: 80
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BioCodec.java
+	line number: 52
+	5. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BioCodec.java
+	line number: 87
+	6. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BioCodec.java
+	line number: 90
+In total, the BioCodec.START was used 6 times.
+
+The global variable: BioCodec.CONTINUE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouCodec.java
+	line number: 47
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouCodec.java
+	line number: 85
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouCodec.java
+	line number: 88
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BioCodec.java
+	line number: 61
+	5. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BioCodec.java
+	line number: 95
+	6. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BioCodec.java
+	line number: 98
+In total, the BioCodec.CONTINUE was used 6 times.
+
+The global variable: BioCodec.OTHER was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouCodec.java
+	line number: 60
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouCodec.java
+	line number: 71
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BioCodec.java
+	line number: 64
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BioCodec.java
+	line number: 83
+In total, the BioCodec.OTHER was used 4 times.
+
+The global variable: NameFinderME.DEFAULT_BEAM_SIZE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/NameFinderME.java
+	line number: 319
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/NameFinderME.java
+	line number: 393
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/TokenNameFinderModel.java
+	line number: 110
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/TokenNameFinderModel.java
+	line number: 179
+In total, the NameFinderME.DEFAULT_BEAM_SIZE was used 4 times.
+
+The global variable: NameFinderME.START was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouNameFinderSequenceValidator.java
+	line number: 38
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouNameFinderSequenceValidator.java
+	line number: 55
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BioCodec.java
+	line number: 122
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BioCodec.java
+	line number: 124
+	5. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/NameFinderEventStream.java
+	line number: 92
+	6. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/NameFinderEventStream.java
+	line number: 95
+In total, the NameFinderME.START was used 6 times.
+
+The global variable: NameFinderME.CONTINUE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouNameFinderSequenceValidator.java
+	line number: 28
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouNameFinderSequenceValidator.java
+	line number: 37
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouNameFinderSequenceValidator.java
+	line number: 55
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BioCodec.java
+	line number: 125
+	5. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BioCodec.java
+	line number: 127
+	6. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/NameFinderEventStream.java
+	line number: 100
+	7. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/NameFinderEventStream.java
+	line number: 103
+	8. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/NameFinderSequenceValidator.java
+	line number: 30
+	9. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/NameFinderSequenceValidator.java
+	line number: 38
+In total, the NameFinderME.CONTINUE was used 9 times.
+
+The global variable: NameFinderME.OTHER was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouNameFinderSequenceValidator.java
+	line number: 34
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BilouNameFinderSequenceValidator.java
+	line number: 54
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/BioCodec.java
+	line number: 128
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/DefaultNameContextGenerator.java
+	line number: 122
+	5. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/DefaultNameContextGenerator.java
+	line number: 123
+	6. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/NameFinderEventStream.java
+	line number: 88
+	7. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/NameFinderSequenceValidator.java
+	line number: 36
+In total, the NameFinderME.OTHER was used 7 times.
+
+The global variable: NameSample.DEFAULT_TYPE was used in following file(s)
+In total, the NameSample.DEFAULT_TYPE was used 0 times.
+
+The global variable: NameSampleDataStream.START_TAG_PREFIX was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/NameSample.java
+	line number: 155
+In total, the NameSampleDataStream.START_TAG_PREFIX was used 1 times.
+
+The global variable: NameSampleDataStream.START_TAG was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/NameSample.java
+	line number: 152
+In total, the NameSampleDataStream.START_TAG was used 1 times.
+
+The global variable: NameSampleDataStream.END_TAG was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/NameSample.java
+	line number: 160
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/NameSample.java
+	line number: 172
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/NameSample.java
+	line number: 247
+In total, the NameSampleDataStream.END_TAG was used 3 times.
+
+The global variable: NGramModel.COUNT was used in following file(s)
+In total, the NGramModel.COUNT was used 0 times.
+
+The global variable: AbstractBottomUpParser.defaultBeamSize was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/parser/ParserTool.java
+	line number: 94
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/ParserFactory.java
+	line number: 40
+In total, the AbstractBottomUpParser.defaultBeamSize was used 2 times.
+
+The global variable: AbstractBottomUpParser.defaultAdvancePercentage was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/parser/ParserTool.java
+	line number: 109
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/ParserFactory.java
+	line number: 41
+In total, the AbstractBottomUpParser.defaultAdvancePercentage was used 2 times.
+
+The global variable: AbstractBottomUpParser.TOP_NODE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/frenchtreebank/ConstitDocumentHandler.java
+	line number: 169
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/frenchtreebank/ConstitDocumentHandler.java
+	line number: 173
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/chunking/ParserEventStream.java
+	line number: 91
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/Parse.java
+	line number: 881
+	5. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/Parse.java
+	line number: 885
+	6. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 144
+	7. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/ParserEventStream.java
+	line number: 156
+	8. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/ParserEventStream.java
+	line number: 205
+In total, the AbstractBottomUpParser.TOP_NODE was used 8 times.
+
+The global variable: AbstractBottomUpParser.INC_NODE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/parser/ParserTool.java
+	line number: 67
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 145
+In total, the AbstractBottomUpParser.INC_NODE was used 2 times.
+
+The global variable: AbstractBottomUpParser.TOK_NODE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/parser/ParserTool.java
+	line number: 72
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/frenchtreebank/ConstitDocumentHandler.java
+	line number: 143
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/frenchtreebank/ConstitDocumentHandler.java
+	line number: 174
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/Parse.java
+	line number: 365
+	5. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/Parse.java
+	line number: 385
+	6. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/Parse.java
+	line number: 407
+	7. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/Parse.java
+	line number: 864
+	8. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/Parse.java
+	line number: 886
+	9. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/Parse.java
+	line number: 923
+In total, the AbstractBottomUpParser.TOK_NODE was used 9 times.
+
+The global variable: AbstractBottomUpParser.ZERO was used in following file(s)
+In total, the AbstractBottomUpParser.ZERO was used 0 times.
+
+The global variable: AbstractBottomUpParser.START was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/chunking/ParserEventStream.java
+	line number: 132
+In total, the AbstractBottomUpParser.START was used 1 times.
+
+The global variable: AbstractBottomUpParser.CONT was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/chunking/ParserEventStream.java
+	line number: 135
+In total, the AbstractBottomUpParser.CONT was used 1 times.
+
+The global variable: AbstractBottomUpParser.OTHER was used in following file(s)
+In total, the AbstractBottomUpParser.OTHER was used 0 times.
+
+The global variable: AbstractBottomUpParser.COMPLETE was used in following file(s)
+In total, the AbstractBottomUpParser.COMPLETE was used 0 times.
+
+The global variable: AbstractBottomUpParser.INCOMPLETE was used in following file(s)
+In total, the AbstractBottomUpParser.INCOMPLETE was used 0 times.
+
+The global variable: AbstractContextGenerator.EOS was used in following file(s)
+In total, the AbstractContextGenerator.EOS was used 0 times.
+
+The global variable: Parse.BRACKET_LRB was used in following file(s)
+In total, the Parse.BRACKET_LRB was used 0 times.
+
+The global variable: Parse.BRACKET_RRB was used in following file(s)
+In total, the Parse.BRACKET_RRB was used 0 times.
+
+The global variable: Parse.BRACKET_LCB was used in following file(s)
+In total, the Parse.BRACKET_LCB was used 0 times.
+
+The global variable: Parse.BRACKET_RCB was used in following file(s)
+In total, the Parse.BRACKET_RCB was used 0 times.
+
+The global variable: Parse.BRACKET_LSB was used in following file(s)
+In total, the Parse.BRACKET_LSB was used 0 times.
+
+The global variable: Parse.BRACKET_RSB was used in following file(s)
+In total, the Parse.BRACKET_RSB was used 0 times.
+
+The global variable: Parser.DONE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/ParserEventStream.java
+	line number: 197
+In total, the Parser.DONE was used 1 times.
+
+The global variable: Parser.ATTACH_SISTER was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/ParserEventStream.java
+	line number: 249
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/ParserEventStream.java
+	line number: 253
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/ParserEventStream.java
+	line number: 291
+In total, the Parser.ATTACH_SISTER was used 3 times.
+
+The global variable: Parser.ATTACH_DAUGHTER was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/ParserEventStream.java
+	line number: 224
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/ParserEventStream.java
+	line number: 274
+In total, the Parser.ATTACH_DAUGHTER was used 2 times.
+
+The global variable: Parser.NON_ATTACH was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/ParserEventStream.java
+	line number: 263
+In total, the Parser.NON_ATTACH was used 1 times.
+
+The global variable: Parser.BUILT was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 162
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 166
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 169
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 180
+	5. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 189
+	6. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 199
+	7. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 323
+	8. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 326
+	9. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 330
+	10. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/ParserEventStream.java
+	line number: 170
+	11. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/ParserEventStream.java
+	line number: 191
+	12. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/ParserEventStream.java
+	line number: 255
+In total, the Parser.BUILT was used 12 times.
+
+The global variable: POSModel.POS_MODEL_ENTRY_NAME was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/postag/POSTaggerFactory.java
+	line number: 204
+In total, the POSModel.POS_MODEL_ENTRY_NAME was used 1 times.
+
+The global variable: POSTaggerME.DEFAULT_BEAM_SIZE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/postag/POSModel.java
+	line number: 67
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/postag/POSModel.java
+	line number: 86
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/postag/POSModel.java
+	line number: 159
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/postag/POSTaggerME.java
+	line number: 132
+	5. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/postag/POSTaggerME.java
+	line number: 305
+In total, the POSTaggerME.DEFAULT_BEAM_SIZE was used 5 times.
+
+The global variable: Factory.ptEosCharacters was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/ad/ADSentenceSampleStream.java
+	line number: 66
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/ad/ADSentenceSampleStream.java
+	line number: 90
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/ad/ADSentenceSampleStream.java
+	line number: 115
+In total, the Factory.ptEosCharacters was used 3 times.
+
+The global variable: Factory.defaultEosCharacters was used in following file(s)
+In total, the Factory.defaultEosCharacters was used 0 times.
+
+The global variable: Factory.thEosCharacters was used in following file(s)
+In total, the Factory.thEosCharacters was used 0 times.
+
+The global variable: SentenceContextGenerator.eosCharacters was used in following file(s)
+In total, the SentenceContextGenerator.eosCharacters was used 0 times.
+
+The global variable: SentenceDetectorME.SPLIT was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/sentdetect/SDEventStream.java
+	line number: 61
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/sentdetect/SentenceModel.java
+	line number: 116
+In total, the SentenceDetectorME.SPLIT was used 2 times.
+
+The global variable: SentenceDetectorME.NO_SPLIT was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/sentdetect/SDEventStream.java
+	line number: 59
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/sentdetect/SentenceModel.java
+	line number: 117
+In total, the SentenceDetectorME.NO_SPLIT was used 2 times.
+
+The global variable: Factory.DEFAULT_ALPHANUMERIC was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/tokenize/TokenizerME.java
+	line number: 94
+In total, the Factory.DEFAULT_ALPHANUMERIC was used 1 times.
+
+The global variable: SimpleTokenizer.INSTANCE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/brat/BratNameSampleStreamFactory.java
+	line number: 152
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/LeipzigDoccatSampleStream.java
+	line number: 70
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/util/featuregen/TokenPatternFeatureGenerator.java
+	line number: 42
+In total, the SimpleTokenizer.INSTANCE was used 3 times.
+
+The global variable: TokenizerME.SPLIT was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/tokenize/TokenizerME.java
+	line number: 207
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/tokenize/TokenizerModel.java
+	line number: 162
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/tokenize/TokSpanEventStream.java
+	line number: 162
+In total, the TokenizerME.SPLIT was used 3 times.
+
+The global variable: TokenizerME.NO_SPLIT was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/tokenize/TokenizerModel.java
+	line number: 162
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/tokenize/TokSpanEventStream.java
+	line number: 157
+In total, the TokenizerME.NO_SPLIT was used 2 times.
+
+The global variable: TokenizerME.alphaNumeric was used in following file(s)
+In total, the TokenizerME.alphaNumeric was used 0 times.
+
+The global variable: TokenSample.DEFAULT_SEPARATOR_CHARS was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/tokenize/TokenSampleStream.java
+	line number: 58
+In total, the TokenSample.DEFAULT_SEPARATOR_CHARS was used 1 times.
+
+The global variable: WhitespaceTokenizer.INSTANCE was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/doccat/DoccatTrainerTool.java
+	line number: 97
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/namefind/TokenNameFinderTool.java
+	line number: 73
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/postag/POSTaggerTool.java
+	line number: 64
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/tokenizer/DictionaryDetokenizerTool.java
+	line number: 61
+	5. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/doccat/DoccatFactory.java
+	line number: 164
+	6. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/doccat/DocumentSample.java
+	line number: 39
+	7. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/doccat/DocumentSampleStream.java
+	line number: 46
+	8. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/brat/AnnotationConfiguration.java
+	line number: 70
+	9. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/brat/BratAnnotationStream.java
+	line number: 167
+	10. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/brat/BratNameSampleStreamFactory.java
+	line number: 139
+	11. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/brat/BratNameSampleStreamFactory.java
+	line number: 155
+	12. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/formats/ontonotes/OntoNotesNameSampleStream.java
+	line number: 108
+	13. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/namefind/NameSample.java
+	line number: 216
+	14. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/postag/POSSample.java
+	line number: 122
+	15. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/tokenize/TokenizerME.java
+	line number: 182
+	16. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/tokenize/TokenSample.java
+	line number: 171
+	17. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/tokenize/TokSpanEventStream.java
+	line number: 112
+In total, the WhitespaceTokenizer.INSTANCE was used 17 times.
+
+The global variable: ExtensionServiceKeys.ID was used in following file(s)
+In total, the ExtensionServiceKeys.ID was used 0 times.
+
+The global variable: BrownTokenClasses.pathLengths was used in following file(s)
+In total, the BrownTokenClasses.pathLengths was used 0 times.
+
+The global variable: OutcomePriorFeatureGenerator.OUTCOME_PRIOR_FEATURE was used in following file(s)
+In total, the OutcomePriorFeatureGenerator.OUTCOME_PRIOR_FEATURE was used 0 times.
+
+The global variable: WindowFeatureGenerator.PREV_PREFIX was used in following file(s)
+In total, the WindowFeatureGenerator.PREV_PREFIX was used 0 times.
+
+The global variable: WindowFeatureGenerator.NEXT_PREFIX was used in following file(s)
+In total, the WindowFeatureGenerator.NEXT_PREFIX was used 0 times.
+
+The global variable: BaseModel.MANIFEST_ENTRY was used in following file(s)
+In total, the BaseModel.MANIFEST_ENTRY was used 0 times.
+
+The global variable: BaseModel.FACTORY_NAME was used in following file(s)
+In total, the BaseModel.FACTORY_NAME was used 0 times.
+
+The global variable: BaseModel.TRAINING_CUTOFF_PROPERTY was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/util/model/ModelUtil.java
+	line number: 131
+In total, the BaseModel.TRAINING_CUTOFF_PROPERTY was used 1 times.
+
+The global variable: BaseModel.TRAINING_ITERATIONS_PROPERTY was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/util/model/ModelUtil.java
+	line number: 132
+In total, the BaseModel.TRAINING_ITERATIONS_PROPERTY was used 1 times.
+
+The global variable: BaseModel.TRAINING_EVENTHASH_PROPERTY was used in following file(s)
+In total, the BaseModel.TRAINING_EVENTHASH_PROPERTY was used 0 times.
+
+The global variable: TrainingParameters.ALGORITHM_PARAM was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/cmdline/postag/POSTaggerTrainerTool.java
+	line number: 66
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/postag/POSTaggerME.java
+	line number: 376
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/util/model/ModelUtil.java
+	line number: 145
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/util/TrainingParameters.java
+	line number: 150
+In total, the TrainingParameters.ALGORITHM_PARAM was used 4 times.
+
+The global variable: TrainingParameters.TRAINER_TYPE_PARAM was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/util/TrainingParameters.java
+	line number: 151
+In total, the TrainingParameters.TRAINER_TYPE_PARAM was used 1 times.
+
+The global variable: TrainingParameters.ITERATIONS_PARAM was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/chunking/Parser.java
+	line number: 331
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/chunking/Parser.java
+	line number: 333
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/chunking/Parser.java
+	line number: 335
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/chunking/Parser.java
+	line number: 337
+	5. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 497
+	6. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 499
+	7. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 501
+	8. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 503
+	9. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/postag/POSTaggerME.java
+	line number: 377
+	10. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/util/model/ModelUtil.java
+	line number: 146
+	11. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/util/TrainingParameters.java
+	line number: 152
+In total, the TrainingParameters.ITERATIONS_PARAM was used 11 times.
+
+The global variable: TrainingParameters.CUTOFF_PARAM was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/AbstractBottomUpParser.java
+	line number: 525
+	2. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/AbstractBottomUpParser.java
+	line number: 613
+	3. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/chunking/Parser.java
+	line number: 328
+	4. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/chunking/Parser.java
+	line number: 330
+	5. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/chunking/Parser.java
+	line number: 332
+	6. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/chunking/Parser.java
+	line number: 334
+	7. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/chunking/Parser.java
+	line number: 336
+	8. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 494
+	9. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 496
+	10. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 498
+	11. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 500
+	12. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/parser/treeinsert/Parser.java
+	line number: 502
+	13. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/postag/POSTaggerME.java
+	line number: 378
+	14. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/util/model/ModelUtil.java
+	line number: 147
+	15. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/util/TrainingParameters.java
+	line number: 153
+In total, the TrainingParameters.CUTOFF_PARAM was used 15 times.
+
+The global variable: Version.DEV_VERSION was used in following file(s)
+	1. /Users/sungsooahn/Downloads/opennlp-tools/src/opennlp/tools/util/model/BaseModel.java
+	line number: 435
+In total, the Version.DEV_VERSION was used 1 times.
+
