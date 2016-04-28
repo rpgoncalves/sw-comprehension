@@ -1,0 +1,1557 @@
+The global variable: BeamSearch.EMPTY_ADDITIONAL_CONTEXT was used in following file(s)
+In total, the BeamSearch.EMPTY_ADDITIONAL_CONTEXT was used 0 times.
+
+The global variable: BeamSearch.zeroLog was used in following file(s)
+In total, the BeamSearch.zeroLog was used 0 times.
+
+The global variable: HashList.serialVersionUID was used in following file(s)
+In total, the HashList.serialVersionUID was used 0 times.
+
+The global variable: InvalidFormatException.serialVersionUID was used in following file(s)
+In total, the InvalidFormatException.serialVersionUID was used 0 times.
+
+The global variable: Sequence.ONE was used in following file(s)
+In total, the Sequence.ONE was used 0 times.
+
+The global variable: TrainingParameters.ALGORITHM_PARAM was used in following file(s)
+POSTaggerTrainerTool.java
+POSTaggerME.java
+ModelUtil.java
+TrainingParameters.java
+ArvoresDeitadasEval.java
+TrainerFactoryTest.java
+TrainerFactoryTest.java
+TrainerFactoryTest.java
+TrainerFactoryTest.java
+TokenNameFinderCrossValidatorTest.java
+TokenNameFinderCrossValidatorTest.java
+In total, the TrainingParameters.ALGORITHM_PARAM was used 11 times.
+
+The global variable: TrainingParameters.TRAINER_TYPE_PARAM was used in following file(s)
+TrainingParameters.java
+In total, the TrainingParameters.TRAINER_TYPE_PARAM was used 1 times.
+
+The global variable: TrainingParameters.ITERATIONS_PARAM was used in following file(s)
+Parser.java
+Parser.java
+Parser.java
+Parser.java
+Parser.java
+Parser.java
+Parser.java
+Parser.java
+POSTaggerME.java
+ModelUtil.java
+TrainingParameters.java
+ChunkerMETest.java
+DocumentCategorizerMETest.java
+TrainerFactoryTest.java
+NameFinderMETest.java
+NameFinderMETest.java
+NameFinderMETest.java
+NameFinderMETest.java
+NameFinderMETest.java
+NameFinderMETest.java
+TokenNameFinderCrossValidatorTest.java
+TokenNameFinderCrossValidatorTest.java
+SentenceDetectorMETest.java
+TokenizerTestUtil.java
+TokenizerTestUtil.java
+In total, the TrainingParameters.ITERATIONS_PARAM was used 25 times.
+
+The global variable: TrainingParameters.CUTOFF_PARAM was used in following file(s)
+AbstractBottomUpParser.java
+AbstractBottomUpParser.java
+Parser.java
+Parser.java
+Parser.java
+Parser.java
+Parser.java
+Parser.java
+Parser.java
+Parser.java
+Parser.java
+Parser.java
+POSTaggerME.java
+ModelUtil.java
+TrainingParameters.java
+ChunkerMETest.java
+DocumentCategorizerMETest.java
+ArvoresDeitadasEval.java
+TrainerFactoryTest.java
+NameFinderMETest.java
+NameFinderMETest.java
+NameFinderMETest.java
+NameFinderMETest.java
+NameFinderMETest.java
+NameFinderMETest.java
+TokenNameFinderCrossValidatorTest.java
+TokenNameFinderCrossValidatorTest.java
+SentenceDetectorMETest.java
+TokenizerTestUtil.java
+TokenizerTestUtil.java
+In total, the TrainingParameters.CUTOFF_PARAM was used 30 times.
+
+The global variable: Version.DEV_VERSION_STRING was used in following file(s)
+In total, the Version.DEV_VERSION_STRING was used 0 times.
+
+The global variable: Version.DEV_VERSION was used in following file(s)
+BaseModel.java
+In total, the Version.DEV_VERSION was used 1 times.
+
+The global variable: Version.SNAPSHOT_MARKER was used in following file(s)
+In total, the Version.SNAPSHOT_MARKER was used 0 times.
+
+The global variable: ClassSerializer.CLASS_SEARCH_NAME was used in following file(s)
+In total, the ClassSerializer.CLASS_SEARCH_NAME was used 0 times.
+
+The global variable: BaseModel.MODEL_BUFFER_SIZE_LIMIT was used in following file(s)
+In total, the BaseModel.MODEL_BUFFER_SIZE_LIMIT was used 0 times.
+
+The global variable: BaseModel.MANIFEST_ENTRY was used in following file(s)
+In total, the BaseModel.MANIFEST_ENTRY was used 0 times.
+
+The global variable: BaseModel.FACTORY_NAME was used in following file(s)
+In total, the BaseModel.FACTORY_NAME was used 0 times.
+
+The global variable: BaseModel.MANIFEST_VERSION_PROPERTY was used in following file(s)
+In total, the BaseModel.MANIFEST_VERSION_PROPERTY was used 0 times.
+
+The global variable: BaseModel.COMPONENT_NAME_PROPERTY was used in following file(s)
+In total, the BaseModel.COMPONENT_NAME_PROPERTY was used 0 times.
+
+The global variable: BaseModel.VERSION_PROPERTY was used in following file(s)
+In total, the BaseModel.VERSION_PROPERTY was used 0 times.
+
+The global variable: BaseModel.TIMESTAMP_PROPERTY was used in following file(s)
+In total, the BaseModel.TIMESTAMP_PROPERTY was used 0 times.
+
+The global variable: BaseModel.LANGUAGE_PROPERTY was used in following file(s)
+In total, the BaseModel.LANGUAGE_PROPERTY was used 0 times.
+
+The global variable: BaseModel.TRAINING_CUTOFF_PROPERTY was used in following file(s)
+ModelUtil.java
+In total, the BaseModel.TRAINING_CUTOFF_PROPERTY was used 1 times.
+
+The global variable: BaseModel.TRAINING_ITERATIONS_PROPERTY was used in following file(s)
+ModelUtil.java
+In total, the BaseModel.TRAINING_ITERATIONS_PROPERTY was used 1 times.
+
+The global variable: BaseModel.TRAINING_EVENTHASH_PROPERTY was used in following file(s)
+In total, the BaseModel.TRAINING_EVENTHASH_PROPERTY was used 0 times.
+
+The global variable: BaseModel.SERIALIZER_CLASS_NAME_PREFIX was used in following file(s)
+In total, the BaseModel.SERIALIZER_CLASS_NAME_PREFIX was used 0 times.
+
+The global variable: BrownCluster.tabPattern was used in following file(s)
+In total, the BrownCluster.tabPattern was used 0 times.
+
+The global variable: BrownTokenClasses.pathLengths was used in following file(s)
+In total, the BrownTokenClasses.pathLengths was used 0 times.
+
+The global variable: FastTokenClassFeatureGenerator.TOKEN_CLASS_PREFIX was used in following file(s)
+In total, the FastTokenClassFeatureGenerator.TOKEN_CLASS_PREFIX was used 0 times.
+
+The global variable: FastTokenClassFeatureGenerator.TOKEN_AND_CLASS_PREFIX was used in following file(s)
+In total, the FastTokenClassFeatureGenerator.TOKEN_AND_CLASS_PREFIX was used 0 times.
+
+The global variable: FastTokenClassFeatureGenerator.capPeriod was used in following file(s)
+In total, the FastTokenClassFeatureGenerator.capPeriod was used 0 times.
+
+The global variable: OutcomePriorFeatureGenerator.OUTCOME_PRIOR_FEATURE was used in following file(s)
+In total, the OutcomePriorFeatureGenerator.OUTCOME_PRIOR_FEATURE was used 0 times.
+
+The global variable: PrefixFeatureGenerator.PREFIX_LENGTH was used in following file(s)
+In total, the PrefixFeatureGenerator.PREFIX_LENGTH was used 0 times.
+
+The global variable: SuffixFeatureGenerator.SUFFIX_LENGTH was used in following file(s)
+In total, the SuffixFeatureGenerator.SUFFIX_LENGTH was used 0 times.
+
+The global variable: TokenClassFeatureGenerator.TOKEN_CLASS_PREFIX was used in following file(s)
+In total, the TokenClassFeatureGenerator.TOKEN_CLASS_PREFIX was used 0 times.
+
+The global variable: TokenClassFeatureGenerator.TOKEN_AND_CLASS_PREFIX was used in following file(s)
+In total, the TokenClassFeatureGenerator.TOKEN_AND_CLASS_PREFIX was used 0 times.
+
+The global variable: StringPattern.INITAL_CAPITAL_LETTER was used in following file(s)
+In total, the StringPattern.INITAL_CAPITAL_LETTER was used 0 times.
+
+The global variable: StringPattern.ALL_CAPITAL_LETTER was used in following file(s)
+In total, the StringPattern.ALL_CAPITAL_LETTER was used 0 times.
+
+The global variable: StringPattern.ALL_LOWERCASE_LETTER was used in following file(s)
+In total, the StringPattern.ALL_LOWERCASE_LETTER was used 0 times.
+
+The global variable: StringPattern.ALL_LETTERS was used in following file(s)
+In total, the StringPattern.ALL_LETTERS was used 0 times.
+
+The global variable: StringPattern.ALL_DIGIT was used in following file(s)
+In total, the StringPattern.ALL_DIGIT was used 0 times.
+
+The global variable: StringPattern.CONTAINS_PERIOD was used in following file(s)
+In total, the StringPattern.CONTAINS_PERIOD was used 0 times.
+
+The global variable: StringPattern.CONTAINS_COMMA was used in following file(s)
+In total, the StringPattern.CONTAINS_COMMA was used 0 times.
+
+The global variable: StringPattern.CONTAINS_SLASH was used in following file(s)
+In total, the StringPattern.CONTAINS_SLASH was used 0 times.
+
+The global variable: StringPattern.CONTAINS_DIGIT was used in following file(s)
+In total, the StringPattern.CONTAINS_DIGIT was used 0 times.
+
+The global variable: StringPattern.CONTAINS_HYPHEN was used in following file(s)
+In total, the StringPattern.CONTAINS_HYPHEN was used 0 times.
+
+The global variable: StringPattern.CONTAINS_LETTERS was used in following file(s)
+In total, the StringPattern.CONTAINS_LETTERS was used 0 times.
+
+The global variable: StringPattern.CONTAINS_UPPERCASE was used in following file(s)
+In total, the StringPattern.CONTAINS_UPPERCASE was used 0 times.
+
+The global variable: TokenFeatureGenerator.WORD_PREFIX was used in following file(s)
+In total, the TokenFeatureGenerator.WORD_PREFIX was used 0 times.
+
+The global variable: GeneratorFactory.ELEMENT_NAME was used in following file(s)
+In total, the GeneratorFactory.ELEMENT_NAME was used 0 times.
+
+The global variable: GeneratorFactory.factories was used in following file(s)
+In total, the GeneratorFactory.factories was used 0 times.
+
+The global variable: WindowFeatureGenerator.PREV_PREFIX was used in following file(s)
+WindowFeatureGeneratorTest.java
+WindowFeatureGeneratorTest.java
+In total, the WindowFeatureGenerator.PREV_PREFIX was used 2 times.
+
+The global variable: WindowFeatureGenerator.NEXT_PREFIX was used in following file(s)
+WindowFeatureGeneratorTest.java
+WindowFeatureGeneratorTest.java
+In total, the WindowFeatureGenerator.NEXT_PREFIX was used 2 times.
+
+The global variable: ExtensionLoader.isOsgiAvailable was used in following file(s)
+In total, the ExtensionLoader.isOsgiAvailable was used 0 times.
+
+The global variable: ExtensionNotLoadedException.serialVersionUID was used in following file(s)
+In total, the ExtensionNotLoadedException.serialVersionUID was used 0 times.
+
+The global variable: ExtensionServiceKeys.ID was used in following file(s)
+In total, the ExtensionServiceKeys.ID was used 0 times.
+
+The global variable: OSGiExtensionLoader.instance was used in following file(s)
+In total, the OSGiExtensionLoader.instance was used 0 times.
+
+The global variable: SimpleTokenizer.INSTANCE was used in following file(s)
+SimpleTokenizerTool.java
+BratNameSampleStreamFactory.java
+LeipzigDoccatSampleStream.java
+TokenPatternFeatureGenerator.java
+DoccatFactoryTest.java
+DoccatFactoryTest.java
+DictionaryNameFinderTest.java
+DictionaryNameFinderTest.java
+DictionaryNameFinderTest.java
+SimpleTokenizerTest.java
+In total, the SimpleTokenizer.INSTANCE was used 10 times.
+
+The global variable: CharacterEnum.WHITESPACE was used in following file(s)
+SimpleTokenizer.java
+SimpleTokenizer.java
+SimpleTokenizer.java
+SimpleTokenizer.java
+SimpleTokenizer.java
+In total, the CharacterEnum.WHITESPACE was used 5 times.
+
+The global variable: CharacterEnum.ALPHABETIC was used in following file(s)
+SimpleTokenizer.java
+In total, the CharacterEnum.ALPHABETIC was used 1 times.
+
+The global variable: CharacterEnum.NUMERIC was used in following file(s)
+SimpleTokenizer.java
+In total, the CharacterEnum.NUMERIC was used 1 times.
+
+The global variable: CharacterEnum.OTHER was used in following file(s)
+SimpleTokenizer.java
+SimpleTokenizer.java
+In total, the CharacterEnum.OTHER was used 2 times.
+
+The global variable: TokSpanEventStream.logger was used in following file(s)
+In total, the TokSpanEventStream.logger was used 0 times.
+
+The global variable: TokenSample.DEFAULT_SEPARATOR_CHARS was used in following file(s)
+TokenSampleStream.java
+TokenSampleTest.java
+TokenSampleTest.java
+In total, the TokenSample.DEFAULT_SEPARATOR_CHARS was used 3 times.
+
+The global variable: TokenizerFactory.ABBREVIATIONS_ENTRY_NAME was used in following file(s)
+In total, the TokenizerFactory.ABBREVIATIONS_ENTRY_NAME was used 0 times.
+
+The global variable: TokenizerFactory.USE_ALPHA_NUMERIC_OPTIMIZATION was used in following file(s)
+In total, the TokenizerFactory.USE_ALPHA_NUMERIC_OPTIMIZATION was used 0 times.
+
+The global variable: TokenizerFactory.ALPHA_NUMERIC_PATTERN was used in following file(s)
+In total, the TokenizerFactory.ALPHA_NUMERIC_PATTERN was used 0 times.
+
+The global variable: WhitespaceTokenizer.INSTANCE was used in following file(s)
+DoccatTrainerTool.java
+TokenNameFinderTool.java
+POSTaggerTool.java
+DictionaryDetokenizerTool.java
+DoccatFactory.java
+DocumentSample.java
+DocumentSampleStream.java
+AnnotationConfiguration.java
+BratAnnotationStream.java
+BratNameSampleStreamFactory.java
+BratNameSampleStreamFactory.java
+OntoNotesNameSampleStream.java
+NameSample.java
+POSSample.java
+TokenizerME.java
+TokenSample.java
+TokSpanEventStream.java
+DoccatFactoryTest.java
+WhitespaceTokenizerTest.java
+WhitespaceTokenizerTest.java
+WhitespaceTokenizerTest.java
+WhitespaceTokenizerTest.java
+WhitespaceTokenizerTest.java
+WhitespaceTokenizerTest.java
+WhitespaceTokenizerTest.java
+WhitespaceTokenizerTest.java
+In total, the WhitespaceTokenizer.INSTANCE was used 26 times.
+
+The global variable: TokenizerModel.COMPONENT_NAME was used in following file(s)
+In total, the TokenizerModel.COMPONENT_NAME was used 0 times.
+
+The global variable: TokenizerModel.TOKENIZER_MODEL_ENTRY was used in following file(s)
+In total, the TokenizerModel.TOKENIZER_MODEL_ENTRY was used 0 times.
+
+The global variable: Factory.DEFAULT_ALPHANUMERIC was used in following file(s)
+TokenizerME.java
+TokenizerFactoryTest.java
+TokenizerFactoryTest.java
+TokenizerFactoryTest.java
+TokenizerFactoryTest.java
+In total, the Factory.DEFAULT_ALPHANUMERIC was used 5 times.
+
+The global variable: TokenizerME.SPLIT was used in following file(s)
+TokenizerME.java
+TokenizerModel.java
+TokSpanEventStream.java
+TokSpanEventStreamTest.java
+TokSpanEventStreamTest.java
+TokSpanEventStreamTest.java
+In total, the TokenizerME.SPLIT was used 6 times.
+
+The global variable: TokenizerME.NO_SPLIT was used in following file(s)
+TokenizerModel.java
+TokSpanEventStream.java
+TokSpanEventStreamTest.java
+TokSpanEventStreamTest.java
+In total, the TokenizerME.NO_SPLIT was used 4 times.
+
+The global variable: TokenizerME.alphaNumeric was used in following file(s)
+In total, the TokenizerME.alphaNumeric was used 0 times.
+
+The global variable: PorterStemmer.INC was used in following file(s)
+In total, the PorterStemmer.INC was used 0 times.
+
+The global variable: danishStemmer.serialVersionUID was used in following file(s)
+In total, the danishStemmer.serialVersionUID was used 0 times.
+
+The global variable: danishStemmer.g_v[] was used in following file(s)
+In total, the danishStemmer.g_v[] was used 0 times.
+
+The global variable: danishStemmer.g_s_ending[] was used in following file(s)
+In total, the danishStemmer.g_s_ending[] was used 0 times.
+
+The global variable: dutchStemmer.serialVersionUID was used in following file(s)
+In total, the dutchStemmer.serialVersionUID was used 0 times.
+
+The global variable: dutchStemmer.g_v[] was used in following file(s)
+In total, the dutchStemmer.g_v[] was used 0 times.
+
+The global variable: dutchStemmer.g_v_I[] was used in following file(s)
+In total, the dutchStemmer.g_v_I[] was used 0 times.
+
+The global variable: dutchStemmer.g_v_j[] was used in following file(s)
+In total, the dutchStemmer.g_v_j[] was used 0 times.
+
+The global variable: englishStemmer.serialVersionUID was used in following file(s)
+In total, the englishStemmer.serialVersionUID was used 0 times.
+
+The global variable: englishStemmer.g_v[] was used in following file(s)
+In total, the englishStemmer.g_v[] was used 0 times.
+
+The global variable: englishStemmer.g_v_WXY[] was used in following file(s)
+In total, the englishStemmer.g_v_WXY[] was used 0 times.
+
+The global variable: englishStemmer.g_valid_LI[] was used in following file(s)
+In total, the englishStemmer.g_valid_LI[] was used 0 times.
+
+The global variable: germanStemmer.serialVersionUID was used in following file(s)
+In total, the germanStemmer.serialVersionUID was used 0 times.
+
+The global variable: germanStemmer.g_v[] was used in following file(s)
+In total, the germanStemmer.g_v[] was used 0 times.
+
+The global variable: germanStemmer.g_s_ending[] was used in following file(s)
+In total, the germanStemmer.g_s_ending[] was used 0 times.
+
+The global variable: germanStemmer.g_st_ending[] was used in following file(s)
+In total, the germanStemmer.g_st_ending[] was used 0 times.
+
+The global variable: finnishStemmer.serialVersionUID was used in following file(s)
+In total, the finnishStemmer.serialVersionUID was used 0 times.
+
+The global variable: finnishStemmer.g_AEI[] was used in following file(s)
+In total, the finnishStemmer.g_AEI[] was used 0 times.
+
+The global variable: finnishStemmer.g_V1[] was used in following file(s)
+In total, the finnishStemmer.g_V1[] was used 0 times.
+
+The global variable: finnishStemmer.g_V2[] was used in following file(s)
+In total, the finnishStemmer.g_V2[] was used 0 times.
+
+The global variable: finnishStemmer.g_particle_end[] was used in following file(s)
+In total, the finnishStemmer.g_particle_end[] was used 0 times.
+
+The global variable: norwegianStemmer.serialVersionUID was used in following file(s)
+In total, the norwegianStemmer.serialVersionUID was used 0 times.
+
+The global variable: norwegianStemmer.g_v[] was used in following file(s)
+In total, the norwegianStemmer.g_v[] was used 0 times.
+
+The global variable: norwegianStemmer.g_s_ending[] was used in following file(s)
+In total, the norwegianStemmer.g_s_ending[] was used 0 times.
+
+The global variable: frenchStemmer.serialVersionUID was used in following file(s)
+In total, the frenchStemmer.serialVersionUID was used 0 times.
+
+The global variable: frenchStemmer.g_v[] was used in following file(s)
+In total, the frenchStemmer.g_v[] was used 0 times.
+
+The global variable: frenchStemmer.g_keep_with_s[] was used in following file(s)
+In total, the frenchStemmer.g_keep_with_s[] was used 0 times.
+
+The global variable: hungarianStemmer.serialVersionUID was used in following file(s)
+In total, the hungarianStemmer.serialVersionUID was used 0 times.
+
+The global variable: hungarianStemmer.g_v[] was used in following file(s)
+In total, the hungarianStemmer.g_v[] was used 0 times.
+
+The global variable: italianStemmer.serialVersionUID was used in following file(s)
+In total, the italianStemmer.serialVersionUID was used 0 times.
+
+The global variable: italianStemmer.g_v[] was used in following file(s)
+In total, the italianStemmer.g_v[] was used 0 times.
+
+The global variable: italianStemmer.g_AEIO[] was used in following file(s)
+In total, the italianStemmer.g_AEIO[] was used 0 times.
+
+The global variable: italianStemmer.g_CG[] was used in following file(s)
+In total, the italianStemmer.g_CG[] was used 0 times.
+
+The global variable: porterStemmer.serialVersionUID was used in following file(s)
+In total, the porterStemmer.serialVersionUID was used 0 times.
+
+The global variable: porterStemmer.g_v[] was used in following file(s)
+In total, the porterStemmer.g_v[] was used 0 times.
+
+The global variable: porterStemmer.g_v_WXY[] was used in following file(s)
+In total, the porterStemmer.g_v_WXY[] was used 0 times.
+
+The global variable: portugueseStemmer.serialVersionUID was used in following file(s)
+In total, the portugueseStemmer.serialVersionUID was used 0 times.
+
+The global variable: portugueseStemmer.g_v[] was used in following file(s)
+In total, the portugueseStemmer.g_v[] was used 0 times.
+
+The global variable: romanianStemmer.serialVersionUID was used in following file(s)
+In total, the romanianStemmer.serialVersionUID was used 0 times.
+
+The global variable: romanianStemmer.g_v[] was used in following file(s)
+In total, the romanianStemmer.g_v[] was used 0 times.
+
+The global variable: swedishStemmer.serialVersionUID was used in following file(s)
+In total, the swedishStemmer.serialVersionUID was used 0 times.
+
+The global variable: swedishStemmer.g_v[] was used in following file(s)
+In total, the swedishStemmer.g_v[] was used 0 times.
+
+The global variable: swedishStemmer.g_s_ending[] was used in following file(s)
+In total, the swedishStemmer.g_s_ending[] was used 0 times.
+
+The global variable: AbstractEndOfSentenceScanner.INT_POOL was used in following file(s)
+In total, the AbstractEndOfSentenceScanner.INT_POOL was used 0 times.
+
+The global variable: russianStemmer.serialVersionUID was used in following file(s)
+In total, the russianStemmer.serialVersionUID was used 0 times.
+
+The global variable: russianStemmer.g_v[] was used in following file(s)
+In total, the russianStemmer.g_v[] was used 0 times.
+
+The global variable: DefaultEndOfSentenceScanner.INT_POOL was used in following file(s)
+In total, the DefaultEndOfSentenceScanner.INT_POOL was used 0 times.
+
+The global variable: spanishStemmer.serialVersionUID was used in following file(s)
+In total, the spanishStemmer.serialVersionUID was used 0 times.
+
+The global variable: spanishStemmer.g_v[] was used in following file(s)
+In total, the spanishStemmer.g_v[] was used 0 times.
+
+The global variable: SentenceDetectorFactory.ABBREVIATIONS_ENTRY_NAME was used in following file(s)
+In total, the SentenceDetectorFactory.ABBREVIATIONS_ENTRY_NAME was used 0 times.
+
+The global variable: SentenceDetectorFactory.EOS_CHARACTERS_PROPERTY was used in following file(s)
+In total, the SentenceDetectorFactory.EOS_CHARACTERS_PROPERTY was used 0 times.
+
+The global variable: SentenceDetectorFactory.TOKEN_END_PROPERTY was used in following file(s)
+In total, the SentenceDetectorFactory.TOKEN_END_PROPERTY was used 0 times.
+
+The global variable: SentenceModel.COMPONENT_NAME was used in following file(s)
+In total, the SentenceModel.COMPONENT_NAME was used 0 times.
+
+The global variable: SentenceModel.MAXENT_MODEL_ENTRY_NAME was used in following file(s)
+In total, the SentenceModel.MAXENT_MODEL_ENTRY_NAME was used 0 times.
+
+The global variable: SentenceDetectorME.SPLIT was used in following file(s)
+SDEventStream.java
+SentenceModel.java
+SDEventStreamTest.java
+SDEventStreamTest.java
+In total, the SentenceDetectorME.SPLIT was used 4 times.
+
+The global variable: SentenceDetectorME.NO_SPLIT was used in following file(s)
+SDEventStream.java
+SentenceModel.java
+SDEventStreamTest.java
+SDEventStreamTest.java
+In total, the SentenceDetectorME.NO_SPLIT was used 4 times.
+
+The global variable: Factory.ptEosCharacters was used in following file(s)
+ADSentenceSampleStream.java
+ADSentenceSampleStream.java
+ADSentenceSampleStream.java
+In total, the Factory.ptEosCharacters was used 3 times.
+
+The global variable: Factory.defaultEosCharacters was used in following file(s)
+SentenceDetectorFactoryTest.java
+SentenceDetectorFactoryTest.java
+In total, the Factory.defaultEosCharacters was used 2 times.
+
+The global variable: Factory.thEosCharacters was used in following file(s)
+In total, the Factory.thEosCharacters was used 0 times.
+
+The global variable: SentenceContextGenerator.eosCharacters was used in following file(s)
+In total, the SentenceContextGenerator.eosCharacters was used 0 times.
+
+The global variable: DefaultPOSContextGenerator.PREFIX_LENGTH was used in following file(s)
+In total, the DefaultPOSContextGenerator.PREFIX_LENGTH was used 0 times.
+
+The global variable: DefaultPOSContextGenerator.SUFFIX_LENGTH was used in following file(s)
+In total, the DefaultPOSContextGenerator.SUFFIX_LENGTH was used 0 times.
+
+The global variable: DefaultPOSContextGenerator.hasCap was used in following file(s)
+In total, the DefaultPOSContextGenerator.hasCap was used 0 times.
+
+The global variable: DefaultPOSContextGenerator.hasNum was used in following file(s)
+In total, the DefaultPOSContextGenerator.hasNum was used 0 times.
+
+The global variable: POSModel.COMPONENT_NAME was used in following file(s)
+In total, the POSModel.COMPONENT_NAME was used 0 times.
+
+The global variable: POSModel.POS_MODEL_ENTRY_NAME was used in following file(s)
+POSTaggerFactory.java
+In total, the POSModel.POS_MODEL_ENTRY_NAME was used 1 times.
+
+The global variable: turkishStemmer.serialVersionUID was used in following file(s)
+In total, the turkishStemmer.serialVersionUID was used 0 times.
+
+The global variable: turkishStemmer.g_vowel[] was used in following file(s)
+In total, the turkishStemmer.g_vowel[] was used 0 times.
+
+The global variable: turkishStemmer.g_U[] was used in following file(s)
+In total, the turkishStemmer.g_U[] was used 0 times.
+
+The global variable: turkishStemmer.g_vowel1[] was used in following file(s)
+In total, the turkishStemmer.g_vowel1[] was used 0 times.
+
+The global variable: turkishStemmer.g_vowel2[] was used in following file(s)
+In total, the turkishStemmer.g_vowel2[] was used 0 times.
+
+The global variable: turkishStemmer.g_vowel3[] was used in following file(s)
+In total, the turkishStemmer.g_vowel3[] was used 0 times.
+
+The global variable: turkishStemmer.g_vowel4[] was used in following file(s)
+In total, the turkishStemmer.g_vowel4[] was used 0 times.
+
+The global variable: turkishStemmer.g_vowel5[] was used in following file(s)
+In total, the turkishStemmer.g_vowel5[] was used 0 times.
+
+The global variable: turkishStemmer.g_vowel6[] was used in following file(s)
+In total, the turkishStemmer.g_vowel6[] was used 0 times.
+
+The global variable: WordTagSampleStream.logger was used in following file(s)
+In total, the WordTagSampleStream.logger was used 0 times.
+
+The global variable: POSTaggerFactory.TAG_DICTIONARY_ENTRY_NAME was used in following file(s)
+In total, the POSTaggerFactory.TAG_DICTIONARY_ENTRY_NAME was used 0 times.
+
+The global variable: POSTaggerFactory.NGRAM_DICTIONARY_ENTRY_NAME was used in following file(s)
+In total, the POSTaggerFactory.NGRAM_DICTIONARY_ENTRY_NAME was used 0 times.
+
+The global variable: POSTaggerME.DEFAULT_BEAM_SIZE was used in following file(s)
+POSModel.java
+POSModel.java
+POSModel.java
+POSTaggerME.java
+POSTaggerME.java
+In total, the POSTaggerME.DEFAULT_BEAM_SIZE was used 5 times.
+
+The global variable: ChunkContextGenerator.EOS was used in following file(s)
+In total, the ChunkContextGenerator.EOS was used 0 times.
+
+The global variable: AbstractBottomUpParser.defaultBeamSize was used in following file(s)
+ParserTool.java
+ParserFactory.java
+In total, the AbstractBottomUpParser.defaultBeamSize was used 2 times.
+
+The global variable: AbstractBottomUpParser.defaultAdvancePercentage was used in following file(s)
+ParserTool.java
+ParserFactory.java
+In total, the AbstractBottomUpParser.defaultAdvancePercentage was used 2 times.
+
+The global variable: AbstractBottomUpParser.TOP_NODE was used in following file(s)
+ConstitDocumentHandler.java
+ConstitDocumentHandler.java
+ParserEventStream.java
+Parse.java
+Parse.java
+Parser.java
+ParserEventStream.java
+ParserEventStream.java
+In total, the AbstractBottomUpParser.TOP_NODE was used 8 times.
+
+The global variable: AbstractBottomUpParser.INC_NODE was used in following file(s)
+ParserTool.java
+Parser.java
+In total, the AbstractBottomUpParser.INC_NODE was used 2 times.
+
+The global variable: AbstractBottomUpParser.TOK_NODE was used in following file(s)
+ParserTool.java
+ConstitDocumentHandler.java
+ConstitDocumentHandler.java
+Parse.java
+Parse.java
+Parse.java
+Parse.java
+Parse.java
+Parse.java
+In total, the AbstractBottomUpParser.TOK_NODE was used 9 times.
+
+The global variable: AbstractBottomUpParser.ZERO was used in following file(s)
+In total, the AbstractBottomUpParser.ZERO was used 0 times.
+
+The global variable: AbstractBottomUpParser.START was used in following file(s)
+ParserEventStream.java
+In total, the AbstractBottomUpParser.START was used 1 times.
+
+The global variable: AbstractBottomUpParser.CONT was used in following file(s)
+ParserEventStream.java
+In total, the AbstractBottomUpParser.CONT was used 1 times.
+
+The global variable: AbstractBottomUpParser.OTHER was used in following file(s)
+In total, the AbstractBottomUpParser.OTHER was used 0 times.
+
+The global variable: AbstractBottomUpParser.COMPLETE was used in following file(s)
+In total, the AbstractBottomUpParser.COMPLETE was used 0 times.
+
+The global variable: AbstractBottomUpParser.INCOMPLETE was used in following file(s)
+In total, the AbstractBottomUpParser.INCOMPLETE was used 0 times.
+
+The global variable: AbstractContextGenerator.EOS was used in following file(s)
+In total, the AbstractContextGenerator.EOS was used 0 times.
+
+The global variable: Parse.BRACKET_LRB was used in following file(s)
+In total, the Parse.BRACKET_LRB was used 0 times.
+
+The global variable: Parse.BRACKET_RRB was used in following file(s)
+In total, the Parse.BRACKET_RRB was used 0 times.
+
+The global variable: Parse.BRACKET_LCB was used in following file(s)
+In total, the Parse.BRACKET_LCB was used 0 times.
+
+The global variable: Parse.BRACKET_RCB was used in following file(s)
+In total, the Parse.BRACKET_RCB was used 0 times.
+
+The global variable: Parse.BRACKET_LSB was used in following file(s)
+In total, the Parse.BRACKET_LSB was used 0 times.
+
+The global variable: Parse.BRACKET_RSB was used in following file(s)
+In total, the Parse.BRACKET_RSB was used 0 times.
+
+The global variable: Parse.typePattern was used in following file(s)
+In total, the Parse.typePattern was used 0 times.
+
+The global variable: Parse.funTypePattern was used in following file(s)
+In total, the Parse.funTypePattern was used 0 times.
+
+The global variable: Parse.tokenPattern was used in following file(s)
+In total, the Parse.tokenPattern was used 0 times.
+
+The global variable: Parse.useFunctionTags was used in following file(s)
+ParserTrainerTool.java
+ParserEventStream.java
+Parse.java
+ParserEventStream.java
+In total, the Parse.useFunctionTags was used 4 times.
+
+The global variable: ParserModel.COMPONENT_NAME was used in following file(s)
+In total, the ParserModel.COMPONENT_NAME was used 0 times.
+
+The global variable: ParserModel.BUILD_MODEL_ENTRY_NAME was used in following file(s)
+In total, the ParserModel.BUILD_MODEL_ENTRY_NAME was used 0 times.
+
+The global variable: ParserModel.CHECK_MODEL_ENTRY_NAME was used in following file(s)
+In total, the ParserModel.CHECK_MODEL_ENTRY_NAME was used 0 times.
+
+The global variable: ParserModel.ATTACH_MODEL_ENTRY_NAME was used in following file(s)
+In total, the ParserModel.ATTACH_MODEL_ENTRY_NAME was used 0 times.
+
+The global variable: ParserModel.PARSER_TAGGER_MODEL_ENTRY_NAME was used in following file(s)
+In total, the ParserModel.PARSER_TAGGER_MODEL_ENTRY_NAME was used 0 times.
+
+The global variable: ParserModel.CHUNKER_TAGGER_MODEL_ENTRY_NAME was used in following file(s)
+In total, the ParserModel.CHUNKER_TAGGER_MODEL_ENTRY_NAME was used 0 times.
+
+The global variable: ParserModel.HEAD_RULES_MODEL_ENTRY_NAME was used in following file(s)
+In total, the ParserModel.HEAD_RULES_MODEL_ENTRY_NAME was used 0 times.
+
+The global variable: ParserModel.PARSER_TYPE was used in following file(s)
+In total, the ParserModel.PARSER_TYPE was used 0 times.
+
+The global variable: Parser.DONE was used in following file(s)
+ParserEventStream.java
+In total, the Parser.DONE was used 1 times.
+
+The global variable: Parser.ATTACH_SISTER was used in following file(s)
+ParserEventStream.java
+ParserEventStream.java
+ParserEventStream.java
+In total, the Parser.ATTACH_SISTER was used 3 times.
+
+The global variable: Parser.ATTACH_DAUGHTER was used in following file(s)
+ParserEventStream.java
+ParserEventStream.java
+In total, the Parser.ATTACH_DAUGHTER was used 2 times.
+
+The global variable: Parser.NON_ATTACH was used in following file(s)
+ParserEventStream.java
+In total, the Parser.NON_ATTACH was used 1 times.
+
+The global variable: Parser.BUILT was used in following file(s)
+Parser.java
+Parser.java
+Parser.java
+Parser.java
+Parser.java
+Parser.java
+Parser.java
+Parser.java
+Parser.java
+ParserEventStream.java
+ParserEventStream.java
+ParserEventStream.java
+In total, the Parser.BUILT was used 12 times.
+
+The global variable: Parser.checkComplete was used in following file(s)
+ParserEventStream.java
+ParserEventStream.java
+ParserEventStream.java
+In total, the Parser.checkComplete was used 3 times.
+
+The global variable: ParserEventStream.debug was used in following file(s)
+In total, the ParserEventStream.debug was used 0 times.
+
+The global variable: Parser.TOP_START was used in following file(s)
+In total, the Parser.TOP_START was used 0 times.
+
+The global variable: NGramModel.COUNT was used in following file(s)
+In total, the NGramModel.COUNT was used 0 times.
+
+The global variable: BilouCodec.START was used in following file(s)
+In total, the BilouCodec.START was used 0 times.
+
+The global variable: BilouCodec.CONTINUE was used in following file(s)
+In total, the BilouCodec.CONTINUE was used 0 times.
+
+The global variable: BilouCodec.LAST was used in following file(s)
+BilouCodec.java
+BilouCodec.java
+BilouNameFinderSequenceValidator.java
+In total, the BilouCodec.LAST was used 3 times.
+
+The global variable: BilouCodec.UNIT was used in following file(s)
+BilouCodec.java
+BilouCodec.java
+BilouNameFinderSequenceValidator.java
+In total, the BilouCodec.UNIT was used 3 times.
+
+The global variable: BilouCodec.OTHER was used in following file(s)
+In total, the BilouCodec.OTHER was used 0 times.
+
+The global variable: BioCodec.START was used in following file(s)
+BilouCodec.java
+BilouCodec.java
+BilouCodec.java
+BioCodec.java
+BioCodec.java
+BioCodec.java
+In total, the BioCodec.START was used 6 times.
+
+The global variable: BioCodec.CONTINUE was used in following file(s)
+BilouCodec.java
+BilouCodec.java
+BilouCodec.java
+BioCodec.java
+BioCodec.java
+BioCodec.java
+In total, the BioCodec.CONTINUE was used 6 times.
+
+The global variable: BioCodec.OTHER was used in following file(s)
+BilouCodec.java
+BilouCodec.java
+BioCodec.java
+BioCodec.java
+In total, the BioCodec.OTHER was used 4 times.
+
+The global variable: BioCodec.typedOutcomePattern was used in following file(s)
+In total, the BioCodec.typedOutcomePattern was used 0 times.
+
+The global variable: DictionaryNameFinder.DEFAULT_TYPE was used in following file(s)
+In total, the DictionaryNameFinder.DEFAULT_TYPE was used 0 times.
+
+The global variable: DefaultNameContextGenerator.windowFeatures was used in following file(s)
+In total, the DefaultNameContextGenerator.windowFeatures was used 0 times.
+
+The global variable: NameSampleDataStream.START_TAG_PREFIX was used in following file(s)
+NameSample.java
+In total, the NameSampleDataStream.START_TAG_PREFIX was used 1 times.
+
+The global variable: NameSampleDataStream.START_TAG was used in following file(s)
+NameSample.java
+NameSample.java
+In total, the NameSampleDataStream.START_TAG was used 2 times.
+
+The global variable: NameSampleDataStream.END_TAG was used in following file(s)
+NameSample.java
+NameSample.java
+NameSample.java
+In total, the NameSampleDataStream.END_TAG was used 3 times.
+
+The global variable: NameSample.DEFAULT_TYPE was used in following file(s)
+NameSampleDataStreamTest.java
+In total, the NameSample.DEFAULT_TYPE was used 1 times.
+
+The global variable: NameSample.START_TAG_PATTERN was used in following file(s)
+In total, the NameSample.START_TAG_PATTERN was used 0 times.
+
+The global variable: NameFinderME.EMPTY was used in following file(s)
+In total, the NameFinderME.EMPTY was used 0 times.
+
+The global variable: NameFinderME.DEFAULT_BEAM_SIZE was used in following file(s)
+NameFinderME.java
+NameFinderME.java
+TokenNameFinderModel.java
+TokenNameFinderModel.java
+In total, the NameFinderME.DEFAULT_BEAM_SIZE was used 4 times.
+
+The global variable: NameFinderME.typedOutcomePattern was used in following file(s)
+In total, the NameFinderME.typedOutcomePattern was used 0 times.
+
+The global variable: NameFinderME.START was used in following file(s)
+BilouNameFinderSequenceValidator.java
+BilouNameFinderSequenceValidator.java
+BioCodec.java
+BioCodec.java
+NameFinderEventStream.java
+NameFinderEventStream.java
+NameFinderEventStreamTest.java
+In total, the NameFinderME.START was used 7 times.
+
+The global variable: NameFinderME.CONTINUE was used in following file(s)
+BilouNameFinderSequenceValidator.java
+BilouNameFinderSequenceValidator.java
+BilouNameFinderSequenceValidator.java
+BioCodec.java
+BioCodec.java
+NameFinderEventStream.java
+NameFinderEventStream.java
+NameFinderSequenceValidator.java
+NameFinderSequenceValidator.java
+NameFinderEventStreamTest.java
+In total, the NameFinderME.CONTINUE was used 10 times.
+
+The global variable: NameFinderME.OTHER was used in following file(s)
+BilouNameFinderSequenceValidator.java
+BilouNameFinderSequenceValidator.java
+BioCodec.java
+DefaultNameContextGenerator.java
+DefaultNameContextGenerator.java
+NameFinderEventStream.java
+NameFinderSequenceValidator.java
+NameFinderEventStreamTest.java
+NameFinderMETest.java
+In total, the NameFinderME.OTHER was used 9 times.
+
+The global variable: AbstractEventTrainer.DATA_INDEXER_PARAM was used in following file(s)
+TrainerFactory.java
+MaxentPrepAttachTest.java
+QNPrepAttachTest.java
+QNPrepAttachTest.java
+QNPrepAttachTest.java
+In total, the AbstractEventTrainer.DATA_INDEXER_PARAM was used 5 times.
+
+The global variable: AbstractEventTrainer.DATA_INDEXER_ONE_PASS_VALUE was used in following file(s)
+TrainerFactory.java
+In total, the AbstractEventTrainer.DATA_INDEXER_ONE_PASS_VALUE was used 1 times.
+
+The global variable: AbstractEventTrainer.DATA_INDEXER_TWO_PASS_VALUE was used in following file(s)
+TrainerFactory.java
+MaxentPrepAttachTest.java
+QNPrepAttachTest.java
+QNPrepAttachTest.java
+QNPrepAttachTest.java
+In total, the AbstractEventTrainer.DATA_INDEXER_TWO_PASS_VALUE was used 5 times.
+
+The global variable: TokenNameFinderModel.COMPONENT_NAME was used in following file(s)
+In total, the TokenNameFinderModel.COMPONENT_NAME was used 0 times.
+
+The global variable: TokenNameFinderModel.MAXENT_MODEL_ENTRY_NAME was used in following file(s)
+In total, the TokenNameFinderModel.MAXENT_MODEL_ENTRY_NAME was used 0 times.
+
+The global variable: TokenNameFinderModel.GENERATOR_DESCRIPTOR_ENTRY_NAME was used in following file(s)
+TokenNameFinderFactory.java
+In total, the TokenNameFinderModel.GENERATOR_DESCRIPTOR_ENTRY_NAME was used 1 times.
+
+The global variable: TokenNameFinderModel.SEQUENCE_CODEC_CLASS_NAME_PARAMETER was used in following file(s)
+TokenNameFinderFactory.java
+In total, the TokenNameFinderModel.SEQUENCE_CODEC_CLASS_NAME_PARAMETER was used 1 times.
+
+The global variable: AbstractTrainer.ALGORITHM_PARAM was used in following file(s)
+TrainerFactory.java
+TrainerFactory.java
+TrainerFactory.java
+TrainerFactory.java
+TrainerFactory.java
+TrainerFactory.java
+TrainerFactory.java
+TrainerFactory.java
+TrainerFactory.java
+TrainerFactory.java
+TrainerFactory.java
+TrainerFactory.java
+MaxentPrepAttachTest.java
+MaxentPrepAttachTest.java
+QNPrepAttachTest.java
+QNPrepAttachTest.java
+QNPrepAttachTest.java
+QNPrepAttachTest.java
+QNPrepAttachTest.java
+PerceptronPrepAttachTest.java
+PerceptronPrepAttachTest.java
+PerceptronPrepAttachTest.java
+TrainerFactoryTest.java
+TrainerFactoryTest.java
+In total, the AbstractTrainer.ALGORITHM_PARAM was used 24 times.
+
+The global variable: AbstractTrainer.TRAINER_TYPE_PARAM was used in following file(s)
+AbstractEventModelSequenceTrainer.java
+AbstractEventTrainer.java
+AbstractSequenceTrainer.java
+TrainerFactory.java
+TrainerFactory.java
+TrainerFactory.java
+In total, the AbstractTrainer.TRAINER_TYPE_PARAM was used 6 times.
+
+The global variable: AbstractTrainer.CUTOFF_PARAM was used in following file(s)
+TrainerFactory.java
+MaxentPrepAttachTest.java
+QNPrepAttachTest.java
+QNPrepAttachTest.java
+QNPrepAttachTest.java
+PerceptronPrepAttachTest.java
+PerceptronPrepAttachTest.java
+PerceptronPrepAttachTest.java
+In total, the AbstractTrainer.CUTOFF_PARAM was used 8 times.
+
+The global variable: AbstractTrainer.CUTOFF_DEFAULT was used in following file(s)
+In total, the AbstractTrainer.CUTOFF_DEFAULT was used 0 times.
+
+The global variable: AbstractTrainer.ITERATIONS_PARAM was used in following file(s)
+TrainerFactory.java
+PerceptronPrepAttachTest.java
+PerceptronPrepAttachTest.java
+In total, the AbstractTrainer.ITERATIONS_PARAM was used 3 times.
+
+The global variable: AbstractTrainer.ITERATIONS_DEFAULT was used in following file(s)
+In total, the AbstractTrainer.ITERATIONS_DEFAULT was used 0 times.
+
+The global variable: .SEQUENCE_VALUE was used in following file(s)
+AbstractEventModelSequenceTrainer.java
+AbstractSequenceTrainer.java
+TrainerFactory.java
+TrainerFactory.java
+TrainerFactory.java
+TrainerFactory.java
+In total, the .SEQUENCE_VALUE was used 6 times.
+
+The global variable: .EVENT_VALUE was used in following file(s)
+AbstractEventTrainer.java
+TrainerFactory.java
+TrainerFactory.java
+TrainingParameters.java
+In total, the .EVENT_VALUE was used 4 times.
+
+The global variable: .SEQUENCE_VALUE was used in following file(s)
+AbstractEventModelSequenceTrainer.java
+AbstractSequenceTrainer.java
+TrainerFactory.java
+TrainerFactory.java
+TrainerFactory.java
+TrainerFactory.java
+In total, the .SEQUENCE_VALUE was used 6 times.
+
+The global variable: BeamSearch.BEAM_SIZE_PARAMETER was used in following file(s)
+ChunkerME.java
+ChunkerModel.java
+ChunkerModel.java
+NameFinderME.java
+NameFinderME.java
+TokenNameFinderModel.java
+TokenNameFinderModel.java
+Parser.java
+Parser.java
+ParserModel.java
+POSModel.java
+POSModel.java
+POSTaggerME.java
+POSTaggerME.java
+In total, the BeamSearch.BEAM_SIZE_PARAMETER was used 14 times.
+
+The global variable: BeamSearch.EMPTY_ADDITIONAL_CONTEXT was used in following file(s)
+In total, the BeamSearch.EMPTY_ADDITIONAL_CONTEXT was used 0 times.
+
+The global variable: BeamSearch.zeroLog was used in following file(s)
+In total, the BeamSearch.zeroLog was used 0 times.
+
+The global variable: TrainerFactory.BUILTIN_TRAINERS was used in following file(s)
+In total, the TrainerFactory.BUILTIN_TRAINERS was used 0 times.
+
+The global variable: PerceptronTrainer.PERCEPTRON_VALUE was used in following file(s)
+TrainerFactory.java
+ArvoresDeitadasEval.java
+PerceptronPrepAttachTest.java
+PerceptronPrepAttachTest.java
+PerceptronPrepAttachTest.java
+In total, the PerceptronTrainer.PERCEPTRON_VALUE was used 5 times.
+
+The global variable: PerceptronTrainer.TOLERANCE_DEFAULT was used in following file(s)
+PerceptronTrainer.java
+In total, the PerceptronTrainer.TOLERANCE_DEFAULT was used 1 times.
+
+The global variable: SimplePerceptronSequenceTrainer.PERCEPTRON_SEQUENCE_VALUE was used in following file(s)
+TrainerFactory.java
+TrainerFactory.java
+TrainerFactoryTest.java
+In total, the SimplePerceptronSequenceTrainer.PERCEPTRON_SEQUENCE_VALUE was used 3 times.
+
+The global variable: GIS.MAXENT_VALUE was used in following file(s)
+AbstractTrainer.java
+TrainerFactory.java
+ModelUtil.java
+MaxentPrepAttachTest.java
+MaxentPrepAttachTest.java
+TrainerFactoryTest.java
+TrainerFactoryTest.java
+In total, the GIS.MAXENT_VALUE was used 7 times.
+
+The global variable: GIS.PRINT_MESSAGES was used in following file(s)
+In total, the GIS.PRINT_MESSAGES was used 0 times.
+
+The global variable: GIS.SMOOTHING_OBSERVATION was used in following file(s)
+In total, the GIS.SMOOTHING_OBSERVATION was used 0 times.
+
+The global variable: GISTrainer.LLThreshold was used in following file(s)
+In total, the GISTrainer.LLThreshold was used 0 times.
+
+The global variable: LineSearch.C was used in following file(s)
+In total, the LineSearch.C was used 0 times.
+
+The global variable: LineSearch.RHO was used in following file(s)
+In total, the LineSearch.RHO was used 0 times.
+
+The global variable: QNMinimizer.CONVERGE_TOLERANCE was used in following file(s)
+In total, the QNMinimizer.CONVERGE_TOLERANCE was used 0 times.
+
+The global variable: QNMinimizer.REL_GRAD_NORM_TOL was used in following file(s)
+In total, the QNMinimizer.REL_GRAD_NORM_TOL was used 0 times.
+
+The global variable: QNMinimizer.INITIAL_STEP_SIZE was used in following file(s)
+In total, the QNMinimizer.INITIAL_STEP_SIZE was used 0 times.
+
+The global variable: QNMinimizer.MIN_STEP_SIZE was used in following file(s)
+In total, the QNMinimizer.MIN_STEP_SIZE was used 0 times.
+
+The global variable: QNMinimizer.L1COST_DEFAULT was used in following file(s)
+In total, the QNMinimizer.L1COST_DEFAULT was used 0 times.
+
+The global variable: QNMinimizer.L2COST_DEFAULT was used in following file(s)
+In total, the QNMinimizer.L2COST_DEFAULT was used 0 times.
+
+The global variable: QNMinimizer.NUM_ITERATIONS_DEFAULT was used in following file(s)
+In total, the QNMinimizer.NUM_ITERATIONS_DEFAULT was used 0 times.
+
+The global variable: QNMinimizer.M_DEFAULT was used in following file(s)
+In total, the QNMinimizer.M_DEFAULT was used 0 times.
+
+The global variable: QNMinimizer.MAX_FCT_EVAL_DEFAULT was used in following file(s)
+In total, the QNMinimizer.MAX_FCT_EVAL_DEFAULT was used 0 times.
+
+The global variable: QNTrainer.MAXENT_QN_VALUE was used in following file(s)
+TrainerFactory.java
+QNPrepAttachTest.java
+QNPrepAttachTest.java
+QNPrepAttachTest.java
+QNPrepAttachTest.java
+QNPrepAttachTest.java
+In total, the QNTrainer.MAXENT_QN_VALUE was used 6 times.
+
+The global variable: QNTrainer.THREADS_PARAM was used in following file(s)
+In total, the QNTrainer.THREADS_PARAM was used 0 times.
+
+The global variable: QNTrainer.THREADS_DEFAULT was used in following file(s)
+In total, the QNTrainer.THREADS_DEFAULT was used 0 times.
+
+The global variable: QNTrainer.L1COST_PARAM was used in following file(s)
+QNPrepAttachTest.java
+QNPrepAttachTest.java
+QNPrepAttachTest.java
+In total, the QNTrainer.L1COST_PARAM was used 3 times.
+
+The global variable: QNTrainer.L1COST_DEFAULT was used in following file(s)
+In total, the QNTrainer.L1COST_DEFAULT was used 0 times.
+
+The global variable: QNTrainer.L2COST_PARAM was used in following file(s)
+QNPrepAttachTest.java
+QNPrepAttachTest.java
+QNPrepAttachTest.java
+In total, the QNTrainer.L2COST_PARAM was used 3 times.
+
+The global variable: QNTrainer.L2COST_DEFAULT was used in following file(s)
+In total, the QNTrainer.L2COST_DEFAULT was used 0 times.
+
+The global variable: QNTrainer.M_PARAM was used in following file(s)
+In total, the QNTrainer.M_PARAM was used 0 times.
+
+The global variable: QNTrainer.M_DEFAULT was used in following file(s)
+In total, the QNTrainer.M_DEFAULT was used 0 times.
+
+The global variable: QNTrainer.MAX_FCT_EVAL_PARAM was used in following file(s)
+In total, the QNTrainer.MAX_FCT_EVAL_PARAM was used 0 times.
+
+The global variable: QNTrainer.MAX_FCT_EVAL_DEFAULT was used in following file(s)
+In total, the QNTrainer.MAX_FCT_EVAL_DEFAULT was used 0 times.
+
+The global variable: BioNLP2004NameSampleStream.GENERATE_DNA_ENTITIES was used in following file(s)
+BioNLP2004NameSampleStreamFactory.java
+In total, the BioNLP2004NameSampleStream.GENERATE_DNA_ENTITIES was used 1 times.
+
+The global variable: BioNLP2004NameSampleStream.GENERATE_PROTEIN_ENTITIES was used in following file(s)
+BioNLP2004NameSampleStreamFactory.java
+In total, the BioNLP2004NameSampleStream.GENERATE_PROTEIN_ENTITIES was used 1 times.
+
+The global variable: BioNLP2004NameSampleStream.GENERATE_CELLTYPE_ENTITIES was used in following file(s)
+BioNLP2004NameSampleStreamFactory.java
+In total, the BioNLP2004NameSampleStream.GENERATE_CELLTYPE_ENTITIES was used 1 times.
+
+The global variable: BioNLP2004NameSampleStream.GENERATE_CELLLINE_ENTITIES was used in following file(s)
+BioNLP2004NameSampleStreamFactory.java
+In total, the BioNLP2004NameSampleStream.GENERATE_CELLLINE_ENTITIES was used 1 times.
+
+The global variable: BioNLP2004NameSampleStream.GENERATE_RNA_ENTITIES was used in following file(s)
+BioNLP2004NameSampleStreamFactory.java
+In total, the BioNLP2004NameSampleStream.GENERATE_RNA_ENTITIES was used 1 times.
+
+The global variable: Conll02NameSampleStream.GENERATE_PERSON_ENTITIES was used in following file(s)
+Conll02NameSampleStreamFactory.java
+Conll03NameSampleStream.java
+Conll03NameSampleStreamFactory.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameSampleStreamTest.java
+Conll03NameSampleStreamTest.java
+In total, the Conll02NameSampleStream.GENERATE_PERSON_ENTITIES was used 13 times.
+
+The global variable: Conll02NameSampleStream.GENERATE_ORGANIZATION_ENTITIES was used in following file(s)
+Conll02NameSampleStreamFactory.java
+Conll03NameSampleStream.java
+Conll03NameSampleStreamFactory.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+In total, the Conll02NameSampleStream.GENERATE_ORGANIZATION_ENTITIES was used 11 times.
+
+The global variable: Conll02NameSampleStream.GENERATE_LOCATION_ENTITIES was used in following file(s)
+Conll02NameSampleStreamFactory.java
+Conll03NameSampleStream.java
+Conll03NameSampleStreamFactory.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+In total, the Conll02NameSampleStream.GENERATE_LOCATION_ENTITIES was used 11 times.
+
+The global variable: Conll02NameSampleStream.GENERATE_MISC_ENTITIES was used in following file(s)
+Conll02NameSampleStreamFactory.java
+Conll03NameSampleStream.java
+Conll03NameSampleStreamFactory.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+Conll02NameFinderEval.java
+In total, the Conll02NameSampleStream.GENERATE_MISC_ENTITIES was used 11 times.
+
+The global variable: Conll02NameSampleStream.DOCSTART was used in following file(s)
+Conll03NameSampleStream.java
+In total, the Conll02NameSampleStream.DOCSTART was used 1 times.
+
+The global variable: ConllXPOSSampleStreamFactory.CONLLX_FORMAT was used in following file(s)
+ConllXSentenceSampleStreamFactory.java
+ConllXSentenceSampleStreamFactory.java
+ConllXTokenSampleStreamFactory.java
+ConllXTokenSampleStreamFactory.java
+In total, the ConllXPOSSampleStreamFactory.CONLLX_FORMAT was used 4 times.
+
+The global variable: EvalitaNameSampleStream.GENERATE_PERSON_ENTITIES was used in following file(s)
+EvalitaNameSampleStreamFactory.java
+EvalitaNameSampleStreamTest.java
+In total, the EvalitaNameSampleStream.GENERATE_PERSON_ENTITIES was used 2 times.
+
+The global variable: EvalitaNameSampleStream.GENERATE_ORGANIZATION_ENTITIES was used in following file(s)
+EvalitaNameSampleStreamFactory.java
+In total, the EvalitaNameSampleStream.GENERATE_ORGANIZATION_ENTITIES was used 1 times.
+
+The global variable: EvalitaNameSampleStream.GENERATE_LOCATION_ENTITIES was used in following file(s)
+EvalitaNameSampleStreamFactory.java
+In total, the EvalitaNameSampleStream.GENERATE_LOCATION_ENTITIES was used 1 times.
+
+The global variable: EvalitaNameSampleStream.GENERATE_GPE_ENTITIES was used in following file(s)
+EvalitaNameSampleStreamFactory.java
+In total, the EvalitaNameSampleStream.GENERATE_GPE_ENTITIES was used 1 times.
+
+The global variable: EvalitaNameSampleStream.DOCSTART was used in following file(s)
+In total, the EvalitaNameSampleStream.DOCSTART was used 0 times.
+
+The global variable: DocumentSplitterStream.DOC_START_ELEMENT was used in following file(s)
+In total, the DocumentSplitterStream.DOC_START_ELEMENT was used 0 times.
+
+The global variable: DocumentSplitterStream.DOC_END_ELEMENT was used in following file(s)
+In total, the DocumentSplitterStream.DOC_END_ELEMENT was used 0 times.
+
+The global variable: MucElementNames.DOC_ELEMENT was used in following file(s)
+MucNameContentHandler.java
+In total, the MucElementNames.DOC_ELEMENT was used 1 times.
+
+The global variable: MucElementNames.HEADLINE_ELEMENT was used in following file(s)
+MucElementNames.java
+In total, the MucElementNames.HEADLINE_ELEMENT was used 1 times.
+
+The global variable: MucElementNames.DATELINE_ELEMENT was used in following file(s)
+MucElementNames.java
+In total, the MucElementNames.DATELINE_ELEMENT was used 1 times.
+
+The global variable: MucElementNames.DD_ELEMENT was used in following file(s)
+MucElementNames.java
+In total, the MucElementNames.DD_ELEMENT was used 1 times.
+
+The global variable: MucElementNames.SENTENCE_ELEMENT was used in following file(s)
+MucElementNames.java
+In total, the MucElementNames.SENTENCE_ELEMENT was used 1 times.
+
+The global variable: MucElementNames.CONTENT_ELEMENTS was used in following file(s)
+MucNameContentHandler.java
+MucNameContentHandler.java
+In total, the MucElementNames.CONTENT_ELEMENTS was used 2 times.
+
+The global variable: MucNameContentHandler.ENTITY_ELEMENT_NAME was used in following file(s)
+In total, the MucNameContentHandler.ENTITY_ELEMENT_NAME was used 0 times.
+
+The global variable: MucNameContentHandler.TIME_ELEMENT_NAME was used in following file(s)
+In total, the MucNameContentHandler.TIME_ELEMENT_NAME was used 0 times.
+
+The global variable: MucNameContentHandler.NUM_ELEMENT_NAME was used in following file(s)
+In total, the MucNameContentHandler.NUM_ELEMENT_NAME was used 0 times.
+
+The global variable: MucNameContentHandler.NAME_ELEMENT_NAMES was used in following file(s)
+In total, the MucNameContentHandler.NAME_ELEMENT_NAMES was used 0 times.
+
+The global variable: MucNameContentHandler.EXPECTED_TYPES was used in following file(s)
+In total, the MucNameContentHandler.EXPECTED_TYPES was used 0 times.
+
+The global variable: ConstitDocumentHandler.SENT_ELEMENT_NAME was used in following file(s)
+In total, the ConstitDocumentHandler.SENT_ELEMENT_NAME was used 0 times.
+
+The global variable: ConstitDocumentHandler.WORD_ELEMENT_NAME was used in following file(s)
+In total, the ConstitDocumentHandler.WORD_ELEMENT_NAME was used 0 times.
+
+The global variable: ConstitDocumentHandler.SENT_TYPE_NAME was used in following file(s)
+In total, the ConstitDocumentHandler.SENT_TYPE_NAME was used 0 times.
+
+The global variable: AnnotationConfiguration.SPAN_TYPE was used in following file(s)
+BratAnnotationStream.java
+In total, the AnnotationConfiguration.SPAN_TYPE was used 1 times.
+
+The global variable: AnnotationConfiguration.ENTITY_TYPE was used in following file(s)
+AnnotationConfiguration.java
+BratAnnotationStream.java
+BratAnnotationStreamTest.java
+BratAnnotationStreamTest.java
+BratAnnotationStreamTest.java
+BratAnnotationStreamTest.java
+In total, the AnnotationConfiguration.ENTITY_TYPE was used 6 times.
+
+The global variable: AnnotationConfiguration.RELATION_TYPE was used in following file(s)
+AnnotationConfiguration.java
+BratAnnotationStream.java
+BratAnnotationStreamTest.java
+In total, the AnnotationConfiguration.RELATION_TYPE was used 3 times.
+
+The global variable: AnnotationConfiguration.ATTRIBUTE_TYPE was used in following file(s)
+AnnotationConfiguration.java
+BratAnnotationStream.java
+In total, the AnnotationConfiguration.ATTRIBUTE_TYPE was used 2 times.
+
+The global variable: BratAnnotationStream.ID_OFFSET was used in following file(s)
+In total, the BratAnnotationStream.ID_OFFSET was used 0 times.
+
+The global variable: BratAnnotationStream.TYPE_OFFSET was used in following file(s)
+In total, the BratAnnotationStream.TYPE_OFFSET was used 0 times.
+
+The global variable: BratAnnotationStream.BEGIN_OFFSET was used in following file(s)
+In total, the BratAnnotationStream.BEGIN_OFFSET was used 0 times.
+
+The global variable: BratAnnotationStream.END_OFFSET was used in following file(s)
+In total, the BratAnnotationStream.END_OFFSET was used 0 times.
+
+The global variable: BratAnnotationStream.ARG1_OFFSET was used in following file(s)
+In total, the BratAnnotationStream.ARG1_OFFSET was used 0 times.
+
+The global variable: BratAnnotationStream.ARG2_OFFSET was used in following file(s)
+In total, the BratAnnotationStream.ARG2_OFFSET was used 0 times.
+
+The global variable: BratAnnotationStream.ATTACHED_TO_OFFSET was used in following file(s)
+In total, the BratAnnotationStream.ATTACHED_TO_OFFSET was used 0 times.
+
+The global variable: BratAnnotationStream.VALUE_OFFSET was used in following file(s)
+In total, the BratAnnotationStream.VALUE_OFFSET was used 0 times.
+
+The global variable: ADChunkSampleStream.OTHER was used in following file(s)
+In total, the ADChunkSampleStream.OTHER was used 0 times.
+
+The global variable: ADNameSampleStream.tagPattern was used in following file(s)
+In total, the ADNameSampleStream.tagPattern was used 0 times.
+
+The global variable: ADNameSampleStream.whitespacePattern was used in following file(s)
+In total, the ADNameSampleStream.whitespacePattern was used 0 times.
+
+The global variable: ADNameSampleStream.underlinePattern was used in following file(s)
+In total, the ADNameSampleStream.underlinePattern was used 0 times.
+
+The global variable: ADNameSampleStream.hyphenPattern was used in following file(s)
+In total, the ADNameSampleStream.hyphenPattern was used 0 times.
+
+The global variable: ADNameSampleStream.alphanumericPattern was used in following file(s)
+In total, the ADNameSampleStream.alphanumericPattern was used 0 times.
+
+The global variable: ADNameSampleStream.HAREM was used in following file(s)
+In total, the ADNameSampleStream.HAREM was used 0 times.
+
+The global variable: PortugueseContractionUtility.CONTRACTIONS was used in following file(s)
+In total, the PortugueseContractionUtility.CONTRACTIONS was used 0 times.
+
+The global variable: ADSentenceStream.META_LABEL_FINAL was used in following file(s)
+In total, the ADSentenceStream.META_LABEL_FINAL was used 0 times.
+
+The global variable: ADSentenceStream.sentStart was used in following file(s)
+In total, the ADSentenceStream.sentStart was used 0 times.
+
+The global variable: ADSentenceStream.sentEnd was used in following file(s)
+In total, the ADSentenceStream.sentEnd was used 0 times.
+
+The global variable: ADSentenceStream.extEnd was used in following file(s)
+In total, the ADSentenceStream.extEnd was used 0 times.
+
+The global variable: ADSentenceStream.titleStart was used in following file(s)
+In total, the ADSentenceStream.titleStart was used 0 times.
+
+The global variable: ADSentenceStream.titleEnd was used in following file(s)
+In total, the ADSentenceStream.titleEnd was used 0 times.
+
+The global variable: ADSentenceStream.boxStart was used in following file(s)
+In total, the ADSentenceStream.boxStart was used 0 times.
+
+The global variable: ADSentenceStream.boxEnd was used in following file(s)
+In total, the ADSentenceStream.boxEnd was used 0 times.
+
+The global variable: ADSentenceStream.paraStart was used in following file(s)
+In total, the ADSentenceStream.paraStart was used 0 times.
+
+The global variable: ADSentenceStream.textStart was used in following file(s)
+In total, the ADSentenceStream.textStart was used 0 times.
+
+The global variable: DoccatFactory.FEATURE_GENERATORS was used in following file(s)
+In total, the DoccatFactory.FEATURE_GENERATORS was used 0 times.
+
+The global variable: DoccatFactory.TOKENIZER_NAME was used in following file(s)
+In total, the DoccatFactory.TOKENIZER_NAME was used 0 times.
+
+The global variable: DoccatModel.COMPONENT_NAME was used in following file(s)
+In total, the DoccatModel.COMPONENT_NAME was used 0 times.
+
+The global variable: DoccatModel.DOCCAT_MODEL_ENTRY_NAME was used in following file(s)
+In total, the DoccatModel.DOCCAT_MODEL_ENTRY_NAME was used 0 times.
+
+The global variable: DocumentCategorizerME.defaultFeatureGenerator was used in following file(s)
+In total, the DocumentCategorizerME.defaultFeatureGenerator was used 0 times.
+
+The global variable: DictionarySerializer.CHARSET was used in following file(s)
+In total, the DictionarySerializer.CHARSET was used 0 times.
+
+The global variable: DictionarySerializer.DICTIONARY_ELEMENT was used in following file(s)
+In total, the DictionarySerializer.DICTIONARY_ELEMENT was used 0 times.
+
+The global variable: DictionarySerializer.ENTRY_ELEMENT was used in following file(s)
+In total, the DictionarySerializer.ENTRY_ELEMENT was used 0 times.
+
+The global variable: DictionarySerializer.TOKEN_ELEMENT was used in following file(s)
+In total, the DictionarySerializer.TOKEN_ELEMENT was used 0 times.
+
+The global variable: DictionarySerializer.ATTRIBUTE_CASE_SENSITIVE was used in following file(s)
+In total, the DictionarySerializer.ATTRIBUTE_CASE_SENSITIVE was used 0 times.
+
+The global variable: .argumentFactories was used in following file(s)
+In total, the .argumentFactories was used 0 times.
+
+The global variable: CLI.CMD was used in following file(s)
+AbstractConverterTool.java
+AbstractTypedParamTool.java
+ChunkerMETool.java
+CmdLineTool.java
+DoccatTool.java
+EntityLinkerTool.java
+TokenNameFinderTool.java
+ParserTool.java
+TaggerModelReplacerTool.java
+POSTaggerTool.java
+SentenceDetectorTool.java
+DictionaryDetokenizerTool.java
+SimpleTokenizerTool.java
+TokenizerMETool.java
+TypedCmdLineTool.java
+In total, the CLI.CMD was used 15 times.
+
+The global variable: CLI.toolLookupMap was used in following file(s)
+In total, the CLI.toolLookupMap was used 0 times.
+
+The global variable: CmdLineUtil.IO_BUFFER_SIZE was used in following file(s)
+ModelLoader.java
+In total, the CmdLineUtil.IO_BUFFER_SIZE was used 1 times.
+
+The global variable: DetailedFMeasureListener.PERCENT was used in following file(s)
+In total, the DetailedFMeasureListener.PERCENT was used 0 times.
+
+The global variable: DetailedFMeasureListener.FORMAT was used in following file(s)
+In total, the DetailedFMeasureListener.FORMAT was used 0 times.
+
+The global variable: DetailedFMeasureListener.FORMAT_EXTRA was used in following file(s)
+In total, the DetailedFMeasureListener.FORMAT_EXTRA was used 0 times.
+
+The global variable: StreamFactoryRegistry.registry was used in following file(s)
+In total, the StreamFactoryRegistry.registry was used 0 times.
+
+The global variable: StreamFactoryRegistry.DEFAULT_FORMAT was used in following file(s)
+AbstractConverterTool.java
+AbstractConverterTool.java
+AbstractConverterTool.java
+AbstractTypedParamTool.java
+AbstractTypedParamTool.java
+CLI.java
+TypedCmdLineTool.java
+ChunkerSampleStreamFactory.java
+NameToSentenceSampleStreamFactory.java
+NameToTokenSampleStreamFactory.java
+ParseToPOSSampleStreamFactory.java
+ParseToSentenceSampleStreamFactory.java
+ParseToTokenSampleStreamFactory.java
+POSToSentenceSampleStreamFactory.java
+POSToTokenSampleStreamFactory.java
+DocumentSampleStreamFactory.java
+NameSampleDataStreamFactory.java
+ParseSampleStreamFactory.java
+SentenceSampleStreamFactory.java
+TokenSampleStreamFactory.java
+WordTagSampleStreamFactory.java
+In total, the StreamFactoryRegistry.DEFAULT_FORMAT was used 21 times.
+
+The global variable: TerminateToolException.serialVersionUID was used in following file(s)
+In total, the TerminateToolException.serialVersionUID was used 0 times.
+
+The global variable: ParserTool.untokenizedParenPattern1 was used in following file(s)
+In total, the ParserTool.untokenizedParenPattern1 was used 0 times.
+
+The global variable: ParserTool.untokenizedParenPattern2 was used in following file(s)
+In total, the ParserTool.untokenizedParenPattern2 was used 0 times.
+
+The global variable: POSTaggerFineGrainedReportListener.alpha was used in following file(s)
+In total, the POSTaggerFineGrainedReportListener.alpha was used 0 times.
+
+The global variable: DoccatFineGrainedReportListener.alpha was used in following file(s)
+In total, the DoccatFineGrainedReportListener.alpha was used 0 times.
+
+The global variable: ChunkerME.DEFAULT_BEAM_SIZE was used in following file(s)
+ChunkerCrossValidator.java
+ChunkerME.java
+ChunkerModel.java
+ChunkerModel.java
+ChunkerModel.java
+ParserChunkerFactory.java
+In total, the ChunkerME.DEFAULT_BEAM_SIZE was used 6 times.
+
+The global variable: ChunkerModel.COMPONENT_NAME was used in following file(s)
+In total, the ChunkerModel.COMPONENT_NAME was used 0 times.
+
+The global variable: ChunkerModel.CHUNKER_MODEL_ENTRY_NAME was used in following file(s)
+In total, the ChunkerModel.CHUNKER_MODEL_ENTRY_NAME was used 0 times.
+
