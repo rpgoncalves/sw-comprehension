@@ -1,0 +1,1073 @@
+
+*****************************************************************
+Finding Global Variables and its uses for the follwoing system
+	/Users/sungsooahn/Downloads/freemind/freemind
+*****************************************************************
+
+
+
+*****************************************************************
+# of global variable in source files: 261
+
+# of public static (strong coupling) variable in source files: 222
+
+# of protected static (weak coupling) variable in source files: 39
+
+*****************************************************************
+
+
+0 classes used freemind.common.OptionalDontShowMeAgainDialog.logger
+
+
+1 classes used freemind.modes.EdgeAdapter.INT_EDGESTYLE_LINEAR
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/NodeViewFactory.java, Value = 1
+
+
+0 classes used freemind.extensions.HookInstanciationMethod.OnceForAllNodes
+
+
+0 classes used freemind.main.FreeMindApplet.version
+
+
+1 classes used freemind.main.FreeMind.RESOURCES_DON_T_OPEN_PORT
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+0 classes used freemind.extensions.HookInstanciationMethod.OnceForRoot
+
+
+0 classes used freemind.modes.NodeAdapter.UNKNOWN_POSITION
+
+
+1 classes used freemind.preferences.layout.KeyEventWorkaround.ALTERNATIVE_DISPATCHER
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/KeyEventTranslator.java, Value = 2
+
+
+0 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.XML_STORAGE_ZOOM
+
+
+1 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.TILE_SOURCE_MAPNIK
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/browsemode/BrowseController.java, Value = 1
+
+
+0 classes used freemind.modes.mindmapmode.MindMapMapModel.EXPECTED_START_STRINGS
+
+
+2 classes used freemind.modes.EdgeAdapter.EDGESTYLE_SHARP_BEZIER
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/dialogs/StylePatternFrame.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapController.java, Value = 1
+
+
+2 classes used freemind.main.FreeMindCommon.ON_START_IF_NOT_SPECIFIED
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/controller/Controller.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/main/FreeMind.java, Value = 1
+
+
+2 classes used freemind.modes.EdgeAdapter.EDGESTYLE_BEZIER
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/dialogs/StylePatternFrame.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapController.java, Value = 1
+
+
+1 classes used freemind.modes.XMLElementAdapter.XML_NODE_TEXT
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/NodeAdapter.java, Value = 1
+
+
+0 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.XML_STORAGE_POS_LON
+
+
+0 classes used freemind.modes.mindmapmode.actions.MindMapActions.NEW_SIBLING_BEFORE
+
+
+0 classes used freemind.modes.mindmapmode.dialogs.StylePatternFrame$StylePatternFrameType.WITHOUT_NAME_AND_CHILDS
+
+
+0 classes used freemind.main.FreeMind.RESOURCES_EXECUTE_SCRIPTS_WITHOUT_FILE_RESTRICTION
+
+
+1 classes used freemind.common.BooleanProperty.FALSE_VALUE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/controller/Controller.java, Value = 1
+
+
+1 classes used freemind.extensions.HookInstanciationMethod.Other
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/extensions/HookDescriptorPluginAction.java, Value = 1
+
+
+1 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.TILE_SOURCE_CYCLE_MAP
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/browsemode/BrowseController.java, Value = 1
+
+
+2 classes used freemind.main.FreeMind.TOOLTIP_DISPLAY_TIME
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/NodeView.java, Value = 2
+
+
+6 classes used freemind.modes.MindMapNode.STYLE_FORK
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/ForkMainView.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapController.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/filemode/FileNodeModel.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/NodeAdapter.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/NodeViewFactory.java, Value = 1
+
+
+3 classes used freemind.main.FreeMind.RESOURCES_ROOT_NODE_STYLE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/RootMainView.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/NodeAdapter.java, Value = 2
+
+
+0 classes used freemind.modes.NodeAdapter.RIGHT_POSITION
+
+
+1 classes used freemind.main.FreeMind.RESOURCES_REMOVE_NOTES_WITHOUT_QUESTION
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+
+
+0 classes used freemind.main.FreeMind.RESOURCES_DON_T_SHOW_CLONE_ICONS
+
+
+0 classes used freemind.modes.mindmapmode.MindMapMapModel.RESTORE_MODE_MIND_MAP
+
+
+4 classes used freemind.main.FreeMindCommon.CHECK_SPELLING
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/main/FreeMind.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/EditNodeTextField.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/EditNodeBase.java, Value = 1
+
+
+0 classes used freemind.main.Tools.CONTENTS_JAVA_FREEMIND_JAR
+
+
+5 classes used freemind.modes.MindMapNode.STYLE_BUBBLE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapController.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/NodeAdapter.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/BubbleMainView.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/NodeViewFactory.java, Value = 1
+
+
+0 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.XML_STORAGE_MAP_LAT
+
+
+0 classes used freemind.main.Tools.FREE_MIND_APP_CONTENTS_RESOURCES_JAVA
+
+
+3 classes used freemind.modes.ModeController.NODESEPARATOR
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/PasteAction.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/EncryptedMindMapNode.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/browsemode/EncryptedBrowseNode.java, Value = 1
+
+
+1 classes used freemind.modes.common.plugins.ReminderHookBase.PLUGIN_LABEL
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/browsemode/BrowseHookFactory.java, Value = 1
+
+
+2 classes used freemind.view.mindmapview.NodeView.DRAGGED_OVER_SON
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/MainView.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/RootMainView.java, Value = 2
+
+
+1 classes used freemind.main.FreeMind.RESOURCES_DON_T_SHOW_NOTE_ICONS
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+
+
+0 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.XML_STORAGE_MAP_TOOLTIP_LOCATION
+
+
+0 classes used freemind.modes.XMLElementAdapter.logger
+
+
+1 classes used freemind.common.ThreeCheckBoxProperty.TRUE_VALUE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/dialogs/StylePatternFrame.java, Value = 3
+
+
+1 classes used freemind.extensions.PermanentNodeHookAdapter.PARAMETERS
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/NodeHookAction.java, Value = 2
+
+
+6 classes used freemind.main.FreeMindCommon.FREEMIND_FILE_EXTENSION
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/ExportBranchAction.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/PasteAction.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapController.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/main/FreeMind.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/ControllerAdapter.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapMapModel.java, Value = 1
+
+
+1 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.TILE_SOURCE_TRANSPORT_MAP
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/browsemode/BrowseController.java, Value = 1
+
+
+3 classes used freemind.main.FreeMindCommon.RESOURCE_LANGUAGE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/main/FreeMindStarter.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/main/FreeMind.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+
+
+0 classes used freemind.controller.MenuBar.EXTRAS_MENU
+
+
+2 classes used freemind.view.mindmapview.MainView.ZOOM_CORRECTION_FACTOR
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/attributeview/AttributeTableCellRenderer.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/EditNodeTextField.java, Value = 1
+
+
+2 classes used freemind.main.FreeMind.KEYSTROKE_PREVIOUS_MAP
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/controller/MenuBar.java, Value = 1
+
+
+0 classes used freemind.view.mindmapview.MindMapLayout.MINIMAL_LEAF_WIDTH
+
+
+2 classes used freemind.main.FreeMind.RESOURCES_SELECTED_NODE_RECTANGLE_COLOR
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/MapView.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+1 classes used freemind.modes.XMLElementAdapter.XML_NODE_HISTORY_LAST_MODIFIED_AT
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/NodeAdapter.java, Value = 1
+
+
+0 classes used freemind.common.ThreeCheckBoxProperty.FALSE_VALUE_INT
+
+
+0 classes used freemind.main.FreeMindMain.VERSION_TYPE_RELEASE
+
+
+2 classes used freemind.modes.attributes.AttributeRegistry.GLOBAL
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/attributeactors/MindMapModeAttributeController.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/attributeactors/SetAttributeRestrictedActor.java, Value = 2
+
+
+1 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.SHORT_MAPNIK
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/browsemode/BrowseController.java, Value = 1
+
+
+0 classes used freemind.main.Tools.JAVA_VERSION
+
+
+0 classes used freemind.modes.NodeAdapter.LEFT_POSITION
+
+
+0 classes used freemind.controller.MenuBar.MINDMAP_MENU
+
+
+1 classes used freemind.main.FreeMind.PROXY_IS_AUTHENTICATED
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+0 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.NODE_MAP_STORE_TOOLTIP
+
+
+0 classes used freemind.view.mindmapview.EditNodeBase.checkSpelling
+
+
+1 classes used freemind.main.FreeMind.PROXY_PASSWORD
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+1 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.TILE_SOURCE_MAP_QUEST_OPEN_MAP
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/browsemode/BrowseController.java, Value = 1
+
+
+0 classes used freemind.main.FreeMindMain.VERSION_TYPE_ALPHA
+
+
+2 classes used freemind.modes.mindmapmode.MindMapMapModel.MAP_INITIAL_START
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/PasteAction.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/EncryptedMindMapNode.java, Value = 2
+
+
+1 classes used freemind.common.ThreeCheckBoxProperty.FALSE_VALUE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/dialogs/StylePatternFrame.java, Value = 2
+
+
+0 classes used freemind.view.mindmapview.NodeViewLayoutAdapter.logger
+
+
+1 classes used freemind.main.FreeMindCommon.POSTFIX_TRANSLATE_ME
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/main/Tools.java, Value = 2
+
+
+0 classes used freemind.main.FreeMindApplet.userProps
+
+
+2 classes used freemind.main.FreeMind.KEYSTROKE_MOVE_MAP_RIGHT
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/controller/MenuBar.java, Value = 1
+
+
+2 classes used freemind.modes.EdgeAdapter.EDGE_WIDTH_THIN_STRING
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/ApplyPatternAction.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/XMLElementAdapter.java, Value = 1
+
+
+2 classes used freemind.main.FreeMind.RESOURCES_NODE_STYLE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/NodeAdapter.java, Value = 1
+
+
+2 classes used freemind.modes.MindMapNode.STYLE_AS_PARENT
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/dialogs/StylePatternFrame.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/NodeAdapter.java, Value = 3
+
+
+0 classes used freemind.main.Tools.executableExtensions
+
+
+0 classes used freemind.view.mindmapview.MindMapLayout.logger
+
+
+1 classes used freemind.modes.common.dialogs.EnterPasswordDialog.CANCEL
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/browsemode/EncryptedBrowseNode.java, Value = 1
+
+
+0 classes used freemind.view.mindmapview.EditNodeBase.BUTTON_CANCEL
+
+
+1 classes used freemind.main.FreeMind.PROXY_USE_SETTINGS
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+1 classes used freemind.modes.XMLElementAdapter.XML_NODE_ENCRYPTED_CONTENT
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/NodeAdapter.java, Value = 1
+
+
+1 classes used freemind.modes.MindIcon.PROPERTY_STRING_ICONS_LIST
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+
+
+0 classes used freemind.controller.MenuBar.POPUP_MENU
+
+
+1 classes used freemind.main.FreeMind.PROXY_PORT
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+0 classes used freemind.main.FreeMind.RESOURCES_SCRIPT_USER_KEY_NAME_FOR_SIGNING
+
+
+1 classes used freemind.controller.StructuredMenuHolder.AMOUNT_OF_VISIBLE_MENU_ITEMS
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+7 classes used freemind.modes.EdgeAdapter.WIDTH_THIN
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/ApplyPatternAction.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/StylePattern.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/dialogs/StylePatternFrame.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapController.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/XMLElementAdapter.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/EdgeView.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/EdgeWidthAction.java, Value = 1
+
+
+0 classes used freemind.modes.mindmapmode.MindMapMapModel.FREEMIND_VERSION_UPDATER_XSLT
+
+
+0 classes used freemind.controller.MenuBar.MODES_MENU
+
+
+0 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.XML_STORAGE_TILE_SOURCE
+
+
+1 classes used freemind.view.mindmapview.NodeView.DRAGGED_OVER_SON_LEFT
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/RootMainView.java, Value = 2
+
+
+2 classes used freemind.modes.EdgeAdapter.INT_EDGESTYLE_SHARP_LINEAR
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/ForkMainView.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/NodeViewFactory.java, Value = 1
+
+
+1 classes used freemind.modes.XMLElementAdapter.XML_NODE_ATTRIBUTE_LAYOUT
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/attributes/NodeAttributeTableModel.java, Value = 1
+
+
+0 classes used freemind.modes.common.dialogs.EnterPasswordDialog.OK
+
+
+5 classes used freemind.modes.MindIcon.LAST
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/NodeAdapter.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/XMLElementAdapter.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/RemoveIconAction.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/RemoveAllIconsAction.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/IconAction.java, Value = 1
+
+
+1 classes used freemind.preferences.layout.KeyEventWorkaround.ALT_KEY_PRESSED_DISABLED
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/KeyEventTranslator.java, Value = 1
+
+
+1 classes used freemind.main.FreeMind.RESOURCES_EXECUTE_SCRIPTS_WITHOUT_ASKING
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+
+
+3 classes used freemind.controller.MenuBar.EDIT_MENU
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/filemode/FileController.java, Value = 3
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/browsemode/BrowseController.java, Value = 6
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/schememode/SchemeController.java, Value = 2
+
+
+0 classes used freemind.modes.mindmapmode.dialogs.StylePatternFrame$StylePatternFrameType.WITH_NAME_AND_CHILDS
+
+
+2 classes used freemind.main.FreeMind.RESOURCES_DELETE_NODES_WITHOUT_QUESTION
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/DeleteChildAction.java, Value = 1
+
+
+0 classes used freemind.main.HtmlTools.SP
+
+
+3 classes used freemind.modes.EdgeAdapter.WIDTH_PARENT
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/dialogs/StylePatternFrame.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapController.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/EdgeWidthAction.java, Value = 1
+
+
+2 classes used freemind.main.FreeMind.RESOURCES_LINK_COLOR
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/LinkAdapter.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+0 classes used freemind.main.FreeMind.RESOURCES_SIGNED_SCRIPT_ARE_TRUSTED
+
+
+0 classes used freemind.modes.common.plugins.ReminderHookBase.REMINDUSERAT
+
+
+0 classes used freemind.main.FreeMind.RESOURCES_CLONE_TYPE_COMPLETE_CLONE
+
+
+1 classes used freemind.modes.XMLElementAdapter.XML_NODE_XHTML_TYPE_NOTE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/NodeAdapter.java, Value = 1
+
+
+1 classes used freemind.controller.MindMapNodesSelection.htmlFlavor
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/PasteAction.java, Value = 5
+
+
+0 classes used freemind.controller.Controller.localDocumentationLinkConverter
+
+
+2 classes used freemind.main.FreeMind.RESOURCES_DISPLAY_FOLDING_BUTTONS
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/NodeFoldingComponent.java, Value = 1
+
+
+1 classes used freemind.modes.XMLElementAdapter.XML_NODE_REGISTERED_ATTRIBUTE_NAME
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/attributes/AttributeRegistryElement.java, Value = 1
+
+
+1 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.SHORT_CYCLE_MAP
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/browsemode/BrowseController.java, Value = 1
+
+
+1 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.SHORT_TRANSPORT_MAP
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/browsemode/BrowseController.java, Value = 1
+
+
+2 classes used freemind.modes.common.plugins.NodeNoteBase.NODE_NOTE_ICON
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/controller/filter/FilterController.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/browsemode/BrowseController.java, Value = 1
+
+
+0 classes used freemind.controller.LastStateStorageManagement.logger
+
+
+2 classes used freemind.modes.attributes.AttributeTableLayoutModel.DEFAULT_COLUMN_WIDTH
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/XMLElementAdapter.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/attributes/NodeAttributeTableModel.java, Value = 2
+
+
+0 classes used freemind.controller.filter.Filter.FILTER_INITIAL_VALUE
+
+
+2 classes used freemind.modes.NodeAdapter.VGAP
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/MoveNodeAction.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/listeners/MindMapNodeMotionListener.java, Value = 1
+
+
+1 classes used freemind.preferences.layout.GrabKeyDialog.MODIFIER_SEPARATOR
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/KeyEventTranslator.java, Value = 4
+
+
+2 classes used freemind.view.mindmapview.NodeView.DRAGGED_OVER_NO
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/MainView.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/listeners/MindMapNodeDropListener.java, Value = 2
+
+
+1 classes used freemind.modes.XMLElementAdapter.XML_NODE_XHTML_TYPE_NODE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/NodeAdapter.java, Value = 1
+
+
+2 classes used freemind.common.OptionalDontShowMeAgainDialog.BOTH_OK_AND_CANCEL_OPTIONS_ARE_STORED
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapController.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/EditAction.java, Value = 1
+
+
+0 classes used freemind.controller.filter.condition.ConditionRenderer.SELECTED_BACKGROUND
+
+
+0 classes used freemind.extensions.HookInstanciationMethod.ApplyToRoot
+
+
+0 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.sMapLocationIcon
+
+
+0 classes used freemind.controller.MenuBar.HELP_MENU
+
+
+3 classes used freemind.main.FreeMind.RESOURCES_BACKGROUND_COLOR
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/MapView.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/dialogs/StylePatternFrame.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+0 classes used freemind.modes.mindmapmode.actions.MindMapActions.NEW_SIBLING_BEHIND
+
+
+2 classes used freemind.main.FreeMindCommon.LOAD_LAST_MAPS_AND_LAYOUT
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/main/FreeMind.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+2 classes used freemind.common.BooleanProperty.TRUE_VALUE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/controller/Controller.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/dialogs/StylePatternFrame.java, Value = 2
+
+
+0 classes used freemind.controller.MenuBar.VIEW_MENU
+
+
+0 classes used freemind.main.FreeMind.RESOURCES_EXECUTE_SCRIPTS_WITHOUT_EXEC_RESTRICTION
+
+
+0 classes used freemind.view.mindmapview.NodeFoldingComponent.logger
+
+
+2 classes used freemind.main.FreeMind.RESOURCES_CONVERT_TO_CURRENT_VERSION
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapMapModel.java, Value = 1
+
+
+0 classes used freemind.main.FreeMindApplet.defaultProps
+
+
+0 classes used freemind.modes.FreeMindAwtFileDialog.logger
+
+
+2 classes used freemind.controller.MindMapNodesSelection.mindMapNodesFlavor
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/PasteAction.java, Value = 3
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/ControllerAdapter.java, Value = 1
+
+
+0 classes used freemind.modes.XMLElementAdapter.XML_NODE_CLASS
+
+
+0 classes used freemind.main.XMLElement.NANOXML_MINOR_VERSION
+
+
+0 classes used freemind.modes.mindmapmode.actions.MindMapActions.NEW_CHILD
+
+
+2 classes used freemind.main.FreeMind.RESOURCES_SELECTED_NODE_COLOR
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/MapView.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+0 classes used freemind.main.XMLParseException.NO_LINE
+
+
+0 classes used freemind.modes.CloudAdapter.RESOURCES_STANDARDCLOUDSTYLE
+
+
+2 classes used freemind.main.FreeMind.RESOURCES_RELOAD_FILES_WITHOUT_QUESTION
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapController.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+
+
+3 classes used freemind.main.FreeMind.RESOURCES_EDGE_COLOR
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/dialogs/StylePatternFrame.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/EdgeAdapter.java, Value = 2
+
+
+3 classes used freemind.main.FreeMind.RESOURCE_DRAW_RECTANGLE_FOR_SELECTION
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/controller/Controller.java, Value = 3
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/MapView.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+1 classes used freemind.modes.attributes.AttributeTableLayoutModel.SHOW_SELECTED
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/controller/Controller.java, Value = 3
+
+
+0 classes used freemind.main.Tools.FREEMIND_LIB_FREEMIND_JAR
+
+
+1 classes used freemind.modes.EdgeAdapter.INT_EDGESTYLE_BEZIER
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/NodeViewFactory.java, Value = 1
+
+
+1 classes used freemind.view.mindmapview.NodeView.DRAGGED_OVER_SIBLING
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/MainView.java, Value = 2
+
+
+0 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.NODE_MAP_LOCATION_ICON
+
+
+0 classes used freemind.view.mindmapview.EdgeView.DEF_STROKE
+
+
+2 classes used freemind.main.FreeMind.RESOURCES_CLOUD_COLOR
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/CloudAdapter.java, Value = 2
+
+
+0 classes used freemind.main.XMLElement.XML_NODE_XHTML_CONTENT_END_TAG_REGEXP
+
+
+1 classes used freemind.main.FreeMindCommon.LOAD_NEW_MAP
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/main/FreeMind.java, Value = 1
+
+
+2 classes used freemind.main.FreeMind.RESOURCES_WHEEL_VELOCITY
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/common/listeners/MindMapMouseWheelEventHandler.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+
+
+0 classes used freemind.main.FreeMindMain.VERSION_TYPE_BETA
+
+
+0 classes used freemind.controller.StructuredMenuHolder.ICON_SIZE
+
+
+2 classes used freemind.main.FreeMind.RESOURCES_CUT_NODES_WITHOUT_QUESTION
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/CutAction.java, Value = 1
+
+
+2 classes used freemind.modes.EdgeAdapter.EDGESTYLE_LINEAR
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/dialogs/StylePatternFrame.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapController.java, Value = 1
+
+
+2 classes used freemind.modes.EdgeAdapter.EDGESTYLE_SHARP_LINEAR
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/dialogs/StylePatternFrame.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapController.java, Value = 1
+
+
+0 classes used freemind.controller.FreeMindPopupMenu.logger
+
+
+1 classes used freemind.main.FreeMind.RESOURCES_USE_TABBED_PANE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+
+
+0 classes used freemind.main.FreeMind.RESOURCES_USE_MARGIN_TOP_ZERO_FOR_NOTES
+
+
+2 classes used freemind.main.FreeMind.RESOURCES_SAVE_FOLDING_STATE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/ToggleFoldedAction.java, Value = 1
+
+
+1 classes used freemind.main.FreeMind.PROXY_HOST
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+0 classes used freemind.main.FreeMind.LOG_FILE_NAME
+
+
+0 classes used freemind.modes.browsemode.EncryptedBrowseNode.logger
+
+
+0 classes used freemind.extensions.HookDescriptorBase.FREEMIND_BASE_DIR_STRING
+
+
+0 classes used freemind.common.ThreeCheckBoxProperty.DON_T_TOUCH_VALUE_INT
+
+
+0 classes used freemind.view.mindmapview.EditNodeBase.BUTTON_OK
+
+
+0 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.NODE_MAP_SHOW_TOOLTIP
+
+
+0 classes used freemind.modes.StylePatternFactory.FALSE_VALUE
+
+
+2 classes used freemind.main.FreeMind.RESOURCE_PRINT_ON_WHITE_BACKGROUND
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/MapView.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+1 classes used freemind.controller.MenuBar.FORMAT_MENU
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapController.java, Value = 1
+
+
+0 classes used freemind.main.FreeMind.props
+
+
+1 classes used freemind.modes.XMLElementAdapter.XML_NODE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/NodeAdapter.java, Value = 1
+
+
+0 classes used freemind.modes.MindMapLinkRegistry.logger
+
+
+2 classes used freemind.main.FreeMind.XML_VERSION
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/PasteAction.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapMapModel.java, Value = 2
+
+
+1 classes used freemind.main.FreeMindMain.ENABLE_NODE_MOVEMENT
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/NodeView.java, Value = 1
+
+
+0 classes used freemind.preferences.layout.OptionPanel.changeListeners
+
+
+1 classes used freemind.controller.MenuBar.INSERT_MENU
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapController.java, Value = 1
+
+
+0 classes used freemind.modes.LinkAdapter.RESOURCES_STANDARDLINKSTYLE
+
+
+1 classes used freemind.modes.XMLElementAdapter.XML_NODE_ATTRIBUTE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/attributes/NodeAttributeTableModel.java, Value = 1
+
+
+1 classes used freemind.main.FreeMind.HORIZONTAL_SPLIT_RIGHT
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+
+
+0 classes used freemind.main.FreeMind.VERSION
+
+
+2 classes used freemind.modes.NodeAdapter.HGAP
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/MoveNodeAction.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/listeners/MindMapNodeMotionListener.java, Value = 1
+
+
+0 classes used freemind.main.XMLElement.XML_NODE_XHTML_CONTENT_TAG
+
+
+3 classes used freemind.main.FreeMindCommon.FREEMIND_FILE_EXTENSION_WITHOUT_DOT
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/ExportBranchAction.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapController.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/ControllerAdapter.java, Value = 2
+
+
+0 classes used freemind.modes.mindmapmode.MindMapToolBar.logger
+
+
+0 classes used freemind.main.FreeMind.RESOURCES_EXECUTE_SCRIPTS_WITHOUT_NETWORK_RESTRICTION
+
+
+0 classes used freemind.extensions.HookInstanciationMethod.Once
+
+
+0 classes used freemind.controller.LastStateStorageManagement.LIST_AMOUNT_LIMIT
+
+
+0 classes used freemind.main.HtmlTools.NBSP
+
+
+2 classes used freemind.modes.MindMapNode.STYLE_COMBINED
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/NodeAdapter.java, Value = 1
+
+
+1 classes used freemind.modes.XMLElementAdapter.XML_NODE_ATTRIBUTE_REGISTRY
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/attributes/AttributeRegistry.java, Value = 1
+
+
+0 classes used freemind.modes.mindmapmode.actions.NodeGeneralAction.logger
+
+
+1 classes used freemind.modes.browsemode.BrowseMode.MODENAME
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/controller/Controller.java, Value = 1
+
+
+3 classes used freemind.main.FreeMind.RESOURCES_NODE_TEXT_COLOR
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/MapView.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/dialogs/StylePatternFrame.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+1 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.NODE_MAP_HOOK_NAME
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/browsemode/BrowseHookFactory.java, Value = 1
+
+
+0 classes used freemind.controller.MindMapNodesSelection.copyNodeIdsFlavor
+
+
+2 classes used freemind.main.FreeMindCommon.SAVE_ONLY_INTRISICALLY_NEEDED_IDS
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/NodeAdapter.java, Value = 1
+
+
+1 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.SHORT_MAP_QUEST_OPEN_MAP
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/browsemode/BrowseController.java, Value = 1
+
+
+1 classes used freemind.main.FreeMind.RESOURCES_COMPLETE_CLONING
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+0 classes used freemind.modes.MapAdapter.logger
+
+
+0 classes used freemind.modes.StylePatternFactory.TRUE_VALUE
+
+
+2 classes used freemind.view.mindmapview.NodeView.dragColor
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/MainView.java, Value = 3
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/RootMainView.java, Value = 2
+
+
+0 classes used freemind.main.FreeMind.RESOURCES_USE_SPLIT_PANE
+
+
+2 classes used freemind.modes.EdgeAdapter.INT_EDGESTYLE_SHARP_BEZIER
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/ForkMainView.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/NodeViewFactory.java, Value = 1
+
+
+4 classes used freemind.main.FreeMindCommon.RESOURCE_ANTIALIAS
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/controller/Controller.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/main/FreeMindApplet.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/main/FreeMind.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+
+
+1 classes used freemind.common.ThreeCheckBoxProperty.DON_T_TOUCH_VALUE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/dialogs/StylePatternFrame.java, Value = 2
+
+
+0 classes used freemind.main.FreeMindCommon.DEFAULT_LANGUAGE
+
+
+2 classes used freemind.main.FreeMind.KEYSTROKE_MOVE_MAP_LEFT
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/controller/MenuBar.java, Value = 1
+
+
+0 classes used freemind.main.FreeMind.RESOURCES_SEARCH_FOR_NODE_TEXT_WITHOUT_QUESTION
+
+
+2 classes used freemind.main.FreeMindCommon.LOAD_LAST_MAP
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/main/FreeMind.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+3 classes used freemind.common.OptionalDontShowMeAgainDialog.ONLY_OK_SELECTION_IS_STORED
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapMapModel.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/DeleteChildAction.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/CutAction.java, Value = 1
+
+
+2 classes used freemind.main.FreeMind.RESOURCES_SEARCH_IN_NOTES_TOO
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/common/actions/FindAction.java, Value = 3
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+0 classes used freemind.view.mindmapview.EditNodeBase.BUTTON_SPLIT
+
+
+2 classes used freemind.controller.MindMapNodesSelection.fileListFlavor
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/PasteAction.java, Value = 3
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/listeners/MindMapNodeDropListener.java, Value = 1
+
+
+2 classes used freemind.main.FreeMind.KEYSTROKE_NEXT_MAP
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/controller/MenuBar.java, Value = 1
+
+
+0 classes used freemind.main.FreeMindCommon.LOCAL_PROPERTIES
+
+
+1 classes used freemind.main.FreeMind.J_SPLIT_PANE_SPLIT_TYPE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+4 classes used freemind.modes.attributes.AttributeTableLayoutModel.SHOW_ALL
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/controller/Controller.java, Value = 3
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/attributeview/AttributePopupMenu.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/attributeview/AttributeView.java, Value = 3
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/attributes/AttributeRegistry.java, Value = 2
+
+
+1 classes used freemind.main.FreeMind.RESOURCES_DON_T_SHOW_NOTE_TOOLTIPS
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+
+
+2 classes used freemind.view.mindmapview.MapView.standardNodeTextColor
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/MindMapController.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/NodeView.java, Value = 2
+
+
+3 classes used freemind.main.FreeMindCommon.MINDMAP_LAST_STATE_MAP_STORAGE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/controller/Controller.java, Value = 2
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/main/FreeMind.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/ControllerAdapter.java, Value = 3
+
+
+0 classes used freemind.main.FreeMindMain.VERSION_TYPE_RC
+
+
+0 classes used freemind.common.ThreeCheckBoxProperty.TRUE_VALUE_INT
+
+
+0 classes used freemind.modes.mindmapmode.actions.MindMapActions.NEW_CHILD_WITHOUT_FOCUS
+
+
+0 classes used freemind.modes.mindmapmode.actions.UndoPasteHandler.logger
+
+
+0 classes used freemind.controller.MenuBar.GENERAL_POPUP_PREFIX
+
+
+1 classes used freemind.modes.XMLElementAdapter.XML_NODE_HISTORY_CREATED_AT
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/NodeAdapter.java, Value = 1
+
+
+0 classes used freemind.controller.MenuBar.NAVIGATE_MENU
+
+
+2 classes used freemind.main.FreeMind.RESOURCES_REMIND_USE_RICH_TEXT_IN_NEW_LONG_NODES
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/EditAction.java, Value = 1
+
+
+0 classes used freemind.modes.mindmapmode.hooks.MindMapHookFactory.allRegistrations
+
+
+2 classes used freemind.modes.MindMapNode.NODE_STYLES
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/dialogs/StylePatternFrame.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+
+
+1 classes used freemind.controller.Controller.JAVA_VERSION
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/MapView.java, Value = 1
+
+
+1 classes used freemind.main.FreeMindCommon.LOAD_EVENT_DURING_STARTUP
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/main/FreeMind.java, Value = 1
+
+
+2 classes used freemind.main.FreeMind.RESOURCES_EDGE_STYLE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/EdgeAdapter.java, Value = 2
+
+
+1 classes used freemind.controller.MindMapNodesSelection.rtfFlavor
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/actions/PasteAction.java, Value = 1
+
+
+1 classes used freemind.main.FreeMind.PROXY_USER
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+0 classes used freemind.main.XMLElement.NANOXML_MAJOR_VERSION
+
+
+0 classes used freemind.modes.mindmapmode.actions.UndoAction.logger
+
+
+0 classes used freemind.main.EditServer.logger
+
+
+0 classes used freemind.modes.LineAdapter.DEFAULT_WIDTH
+
+
+2 classes used freemind.main.FreeMind.RESOURCES_SELECTION_METHOD
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/controller/Controller.java, Value = 1
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 2
+
+
+0 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.XML_STORAGE_POS_LAT
+
+
+1 classes used freemind.modes.XMLElementAdapter.XML_NODE_REGISTERED_ATTRIBUTE_VALUE
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/attributes/AttributeRegistryElement.java, Value = 1
+
+
+1 classes used freemind.modes.XMLElementAdapter.XML_NODE_XHTML_TYPE_TAG
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/NodeAdapter.java, Value = 2
+
+
+0 classes used freemind.modes.NodeAdapter.logger
+
+
+0 classes used freemind.modes.XMLElementAdapter.XML_NODE_ADDITIONAL_INFO
+
+
+0 classes used freemind.modes.common.plugins.MapNodePositionHolderBase.XML_STORAGE_MAP_LON
+
+
+0 classes used freemind.view.mindmapview.EditNodeTextField.logger
+
+
+1 classes used freemind.controller.MenuBar.FILE_MENU
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/schememode/SchemeController.java, Value = 4
+
+
+0 classes used freemind.controller.MenuBar.MENU_BAR_PREFIX
+
+
+2 classes used freemind.modes.attributes.AttributeTableLayoutModel.HIDE_ALL
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/controller/Controller.java, Value = 3
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/view/mindmapview/attributeview/AttributeView.java, Value = 1
+
+
+1 classes used freemind.main.FreeMind.RESOURCE_LOOKANDFEEL
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+
+
+0 classes used freemind.modes.browsemode.BrowseToolBar.BROWSE_URL_STORAGE_KEY
+
+
+0 classes used freemind.main.FreeMind.RESOURCES_USE_DEFAULT_FONT_FOR_NOTES_TOO
+
+
+1 classes used freemind.main.FreeMind.VERTICAL_SPLIT_BELOW
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/preferences/layout/OptionPanel.java, Value = 1
+
+
+0 classes used freemind.main.Tools.ran
+
+
+1 classes used freemind.controller.MindMapNodesSelection.dropActionFlavor
+	Key = /Users/sungsooahn/Downloads/freemind/freemind/modes/mindmapmode/listeners/MindMapNodeDropListener.java, Value = 2
+
+
+0 classes used freemind.view.mindmapview.NodeMotionListenerView.logger
+
+
+*****************************************************************
+Top Ten Global Variables Used by Multiple Classes:
+*****************************************************************
+1. freemind.modes.EdgeAdapter.WIDTH_THIN were used in 7 classes
+2. freemind.main.FreeMindCommon.FREEMIND_FILE_EXTENSION were used in 6 classes
+3. freemind.modes.MindMapNode.STYLE_FORK were used in 6 classes
+4. freemind.modes.MindIcon.LAST were used in 5 classes
+5. freemind.modes.MindMapNode.STYLE_BUBBLE were used in 5 classes
+6. freemind.modes.attributes.AttributeTableLayoutModel.SHOW_ALL were used in 4 classes
+7. freemind.main.FreeMindCommon.RESOURCE_ANTIALIAS were used in 4 classes
+8. freemind.main.FreeMindCommon.CHECK_SPELLING were used in 4 classes
+9. freemind.main.FreeMindCommon.MINDMAP_LAST_STATE_MAP_STORAGE were used in 3 classes
+10. freemind.common.OptionalDontShowMeAgainDialog.ONLY_OK_SELECTION_IS_STORED were used in 3 classes
+
+
+
+
+*****************************************************************
+119 of global variables are never used in other files
+*****************************************************************
